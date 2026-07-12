@@ -1,0 +1,76 @@
+{
+  "identities": [
+    {
+      "id": "yisang_lcb",
+      "sinner": "yisang",
+      "name": "LCB Sinner Yi Sang",
+      "nameKo": "수감번호 이상",
+      "star": 1,
+      "keywords": ["sinking"],
+      "image": "",
+      "skills": [
+        { "slot": 1, "name": "Dimensional Slit", "sin": "gloom", "attackType": "slash", "coins": 2, "coinType": "normal" },
+        { "slot": 2, "name": "Sunshower", "sin": "sloth", "attackType": "pierce", "coins": 2, "coinType": "normal" },
+        { "slot": 3, "name": "Fluttering Cut", "sin": "gluttony", "attackType": "slash", "coins": 3, "coinType": "normal" }
+      ],
+      "defense": { "name": "Evade", "type": "evade", "sin": "sloth" },
+      "resists": { "slash": 1.0, "pierce": 0.5, "blunt": 2.0 },
+      "staggerThresholds": [50, 30],
+      "associations": ["LCB"]
+    },
+    {
+      "id": "yisang_blade_lineage",
+      "sinner": "yisang",
+      "name": "Blade Lineage Salsu Yi Sang",
+      "nameKo": "검계 살수 이상",
+      "star": 3,
+      "keywords": ["poise", "slash"],
+      "image": "",
+      "skills": [
+        { "slot": 1, "name": "Loyalty", "sin": "pride", "attackType": "slash", "coins": 1, "coinType": "normal" },
+        { "slot": 2, "name": "Blade Arc", "sin": "envy", "attackType": "slash", "coins": 2, "coinType": "normal" },
+        { "slot": 3, "name": "Acupuncture", "sin": "pride", "attackType": "slash", "coins": 4, "coinType": "normal" }
+      ],
+      "defense": { "name": "Clean Parry", "type": "counter", "sin": "pride" },
+      "resists": { "slash": 2.0, "pierce": 1.0, "blunt": 0.5 },
+      "staggerThresholds": [60, 30],
+      "associations": ["Blade Lineage"]
+    },
+    {
+      "id": "faust_w_corp",
+      "sinner": "faust",
+      "name": "W Corp. L2 Cleanup Agent Faust",
+      "nameKo": "W사 2등급 청소부 파우스트",
+      "star": 3,
+      "keywords": ["charge", "pierce"],
+      "image": "",
+      "skills": [
+        { "slot": 1, "name": "Represalias", "sin": "envy", "attackType": "pierce", "coins": 1, "coinType": "normal" },
+        { "slot": 2, "name": "Energy Cycle", "sin": "gluttony", "attackType": "pierce", "coins": 2, "coinType": "normal" },
+        { "slot": 3, "name": "Level 2 Suppression", "sin": "gloom", "attackType": "pierce", "coins": 3, "coinType": "normal" }
+      ],
+      "defense": { "name": "Charge Barrier", "type": "guard", "sin": "gluttony" },
+      "resists": { "slash": 1.0, "pierce": 0.8, "blunt": 1.2 },
+      "staggerThresholds": [50, 25],
+      "associations": ["W Corp."]
+    },
+    {
+      "id": "gregor_lcb",
+      "sinner": "gregor",
+      "name": "LCB Sinner Gregor",
+      "nameKo": "수감번호 그레고르",
+      "star": 1,
+      "keywords": ["bleed"],
+      "image": "",
+      "skills": [
+        { "slot": 1, "name": "Swipe", "sin": "gloom", "attackType": "slash", "coins": 2, "coinType": "normal" },
+        { "slot": 2, "name": "Chitinous Swing", "sin": "lust", "attackType": "slash", "coins": 2, "coinType": "normal" },
+        { "slot": 3, "name": "Grinder Mk 3", "sin": "gluttony", "attackType": "slash", "coins": 3, "coinType": "normal" }
+      ],
+      "defense": { "name": "Evade", "type": "evade", "sin": "gloom" },
+      "resists": { "slash": 1.0, "pierce": 1.0, "blunt": 1.0 },
+      "staggerThresholds": [50, 30],
+      "associations": ["LCB"]
+    }
+  ]
+}

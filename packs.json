@@ -1,0 +1,31 @@
+{
+  "packs": [
+    {
+      "id": "pack_flame",
+      "name": "Pack of Flame",
+      "nameKo": "화염의 팩",
+      "floors": [1, 2, 3],
+      "hardmodeOnly": false,
+      "image": "",
+      "gifts": ["fiery_down", "embers"]
+    },
+    {
+      "id": "pack_bleeding",
+      "name": "Pack of Bleeding",
+      "nameKo": "출혈의 팩",
+      "floors": [2, 3, 4],
+      "hardmodeOnly": false,
+      "image": "",
+      "gifts": ["wound_clerid"]
+    },
+    {
+      "id": "pack_deep_sleep",
+      "name": "Pack of Deep Sleep",
+      "nameKo": "깊은 잠의 팩",
+      "floors": [4, 5],
+      "hardmodeOnly": true,
+      "image": "",
+      "gifts": ["midwinter_nightmare"]
+    }
+  ]
+}
