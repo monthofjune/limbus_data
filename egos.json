@@ -1,1214 +1,2034 @@
-{
-  "egos": [
-    {
-      "id": "4th_match_flame_rodion",
-      "sinner": "Rodion",
-      "name": "4th Match Flame Rodion",
-      "nameKo": "4번째 성냥불",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": { "wrath": 3, "envy": 1 },
-      "image": "ego_4th_match_flame_rodion_icon"
-    },
-    {
-      "id": "4th_match_flame_ryoshu",
-      "sinner": "ryoshu",
-      "name": "4th Match Flame Ryōshū",
-      "nameKo": "4번째 성냥불",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ego_4th_match_flame_ryoshu_icon"
-    },
-    {
-      "id": "4th_match_flame_yi_sang",
-      "sinner": "yisang",
-      "name": "4th Match Flame Yi Sang",
-      "nameKo": "4번째 성냥불",
-      "rarity": "TETH",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ego_4th_match_flame_yi_sang_icom"
-    },
-    {
-      "id": "92_faust",
-      "sinner": "Faust",
-      "name": "9:2 Faust",
-      "nameKo": "9장 2절",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ego_92_faust_icon"
-    },
-    {
-      "id": "92_sinclair",
-      "sinner": "Sinclair",
-      "name": "9:2 Sinclair",
-      "nameKo": "9장 2절",
-      "rarity": "HE",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ego_92_sinclair_icon"
-    },
-    {
-      "id": "aedd_gregor",
-      "sinner": "Gregor",
-      "name": "AEDD Gregor",
-      "nameKo": "AEDD",
-      "rarity": "HE",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "aedd_gregor_icon"
-    },
-    {
-      "id": "aedd_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "AEDD Heathcliff",
-      "nameKo": "AEDD",
-      "rarity": "TETH",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "aedd_heathcliff_icon"
-    },
-    {
-      "id": "ardor_blossom_star_faust",
-      "sinner": "Faust",
-      "name": "Ardor Blossom Star Faust",
-      "nameKo": "홍염살",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ardor_blossom_star_faust_icon"
-    },
-    {
-      "id": "ardor_blossom_star_ishmael",
-      "sinner": "Ishmael",
-      "name": "Ardor Blossom Star Ishmael",
-      "nameKo": "홍염살",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ardor_blossom_star_ishmael_icon"
-    },
-    {
-      "id": "asymmetrical_inertia_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Asymmetrical Inertia Heathcliff",
-      "nameKo": "쏠린",
-      "rarity": "HE",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "asymmetrical_inertia_heathcliff_icon"
-    },
-    {
-      "id": "binds_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Binds Heathcliff",
-      "nameKo": "구속",
-      "rarity": "WAW",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "binds_heathcliff_icon"
-    },
-    {
-      "id": "binds_outis",
-      "sinner": "Outis",
-      "name": "Binds Outis",
-      "nameKo": "구속",
-      "rarity": "WAW",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "binds_outis_icon"
-    },
-    {
-      "id": "blind_obsession_ishmael",
-      "sinner": "Ishmael",
-      "name": "Blind Obsession Ishmael",
-      "nameKo": "맹목",
-      "rarity": "WAW",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "blind_obsession_ishmael_icon"
-    },
-    {
-      "id": "blind_obsession_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Blind Obsession Ryōshū",
-      "nameKo": "맹목",
-      "rarity": "TETH",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "blind_obsession_ryoshu_icon"
-    },
-    {
-      "id": "bodysack_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Bodysack Heathcliff",
-      "nameKo": "시체자루",
-      "rarity": "ZAYIN",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "bodysack_heathcliff_icon"
-    },
-    {
-      "id": "branch_of_knowledge_sinclair",
-      "sinner": "Sinclair",
-      "name": "Branch of Knowledge Sinclair",
-      "nameKo": "지식나무의 가지",
-      "rarity": "ZAYIN",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "branch_of_knowledge_sinclair_icon"
-    },
-    {
-      "id": "bygone_days_gregor",
-      "sinner": "Gregor",
-      "name": "Bygone Days Gregor",
-      "nameKo": "지난 날",
-      "rarity": "TETH",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "bygone_days_gregor_icon"
-    },
-    {
-      "id": "bygone_days_ishmael",
-      "sinner": "Ishmael",
-      "name": "Bygone Days Ishmael",
-      "nameKo": "지난 날",
-      "rarity": "TETH",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "bygone_days_ishmael_icon"
-    },
-    {
-      "id": "bygone_days_yi_sang",
-      "sinner": "yisang",
-      "name": "Bygone Days Yi Sang",
-      "nameKo": "지난 날",
-      "rarity": "ZAYIN",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "bygone_days_yi_sang_icon"
-    },
-    {
-      "id": "capote_ishmael",
-      "sinner": "Ishmael",
-      "name": "Capote Ishmael",
-      "nameKo": "카포테",
-      "rarity": "TETH",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "capote_ishmael_icon"
-    },
-    {
-      "id": "capote_meursault",
-      "sinner": "Meursault",
-      "name": "Capote Meursault",
-      "nameKo": "카포테",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "capote_meursault_icon"
-    },
-    {
-      "id": "cavernous_wailing_hong_lu",
-      "sinner": "honglu",
-      "name": "Cavernous Wailing Hong Lu",
-      "nameKo": "낮은울음",
-      "rarity": "TETH",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "cavernous_wailing_hong_lu_icon"
-    },
-    {
-      "id": "cavernous_wailing_sinclair",
-      "sinner": "Sinclair",
-      "name": "Cavernous Wailing Sinclair",
-      "nameKo": "낮은울음",
-      "rarity": "ZAYIN",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "cavernous_wailing_sinclair_icon"
-    },
-    {
-      "id": "chains_of_others_meursault",
-      "sinner": "Meursault",
-      "name": "Chains of Others Meursault",
-      "nameKo": "타인의 사슬",
-      "rarity": "ZAYIN",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "chains_of_others_meursault_icon"
-    },
-    {
-      "id": "christmas_nightmare_gregor",
-      "sinner": "Gregor",
-      "name": "Christmas Nightmare Gregor",
-      "nameKo": "크리스마스 악몽",
-      "rarity": "HE",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "christmas_nightmare_gregor_icon"
-    },
-    {
-      "id": "christmas_nightmare_ishmael",
-      "sinner": "Ishmael",
-      "name": "Christmas Nightmare Ishmael",
-      "nameKo": "크리스마스 악몽",
-      "rarity": "HE",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "christmas_nightmare_ishmael_icon"
-    },
-    {
-      "id": "command_meltdown_faust",
-      "sinner": "Faust",
-      "name": "Command: Meltdown Faust",
-      "nameKo": "명령 : 용해",
-      "rarity": "HE",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "command_meltdown_faust_icon"
-    },
-    {
-      "id": "contempt_awe_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Contempt, Awe Ryōshū",
-      "nameKo": "경멸, 경외",
-      "rarity": "WAW",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "contempt_awe_ryoshu_icon"
-    },
-    {
-      "id": "crows_eye_view_yi_sang",
-      "sinner": "yisang",
-      "name": "Crow's Eye View Yi Sang",
-      "nameKo": "오감도",
-      "rarity": "ZAYIN",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "crows_eye_view_yi_sang_icon"
-    },
-    {
-      "id": "crushbound_past_meursault",
-      "sinner": "Meursault",
-      "name": "Crushbound Past Meursault",
-      "nameKo": "분쇄될 과거",
-      "rarity": "WAW",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "crushbound_past_meursault_icon"
-    },
-    {
-      "id": "dimension_shredder_hong_lu",
-      "sinner": "honglu",
-      "name": "Dimension Shredder Hong Lu",
-      "nameKo": "차원찢개",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "dimension_shredder_hong_lu_icon"
-    },
-    {
-      "id": "dimension_shredder_outis",
-      "sinner": "Outis",
-      "name": "Dimension Shredder Outis",
-      "nameKo": "차원찢개",
-      "rarity": "HE",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "dimension_shredder_outis_icon"
-    },
-    {
-      "id": "dimension_shredder_yi_sang",
-      "sinner": "yisang",
-      "name": "Dimension Shredder Yi Sang",
-      "nameKo": "차원찢개",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "dimension_shredder_yi_sang_icon"
-    },
-    {
-      "id": "ebony_stem_outis",
-      "sinner": "Outis",
-      "name": "Ebony Stem Outis",
-      "nameKo": "검은줄기",
-      "rarity": "HE",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ebony_stem_outis_icon"
-    },
-    {
-      "id": "effervescent_corrosion_hong_lu",
-      "sinner": "honglu",
-      "name": "Effervescent Corrosion Hong Lu",
-      "nameKo": "들끓는 부식",
-      "rarity": "HE",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "effervescent_corrosion_hong_lu_icon"
-    },
-    {
-      "id": "effervescent_corrosion_rodion",
-      "sinner": "Rodion",
-      "name": "Effervescent Corrosion Rodion",
-      "nameKo": "들끓는 부식",
-      "rarity": "TETH",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "effervescent_corrosion_rodion_icon"
-    },
-    {
-      "id": "electric_screaming_don_quixote",
-      "sinner": "donqui",
-      "name": "Electric Screaming Don Quixote",
-      "nameKo": "전기울음",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "electric_screaming_don_quixote_icon"
-    },
-    {
-      "id": "electric_screaming_meursault",
-      "sinner": "Meursault",
-      "name": "Electric Screaming Meursault",
-      "nameKo": "전기울음",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "electric_screaming_meursault_icon"
-    },
-    {
-      "id": "everlasting_faust",
-      "sinner": "Faust",
-      "name": "Everlasting Faust",
-      "nameKo": "영속",
-      "rarity": "WAW",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "everlasting_faust_icon"
-    },
-    {
-      "id": "fell_bullet_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Fell Bullet Heathcliff",
-      "nameKo": "흉탄",
-      "rarity": "TETH",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "fell_bullet_heathcliff_icon"
-    },
-    {
-      "id": "fell_bullet_yi_sang",
-      "sinner": "yisang",
-      "name": "Fell Bullet Yi Sang",
-      "nameKo": "흉탄",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "fell_bullet_yi_sang_icon"
-    },
-    {
-      "id": "fluid_sac_don_quixote",
-      "sinner": "donqui",
-      "name": "Fluid Sac Don Quixote",
-      "nameKo": "물주머니",
-      "rarity": "HE",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "fluid_sac_don_quixote_icon"
-    },
-    {
-      "id": "fluid_sac_faust",
-      "sinner": "Faust",
-      "name": "Fluid Sac Faust",
-      "nameKo": "물주머니",
-      "rarity": "HE",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "fluid_sac_faust_icon"
-    },
-    {
-      "id": "forest_for_the_flames_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Forest for the Flames Ryōshū",
-      "nameKo": "삼라염상",
-      "rarity": "ZAYIN",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "forest_for_the_flames_ryoshu_icon"
-    },
-    {
-      "id": "garden_of_thorns_gregor",
-      "sinner": "Gregor",
-      "name": "Garden of Thorns Gregor",
-      "nameKo": "가시 화원",
-      "rarity": "WAW",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "garden_of_thorns_gregor_icon"
-    },
-    {
-      "id": "great_trichiliocosm_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Great Trichiliocosm 三千大世界 Ryōshū",
-      "nameKo": "삼천대세계 [三千大世界]",
-      "rarity": "WAW",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "great_trichiliocosm_ryoshu_icon"
-    },
-    {
-      "id": "great_trichiliocosm_yi_sang",
-      "sinner": "yisang",
-      "name": "Great Trichiliocosm 三千大世界 Yi Sang",
-      "nameKo": "삼천대세계 [三千大世界]",
-      "rarity": "WAW",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "great_trichiliocosm_yi_sang_icon"
-    },
-    {
-      "id": "harmony_sinclair",
-      "sinner": "Sinclair",
-      "name": "Harmony Sinclair",
-      "nameKo": "하모니",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "harmony_sinclair_icon"
-    },
-    {
-      "id": "hex_nail_faust",
-      "sinner": "Faust",
-      "name": "Hex Nail Faust",
-      "nameKo": "저주못",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "hex_nail_faust_icon"
-    },
-    {
-      "id": "hex_nail_rodion",
-      "sinner": "Rodion",
-      "name": "Hex Nail Rodion",
-      "nameKo": "저주못",
-      "rarity": "HE",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "hex_nail_rodion_icon"
-    },
-    {
-      "id": "hex_nail_sinclair",
-      "sinner": "Sinclair",
-      "name": "Hex Nail Sinclair",
-      "nameKo": "저주못",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "hex_nail_sinclair_icon"
-    },
-    {
-      "id": "holiday_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Holiday Heathcliff",
-      "nameKo": "홀리데이",
-      "rarity": "ZAYIN",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "holiday_heathcliff_icon"
-    },
-    {
-      "id": "holiday_outis",
-      "sinner": "Outis",
-      "name": "Holiday Outis",
-      "nameKo": "홀리데이",
-      "rarity": "HE",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "holiday_outis_icon"
-    },
-    {
-      "id": "hundred_footed_death_maggot_ishmael",
-      "sinner": "Ishmael",
-      "name": "Hundred-Footed Death Maggot 蝍蛆殺 Ishmael",
-      "nameKo": "즉저살 [蝍蛆殺]",
-      "rarity": "ZAYIN",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "hundred_footed_death_maggot_ishmael_icon"
-    },
-    {
-      "id": "ill_go_fer_scissors_how_bout_you_outis",
-      "sinner": "Outis",
-      "name": "I'll Go fer Scissors. How 'Bout You? Outis",
-      "nameKo": "난 가위를 낼게, 너는?",
-      "rarity": "ZAYIN",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ill_go_fer_scissors_how_bout_you_outis_icon"
-    },
-    {
-      "id": "impending_day_sinclair",
-      "sinner": "Sinclair",
-      "name": "Impending Day Sinclair",
-      "nameKo": "다가올날",
-      "rarity": "TETH",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "impending_day_sinclair_icon"
-    },
-    {
-      "id": "in_the_name_of_love_and_hate_don_quixote",
-      "sinner": "donqui",
-      "name": "In the Name of Love and Hate Don Quixote",
-      "nameKo": "사랑과 증오의 이름으로",
-      "rarity": "WAW",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "in_the_name_of_love_and_hate_don_quixote_icon"
-    },
-    {
-      "id": "indicants_trial_rodion",
-      "sinner": "Rodion",
-      "name": "Indicant's Trial Rodion",
-      "nameKo": "지정 재판",
-      "rarity": "WAW",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "indicants_trial_rodion_icon"
-    },
-    {
-      "id": "into_the_sunset_rodion",
-      "sinner": "Rodion",
-      "name": "Into the Sunset Rodion",
-      "nameKo": "노을 속으로",
-      "rarity": "ZAYIN",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "into_the_sunset_rodion_icon"
-    },
-    {
-      "id": "la_sangre_de_sancho_don_quixote",
-      "sinner": "donqui",
-      "name": "La Sangre de Sancho Don Quixote",
-      "nameKo": "라 샹그레 데 산쵸",
-      "rarity": "ZAYIN",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "la_sangre_de_sancho_don_quixote_icon"
-    },
-    {
-      "id": "land_of_illusion_hong_lu",
-      "sinner": "honglu",
-      "name": "Land of Illusion Hong Lu",
-      "nameKo": "허환경",
-      "rarity": "ZAYIN",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "land_of_illusion_hong_lu_icon"
-    },
-    {
-      "id": "lantern_gregor",
-      "sinner": "Gregor",
-      "name": "Lantern Gregor",
-      "nameKo": "초롱",
-      "rarity": "TETH",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "lantern_gregor_icon"
-    },
-    {
-      "id": "lantern_sinclair",
-      "sinner": "Sinclair",
-      "name": "Lantern Sinclair",
-      "nameKo": "초롱",
-      "rarity": "HE",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "lantern_sinclair_icon"
-    },
-    {
-      "id": "lasso_faust",
-      "sinner": "Faust",
-      "name": "Lasso Faust",
-      "nameKo": "올가미",
-      "rarity": "TETH",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "lasso_faust_icon"
-    },
-    {
-      "id": "lasso_hong_lu",
-      "sinner": "honglu",
-      "name": "Lasso Hong Lu",
-      "nameKo": "올가미",
-      "rarity": "TETH",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "lasso_hong_lu_icon"
-    },
-    {
-      "id": "legerdemain_gregor",
-      "sinner": "Gregor",
-      "name": "Legerdemain Gregor",
-      "nameKo": "눈속임",
-      "rarity": "ZAYIN",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "legerdemain_gregor_icon"
-    },
-    {
-      "id": "lifetime_stew_don_quixote",
-      "sinner": "donqui",
-      "name": "Lifetime Stew Don Quixote",
-      "nameKo": "평생 스튜",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "lifetime_stew_don_quixote_icon"
-    },
-    {
-      "id": "lifetime_stew_sinclair",
-      "sinner": "Sinclair",
-      "name": "Lifetime Stew Sinclair",
-      "nameKo": "평생 스튜",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "lifetime_stew_sinclair_icon"
-    },
-    {
-      "id": "magic_bullet_outis",
-      "sinner": "Outis",
-      "name": "Magic Bullet Outis",
-      "nameKo": "마탄",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "magic_bullet_outis_icon"
-    },
-    {
-      "id": "move_in_reg_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Move-in Reg. Heathcliff",
-      "nameKo": "입주 신고",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "move_in_reg_heathcliff_icon"
-    },
-    {
-      "id": "pursuance_meursault",
-      "sinner": "Meursault",
-      "name": "Pursuance Meursault",
-      "nameKo": "집행",
-      "rarity": "HE",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "pursuance_meursault_icon"
-    },
-    {
-      "id": "pursuance_rodion",
-      "sinner": "Rodion",
-      "name": "Pursuance Rodion",
-      "nameKo": "집행",
-      "rarity": "HE",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "pursuance_rodion_icon"
-    },
-    {
-      "id": "red_eyes_(open)_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Red Eyes (Open) Ryōshū",
-      "nameKo": "적안(開)",
-      "rarity": "HE",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "red_eyes_open_ryoshu_icon"
-    },
-    {
-      "id": "red_eyes_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Red Eyes Ryōshū",
-      "nameKo": "적안",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "red_eyes_ryoshu_icon"
-    },
-    {
-      "id": "red_sheet_don_quixote",
-      "sinner": "donqui",
-      "name": "Red Sheet Don Quixote",
-      "nameKo": "홍적",
-      "rarity": "HE",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "red_sheet_don_quixote_icon"
-    },
-    {
-      "id": "regret_meursault",
-      "sinner": "Meursault",
-      "name": "Regret Meursault",
-      "nameKo": "후회",
-      "rarity": "TETH",
-      "sin": "Wrath",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "regret_meursault_icon"
-    },
-    {
-      "id": "representation_emitter_faust",
-      "sinner": "Faust",
-      "name": "Representation Emitter Faust",
-      "nameKo": "표상 방출기",
-      "rarity": "ZAYIN",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "representation_emitter_faust_icon"
-    },
-    {
-      "id": "rime_shank_rodion",
-      "sinner": "Rodion",
-      "name": "Rime Shank Rodion",
-      "nameKo": "얼음다리",
-      "rarity": "TETH",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "rime_shank_rodion_icon"
-    },
-    {
-      "id": "roseate_desire_hong_lu",
-      "sinner": "honglu",
-      "name": "Roseate Desire Hong Lu",
-      "nameKo": "분홍욕망",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "roseate_desire_hong_lu_icon"
-    },
-    {
-      "id": "roseate_desire_ishmael",
-      "sinner": "Ishmael",
-      "name": "Roseate Desire Ishmael",
-      "nameKo": "분홍욕망",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "roseate_desire_ishmael_icon"
-    },
-    {
-      "id": "sanguine_desire_rodion",
-      "sinner": "Rodion",
-      "name": "Sanguine Desire Rodion",
-      "nameKo": "핏빛욕망",
-      "rarity": "WAW",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "sanguine_desire_rodion_icon"
-    },
-    {
-      "id": "screwloose_wallop_meursault",
-      "sinner": "Meursault",
-      "name": "Screwloose Wallop Meursault",
-      "nameKo": "나사빠진 일격",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "screwloose_wallop_meursault_icon"
-    },
-    {
-      "id": "shadow_vested_bladesinger_meursault",
-      "sinner": "Meursault",
-      "name": "Shadow-vested Bladesinger 着影揮刀 Meursault",
-      "nameKo": "착영휘도[着影揮刀]",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "shadow_vested_bladesinger_meursault_icon"
-    },
-    {
-      "id": "snagharpoon_ishmael",
-      "sinner": "Ishmael",
-      "name": "Snagharpoon Ishmael",
-      "nameKo": "작살박이",
-      "rarity": "ZAYIN",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "snagharpoon_ishmael_icon"
-    },
-    {
-      "id": "soda_hong_lu",
-      "sinner": "honglu",
-      "name": "Soda Hong Lu",
-      "nameKo": "소다",
-      "rarity": "TETH",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "soda_hong_lu_icon"
-    },
-    {
-      "id": "soda_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Soda Ryōshū",
-      "nameKo": "소다",
-      "rarity": "ZAYIN",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "soda_ryoshu_icon"
-    },
-    {
-      "id": "solemn_lament_gregor",
-      "sinner": "Gregor",
-      "name": "Solemn Lament Gregor",
-      "nameKo": "엄숙한 애도",
-      "rarity": "HE",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "solemn_lament_gregor_icon"
-    },
-    {
-      "id": "solemn_lament_yi_sang",
-      "sinner": "yisang",
-      "name": "Solemn Lament Yi Sang",
-      "nameKo": "엄숙한 애도",
-      "rarity": "HE",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "solemn_lament_yi_sang_icon"
-    },
-    {
-      "id": "suddenly_one_day_gregor",
-      "sinner": "Gregor",
-      "name": "Suddenly, One Day Gregor",
-      "nameKo": "어느날 갑자기",
-      "rarity": "ZAYIN",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "suddenly_one_day_gregor_icon"
-    },
-    {
-      "id": "sunshower_outis",
-      "sinner": "Outis",
-      "name": "Sunshower Outis",
-      "nameKo": "여우비",
-      "rarity": "TETH",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "sunshower_outis_icon"
-    },
-    {
-      "id": "sunshower_yi_sang",
-      "sinner": "yisang",
-      "name": "Sunshower Yi Sang",
-      "nameKo": "여우비",
-      "rarity": "WAW",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "sunshower_yi_sang_icon"
-    },
-    {
-      "id": "tears_of_the_tarnished_blood_hong_lu",
-      "sinner": "honglu",
-      "name": "Tears of the Tarnished Blood 汚血泣淚 Hong Lu",
-      "nameKo": "오혈읍루 [汚血泣淚]",
-      "rarity": "WAW",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "tears_of_the_tarnished_blood_hong_lu_icon"
-    },
-    {
-      "id": "tears_of_the_tarnished_blood_sinclair",
-      "sinner": "Sinclair",
-      "name": "Tears of the Tarnished Blood 汚血泣淚 Sinclair",
-      "nameKo": "오혈읍루 [汚血泣淚]",
-      "rarity": "WAW",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "tears_of_the_tarnished_blood_sinclair_icon"
-    },
-    {
-      "id": "telepole_don_quixote",
-      "sinner": "donqui",
-      "name": "Telepole Don Quixote",
-      "nameKo": "전봇대",
-      "rarity": "HE",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "telepole_don_quixote_icon"
-    },
-    {
-      "id": "telepole_faust",
-      "sinner": "Faust",
-      "name": "Telepole Faust",
-      "nameKo": "전봇대",
-      "rarity": "HE",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "telepole_faust_icon"
-    },
-    {
-      "id": "telepole_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Telepole Heathcliff",
-      "nameKo": "전봇대",
-      "rarity": "HE",
-      "sin": "Envy",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "telepole_heathcliff_icon"
-    },
-    {
-      "id": "thoracalgia_faust",
-      "sinner": "Faust",
-      "name": "Thoracalgia Faust",
-      "nameKo": "흉통",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "thoracalgia_faust_icon"
-    },
-    {
-      "id": "thoracalgia_ryoshu",
-      "sinner": "ryoshu",
-      "name": "Thoracalgia Ryōshū",
-      "nameKo": "흉통",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "thoracalgia_ryoshu_icon"
-    },
-    {
-      "id": "tidal_elegy_ishmael",
-      "sinner": "Ishmael",
-      "name": "Tidal Elegy Ishmael",
-      "nameKo": "파도의 만가",
-      "rarity": "HE",
-      "sin": "Gloom",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "tidal_elegy_ishmael_icon"
-    },
-    {
-      "id": "to_páthos_máthos_outis",
-      "sinner": "Outis",
-      "name": "To Páthos Máthos Outis",
-      "nameKo": "토 파토스 마토스",
-      "rarity": "ZAYIN",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "to_pathos_mathos_outis_icon"
-    },
-    {
-      "id": "to_remain_oneself_hong_lu",
-      "sinner": "honglu",
-      "name": "To Remain Oneself 宁作吾 Hong Lu",
-      "nameKo": "영작오 [宁作吾]",
-      "rarity": "HE",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "to_remain_oneself_hong_lu_icon"
-    },
-    {
-      "id": "unbrilliant_glory_gregor",
-      "sinner": "Gregor",
-      "name": "Unbrilliant Glory Gregor",
-      "nameKo": "눈부시지 않은 영광",
-      "rarity": "WAW",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "unbrilliant_glory_gregor_icon"
-    },
-    {
-      "id": "what_is_cast_rodion",
-      "sinner": "Rodion",
-      "name": "What is Cast Rodion",
-      "nameKo": "던져지는 것",
-      "rarity": "ZAYIN",
-      "sin": "Pride",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "what_is_cast_rodion_icon"
-    },
-    {
-      "id": "wingbeat_ishmael",
-      "sinner": "Ishmael",
-      "name": "Wingbeat Ishmael",
-      "nameKo": "날갯짓",
-      "rarity": "HE",
-      "sin": "Gluttony",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "wingbeat_ishmael_icon"
-    },
-    {
-      "id": "wishing_cairn_don_quixote",
-      "sinner": "donqui",
-      "name": "Wishing Cairn Don Quixote",
-      "nameKo": "소망석",
-      "rarity": "TETH",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "wishing_cairn_don_quixote_icon"
-    },
-    {
-      "id": "wishing_cairn_yi_sang",
-      "sinner": "yisang",
-      "name": "Wishing Cairn Yi Sang",
-      "nameKo": "소망석",
-      "rarity": "TETH",
-      "sin": "Sloth",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "wishing_cairn_yi_sang_icon"
-    },
-    {
-      "id": "ya_sunyata_tad_rupam_heathcliff",
-      "sinner": "Heathcliff",
-      "name": "Ya Śūnyatā Tad Rūpam Heathcliff",
-      "nameKo": "공즉시색",
-      "rarity": "HE",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ya_sunyata_tad_rupam_heathcliff_icon"
-    },
-    {
-      "id": "ya_sunyata_tad_rupam_outis",
-      "sinner": "Outis",
-      "name": "Ya Śūnyatā Tad Rūpam Outis",
-      "nameKo": "공즉시색",
-      "rarity": "TETH",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "ya_sunyata_tad_rupam_outis_icon"
-    },
-    {
-      "id": "yearning_mircalla_don_quixote",
-      "sinner": "donqui",
-      "name": "Yearning-Mircalla Don Quixote",
-      "nameKo": "갈망 - 미르칼라",
-      "rarity": "WAW",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "yearning_mircalla_don_quixote_icon"
-    },
-    {
-      "id": "yearning_mircalla_meursault",
-      "sinner": "Meursault",
-      "name": "Yearning-Mircalla Meursault",
-      "nameKo": "갈망 - 미르칼라",
-      "rarity": "WAW",
-      "sin": "Lust",
-      "attackType": "",
-      "resourceCost": {},
-      "image": "yearning_mircalla_meursault_icon"
-    }
-  ]
-}
+[
+  {
+    "id": 20101,
+    "sinnerId": 1,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Crow’s Eye View",
+    "nameKo": "오감도",
+    "rarity": "zayin",
+    "sin": "sloth",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 1,
+      "sloth": 3
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20102,
+    "sinnerId": 1,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "4th Match Flame",
+    "nameKo": "4번째 성냥불",
+    "rarity": "teth",
+    "sin": "wrath",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 5,
+      "sloth": 1,
+      "gluttony": 1
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20103,
+    "sinnerId": 1,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Wishing Cairn",
+    "nameKo": "소망석",
+    "rarity": "teth",
+    "sin": "sloth",
+    "attackType": "pierce",
+    "resourceCost": {
+      "gloom": 1,
+      "sloth": 4
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20104,
+    "sinnerId": 1,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Dimension Shredder",
+    "nameKo": "차원찢개",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 3,
+      "gluttony": 3
+    },
+    "season": 0,
+    "updatedDate": 20230518
+  },
+  {
+    "id": 20105,
+    "sinnerId": 1,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Sunshower",
+    "nameKo": "여우비",
+    "rarity": "waw",
+    "sin": "sloth",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 4,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 2
+    },
+    "season": 2,
+    "updatedDate": 20230615
+  },
+  {
+    "id": 20106,
+    "sinnerId": 1,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Bygone Days",
+    "nameKo": "지난 날",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 3,
+      "gloom": 3
+    },
+    "season": 4,
+    "updatedDate": 20240404
+  },
+  {
+    "id": 20107,
+    "sinnerId": 1,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Fell Bullet",
+    "nameKo": "흉탄",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 2,
+      "pride": 6
+    },
+    "season": 5,
+    "updatedDate": 20241114
+  },
+  {
+    "id": 20109,
+    "sinnerId": 1,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Solemn Lament",
+    "nameKo": "엄숙한 애도",
+    "rarity": "he",
+    "sin": "gloom",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 1,
+      "gloom": 4,
+      "pride": 2
+    },
+    "season": 9109,
+    "updatedDate": 20260709
+  },
+  {
+    "id": 20201,
+    "sinnerId": 2,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Representation Emitter",
+    "nameKo": "표상 방출기",
+    "rarity": "zayin",
+    "sin": "pride",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gluttony": 2,
+      "pride": 4
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20202,
+    "sinnerId": 2,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Fluid Sac",
+    "nameKo": "물주머니",
+    "rarity": "he",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 2,
+      "gloom": 4,
+      "envy": 3
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20203,
+    "sinnerId": 2,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Hex Nail",
+    "nameKo": "저주못",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "envy": 6
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20204,
+    "sinnerId": 2,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Telepole",
+    "nameKo": "전봇대",
+    "rarity": "he",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 1,
+      "lust": 3,
+      "envy": 2
+    },
+    "season": 0,
+    "updatedDate": 20230406
+  },
+  {
+    "id": 20206,
+    "sinnerId": 2,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Everlasting",
+    "nameKo": "영속",
+    "rarity": "waw",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 2,
+      "sloth": 4,
+      "gloom": 2,
+      "pride": 3
+    },
+    "season": 4,
+    "updatedDate": 20240613
+  },
+  {
+    "id": 20207,
+    "sinnerId": 2,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Lasso",
+    "nameKo": "올가미",
+    "rarity": "teth",
+    "sin": "gluttony",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 1,
+      "gluttony": 3,
+      "envy": 2
+    },
+    "season": 5,
+    "updatedDate": 20241017
+  },
+  {
+    "id": 20208,
+    "sinnerId": 2,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Thoracalgia",
+    "nameKo": "흉통",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 5
+    },
+    "season": 5,
+    "updatedDate": 20250220
+  },
+  {
+    "id": 20209,
+    "sinnerId": 2,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Command : Meltdown",
+    "nameKo": "명령 : 용해",
+    "rarity": "he",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 1,
+      "gluttony": 5,
+      "pride": 2
+    },
+    "season": 8000,
+    "updatedDate": 20250925
+  },
+  {
+    "id": 20210,
+    "sinnerId": 2,
+    "slotId": 10,
+    "teamCodeEligible": true,
+    "name": "Ardor Blossom Star",
+    "nameKo": "홍염살",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 3,
+      "sloth": 2,
+      "pride": 2
+    },
+    "season": 7,
+    "updatedDate": 20260319
+  },
+  {
+    "id": 21101,
+    "sinnerId": 11,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "To Páthos Máthos",
+    "nameKo": "토 파토스 마토스",
+    "rarity": "zayin",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 2,
+      "pride": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21102,
+    "sinnerId": 11,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Ebony Stem",
+    "nameKo": "검은줄기",
+    "rarity": "he",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 2,
+      "gluttony": 3,
+      "gloom": 1,
+      "pride": 4
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21103,
+    "sinnerId": 11,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Ya Śūnyatā Tad Rūpam",
+    "nameKo": "공즉시색",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 2,
+      "sloth": 2,
+      "pride": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21104,
+    "sinnerId": 11,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Sunshower",
+    "nameKo": "여우비",
+    "rarity": "teth",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1
+    },
+    "season": 2,
+    "updatedDate": 20230608
+  },
+  {
+    "id": 21105,
+    "sinnerId": 11,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Holiday",
+    "nameKo": "홀리데이",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 2,
+      "sloth": 1,
+      "pride": 3,
+      "envy": 2
+    },
+    "season": 3,
+    "updatedDate": 20231228
+  },
+  {
+    "id": 21106,
+    "sinnerId": 11,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Binds",
+    "nameKo": "구속",
+    "rarity": "waw",
+    "sin": "pride",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 1,
+      "wrath": 1,
+      "sloth": 4,
+      "pride": 4
+    },
+    "season": 4,
+    "updatedDate": 20240411
+  },
+  {
+    "id": 21107,
+    "sinnerId": 11,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Dimension Shredder",
+    "nameKo": "차원찢개",
+    "rarity": "he",
+    "sin": "envy",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 1,
+      "gloom": 3,
+      "pride": 1,
+      "envy": 4
+    },
+    "season": 4,
+    "updatedDate": 20240808
+  },
+  {
+    "id": 21108,
+    "sinnerId": 11,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Magic Bullet",
+    "nameKo": "마탄",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2,
+      "pride": 4
+    },
+    "season": 9105,
+    "updatedDate": 20250109
+  },
+  {
+    "id": 21201,
+    "sinnerId": 12,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Suddenly, One Day",
+    "nameKo": "어느날 갑자기",
+    "rarity": "zayin",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 3,
+      "gloom": 1
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21202,
+    "sinnerId": 12,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Legerdemain",
+    "nameKo": "눈속임",
+    "rarity": "zayin",
+    "sin": "gluttony",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 1,
+      "gluttony": 3
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21203,
+    "sinnerId": 12,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Lantern",
+    "nameKo": "초롱",
+    "rarity": "teth",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "sloth": 1,
+      "gluttony": 4
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21204,
+    "sinnerId": 12,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "AEDD",
+    "rarity": "he",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gloom": 3,
+      "envy": 3
+    },
+    "season": 2,
+    "updatedDate": 20230615
+  },
+  {
+    "id": 21205,
+    "sinnerId": 12,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Garden of Thorns",
+    "nameKo": "가시 화원",
+    "rarity": "waw",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 2
+    },
+    "season": 3,
+    "updatedDate": 20240314
+  },
+  {
+    "id": 21206,
+    "sinnerId": 12,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Bygone Days",
+    "nameKo": "지난 날",
+    "rarity": "teth",
+    "sin": "gloom",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 2,
+      "gloom": 4
+    },
+    "season": 4,
+    "updatedDate": 20240404
+  },
+  {
+    "id": 21207,
+    "sinnerId": 12,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Solemn Lament",
+    "nameKo": "엄숙한 애도",
+    "rarity": "he",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 1,
+      "sloth": 2,
+      "gloom": 2,
+      "envy": 2
+    },
+    "season": 9104,
+    "updatedDate": 20240905
+  },
+  {
+    "id": 21208,
+    "sinnerId": 12,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Christmas Nightmare",
+    "nameKo": "크리스마스 악몽",
+    "rarity": "he",
+    "sin": "sloth",
+    "attackType": "slash",
+    "resourceCost": {
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 2
+    },
+    "season": 5,
+    "updatedDate": 20241226
+  },
+  {
+    "id": 21209,
+    "sinnerId": 12,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Unbrilliant Glory",
+    "nameKo": "눈부시지 않은 영광",
+    "rarity": "waw",
+    "sin": "sloth",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 2,
+      "sloth": 3,
+      "pride": 2
+    },
+    "season": 8000,
+    "updatedDate": 20250925
+  },
+  {
+    "id": 20205,
+    "sinnerId": 2,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "9:2",
+    "nameKo": "9장 2절",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 1,
+      "gluttony": 3,
+      "pride": 1
+    },
+    "season": 3,
+    "updatedDate": 20231123
+  },
+  {
+    "id": 20605,
+    "sinnerId": 6,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Effervescent Corrosion",
+    "nameKo": "들끓는 부식",
+    "rarity": "he",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "gluttony": 6,
+      "gloom": 1
+    },
+    "season": 3,
+    "updatedDate": 20231123
+  },
+  {
+    "id": 20406,
+    "sinnerId": 4,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Blind Obsession",
+    "nameKo": "맹목",
+    "rarity": "teth",
+    "sin": "pride",
+    "attackType": "slash",
+    "resourceCost": {
+      "gloom": 2,
+      "pride": 2,
+      "envy": 2
+    },
+    "season": 3,
+    "updatedDate": 20231130
+  },
+  {
+    "id": 20805,
+    "sinnerId": 8,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Blind Obsession",
+    "nameKo": "맹목",
+    "rarity": "waw",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 2,
+      "gloom": 3,
+      "pride": 3,
+      "envy": 3
+    },
+    "season": 3,
+    "updatedDate": 20231130
+  },
+  {
+    "id": 20904,
+    "sinnerId": 9,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Effervescent Corrosion",
+    "nameKo": "들끓는 부식",
+    "rarity": "teth",
+    "sin": "gluttony",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 2,
+      "gloom": 2,
+      "pride": 2
+    },
+    "season": 3,
+    "updatedDate": 20231130
+  },
+  {
+    "id": 21005,
+    "sinnerId": 10,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "9:2",
+    "nameKo": "9장 2절",
+    "rarity": "he",
+    "sin": "lust",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 5,
+      "envy": 1
+    },
+    "season": 3,
+    "updatedDate": 20231130
+  },
+  {
+    "id": 20308,
+    "sinnerId": 3,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Red Sheet",
+    "nameKo": "홍적",
+    "rarity": "he",
+    "sin": "gluttony",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 1,
+      "gluttony": 5,
+      "gloom": 2,
+      "pride": 1
+    },
+    "season": 6,
+    "updatedDate": 20250522
+  },
+  {
+    "id": 20809,
+    "sinnerId": 8,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+    "nameKo": "즉저살 [蝍蛆殺]",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 2,
+      "pride": 2
+    },
+    "season": 6,
+    "updatedDate": 20250522
+  },
+  {
+    "id": 20608,
+    "sinnerId": 6,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Tears of the Tarnished Blood [汚血泣淚]",
+    "nameKo": "오혈읍루 [汚血泣淚]",
+    "rarity": "waw",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "gluttony": 5,
+      "gloom": 1,
+      "envy": 1
+    },
+    "season": 6,
+    "updatedDate": 20250529
+  },
+  {
+    "id": 21008,
+    "sinnerId": 10,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Tears of the Tarnished Blood [汚血泣淚]",
+    "nameKo": "오혈읍루 [汚血泣淚]",
+    "rarity": "waw",
+    "sin": "gluttony",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 2,
+      "gluttony": 6,
+      "pride": 2
+    },
+    "season": 6,
+    "updatedDate": 20250529
+  },
+  {
+    "id": 20709,
+    "sinnerId": 7,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Move-in Reg.",
+    "nameKo": "입주 신고",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "gluttony": 1,
+      "envy": 3
+    },
+    "season": 7,
+    "updatedDate": 20260108
+  },
+  {
+    "id": 21109,
+    "sinnerId": 11,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "I'll Go fer Scissors. How 'Bout You?",
+    "nameKo": "난 가위를 낼게, 너는?",
+    "rarity": "zayin",
+    "sin": "envy",
+    "attackType": "slash",
+    "resourceCost": {
+      "envy": 3,
+      "lust": 1
+    },
+    "season": 7,
+    "updatedDate": 20260108
+  },
+  {
+    "id": 20409,
+    "sinnerId": 4,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Great Trichiliocosm [三千大世界]",
+    "nameKo": "삼천대세계 [三千大世界]",
+    "rarity": "waw",
+    "sin": "wrath",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 4,
+      "lust": 4,
+      "pride": 4
+    },
+    "season": 7,
+    "updatedDate": 20260115
+  },
+  {
+    "id": 20108,
+    "sinnerId": 1,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Great Trichiliocosm [三千大世界]",
+    "nameKo": "삼천대세계 [三千大世界]",
+    "rarity": "waw",
+    "sin": "wrath",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 4,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 4
+    },
+    "season": 7,
+    "updatedDate": 20260115
+  },
+  {
+    "id": 201011,
+    "sinnerId": 1,
+    "slotId": null,
+    "teamCodeEligible": false,
+    "name": "Crow’s Eye View",
+    "nameKo": "오감도",
+    "rarity": "zayin",
+    "sin": "sloth",
+    "attackType": "pierce",
+    "resourceCost": {},
+    "season": 9,
+    "updatedDate": 20250115
+  },
+  {
+    "id": 203011,
+    "sinnerId": 3,
+    "slotId": null,
+    "teamCodeEligible": false,
+    "name": "La Sangre de Sancho",
+    "nameKo": "라 샹그레 데 산쵸",
+    "rarity": "zayin",
+    "sin": "lust",
+    "attackType": "pierce",
+    "resourceCost": {},
+    "season": 9,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 205011,
+    "sinnerId": 5,
+    "slotId": null,
+    "teamCodeEligible": false,
+    "name": "Chains of Others",
+    "nameKo": "타인의 사슬",
+    "rarity": "zayin",
+    "sin": "pride",
+    "attackType": "blunt",
+    "resourceCost": {},
+    "season": 9,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 206011,
+    "sinnerId": 6,
+    "slotId": null,
+    "teamCodeEligible": false,
+    "name": "Land of Illusion",
+    "nameKo": "허환경",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {},
+    "season": 9,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 211011,
+    "sinnerId": 10,
+    "slotId": null,
+    "teamCodeEligible": false,
+    "name": "To Páthos Máthos",
+    "nameKo": "토 파토스 마토스",
+    "rarity": "zayin",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {},
+    "season": 9,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20301,
+    "sinnerId": 3,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "La Sangre de Sancho",
+    "nameKo": "라 샹그레 데 산쵸",
+    "rarity": "zayin",
+    "sin": "lust",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 2,
+      "pride": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20302,
+    "sinnerId": 3,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Fluid Sac",
+    "nameKo": "물주머니",
+    "rarity": "he",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gloom": 4,
+      "pride": 2,
+      "lust": 1
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20303,
+    "sinnerId": 3,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Telepole",
+    "nameKo": "전봇대",
+    "rarity": "he",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 1,
+      "gloom": 2,
+      "envy": 2
+    },
+    "season": 0,
+    "updatedDate": 20230330
+  },
+  {
+    "id": 20304,
+    "sinnerId": 3,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Lifetime Stew",
+    "nameKo": "평생 스튜",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 5
+    },
+    "season": 1,
+    "updatedDate": 20230420
+  },
+  {
+    "id": 20305,
+    "sinnerId": 3,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Wishing Cairn",
+    "nameKo": "소망석",
+    "rarity": "teth",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "sloth": 2,
+      "pride": 1
+    },
+    "season": 0,
+    "updatedDate": 20240215
+  },
+  {
+    "id": 20306,
+    "sinnerId": 3,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Electric Screaming",
+    "nameKo": "전기울음",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "pride": 2,
+      "envy": 4
+    },
+    "season": 4,
+    "updatedDate": 20230411
+  },
+  {
+    "id": 20307,
+    "sinnerId": 3,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Yearning-Mircalla",
+    "nameKo": "갈망-미르칼라",
+    "rarity": "waw",
+    "sin": "lust",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 5,
+      "gluttony": 3,
+      "pride": 2,
+      "envy": 2
+    },
+    "season": 5,
+    "updatedDate": 20241024
+  },
+  {
+    "id": 20309,
+    "sinnerId": 3,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "In the Name of Love and Hate",
+    "nameKo": "사랑과 증오의 이름으로",
+    "rarity": "waw",
+    "sin": "envy",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 6
+    },
+    "season": 9106,
+    "updatedDate": 20250717
+  },
+  {
+    "id": 20401,
+    "sinnerId": 4,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Forest for the Flames",
+    "nameKo": "삼라염상",
+    "rarity": "zayin",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20402,
+    "sinnerId": 4,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "4th Match Flame",
+    "nameKo": "4번째 성냥불",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 4,
+      "pride": 2
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20403,
+    "sinnerId": 4,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Red Eyes",
+    "nameKo": "적안",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 2,
+      "gluttony": 2,
+      "envy": 1
+    },
+    "season": 0,
+    "updatedDate": 20230629
+  },
+  {
+    "id": 20404,
+    "sinnerId": 4,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Red Eyes (Open)",
+    "nameKo": "적안(開)",
+    "rarity": "he",
+    "sin": "envy",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2,
+      "envy": 3
+    },
+    "season": 0,
+    "updatedDate": 20230629
+  },
+  {
+    "id": 20405,
+    "sinnerId": 4,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Soda",
+    "nameKo": "소다",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "pierce",
+    "resourceCost": {
+      "gluttony": 2,
+      "pride": 2,
+      "envy": 2
+    },
+    "season": 2,
+    "updatedDate": 20230727
+  },
+  {
+    "id": 20407,
+    "sinnerId": 4,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Contempt, Awe",
+    "nameKo": "경멸, 경외",
+    "rarity": "waw",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 3,
+      "lust": 4,
+      "pride": 4,
+      "envy": 3
+    },
+    "season": 4,
+    "updatedDate": 20240711
+  },
+  {
+    "id": 20408,
+    "sinnerId": 4,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Thoracalgia",
+    "nameKo": "흉통",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 5
+    },
+    "season": 5,
+    "updatedDate": 20250123
+  },
+  {
+    "id": 20501,
+    "sinnerId": 5,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Chains of Others",
+    "nameKo": "타인의 사슬",
+    "rarity": "zayin",
+    "sin": "pride",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20502,
+    "sinnerId": 5,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Screwloose Wallop",
+    "nameKo": "나사빠진 일격",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 2,
+      "pride": 1,
+      "envy": 2
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20503,
+    "sinnerId": 5,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Pursuance",
+    "nameKo": "집행",
+    "rarity": "he",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 4,
+      "gloom": 1,
+      "pride": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20504,
+    "sinnerId": 5,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Capote",
+    "nameKo": "카포테",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 2
+    },
+    "season": 2,
+    "updatedDate": 20230601
+  },
+  {
+    "id": 20505,
+    "sinnerId": 5,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Regret",
+    "nameKo": "후회",
+    "rarity": "teth",
+    "sin": "wrath",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 3,
+      "pride": 2
+    },
+    "season": 9101,
+    "updatedDate": 20231026
+  },
+  {
+    "id": 20506,
+    "sinnerId": 5,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Electric Screaming",
+    "nameKo": "전기울음",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 1,
+      "envy": 4
+    },
+    "season": 4,
+    "updatedDate": 20240411
+  },
+  {
+    "id": 20507,
+    "sinnerId": 5,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Yearning-Mircalla",
+    "nameKo": "갈망-미르칼라",
+    "rarity": "waw",
+    "sin": "lust",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 4,
+      "pride": 3,
+      "envy": 4
+    },
+    "season": 5,
+    "updatedDate": 20241024
+  },
+  {
+    "id": 20508,
+    "sinnerId": 5,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Crushbound Past",
+    "nameKo": "분쇄될 과거",
+    "rarity": "waw",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 6,
+      "envy": 1
+    },
+    "season": 6,
+    "updatedDate": 20250731
+  },
+  {
+    "id": 20509,
+    "sinnerId": 5,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Shadow-vested Bladesinger [着影揮刀]",
+    "nameKo": "착영휘도[着影揮刀]",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 1,
+      "pride": 4,
+      "envy": 1
+    },
+    "season": 7,
+    "updatedDate": 20260611
+  },
+  {
+    "id": 20601,
+    "sinnerId": 6,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Land of Illusion",
+    "nameKo": "허환경",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 1,
+      "gloom": 5
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20602,
+    "sinnerId": 6,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Roseate Desire",
+    "nameKo": "분홍욕망",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 4,
+      "envy": 2
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20603,
+    "sinnerId": 6,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Dimension Shredder",
+    "nameKo": "차원찢개",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "slash",
+    "resourceCost": {
+      "gluttony": 3,
+      "pride": 3
+    },
+    "season": 0,
+    "updatedDate": 20230518
+  },
+  {
+    "id": 20604,
+    "sinnerId": 6,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Soda",
+    "nameKo": "소다",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gluttony": 3,
+      "gloom": 2,
+      "envy": 2
+    },
+    "season": 2,
+    "updatedDate": 20230727
+  },
+  {
+    "id": 20606,
+    "sinnerId": 6,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Cavernous Wailing",
+    "nameKo": "낮은울음",
+    "rarity": "teth",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 3,
+      "gloom": 3,
+      "pride": 2
+    },
+    "season": 0,
+    "updatedDate": 20240530
+  },
+  {
+    "id": 20607,
+    "sinnerId": 6,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Lasso",
+    "nameKo": "올가미",
+    "rarity": "teth",
+    "sin": "gluttony",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 1,
+      "gluttony": 4,
+      "pride": 1
+    },
+    "season": 5,
+    "updatedDate": 20241017
+  },
+  {
+    "id": 20609,
+    "sinnerId": 6,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "To Remain Oneself [宁作吾]",
+    "nameKo": "영작오 [宁作吾]",
+    "rarity": "he",
+    "sin": "pride",
+    "attackType": "slash",
+    "resourceCost": {
+      "sloth": 1,
+      "gloom": 2,
+      "pride": 4
+    },
+    "season": 8000,
+    "updatedDate": 20250925
+  },
+  {
+    "id": 20701,
+    "sinnerId": 7,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Bodysack",
+    "nameKo": "시체자루",
+    "rarity": "zayin",
+    "sin": "envy",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 2,
+      "envy": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20702,
+    "sinnerId": 7,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Telepole",
+    "nameKo": "전봇대",
+    "rarity": "he",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 3,
+      "lust": 2,
+      "envy": 3
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20703,
+    "sinnerId": 7,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "AEDD",
+    "rarity": "teth",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gloom": 3,
+      "envy": 2
+    },
+    "season": 2,
+    "updatedDate": 20230608
+  },
+  {
+    "id": 20704,
+    "sinnerId": 7,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Ya Śūnyatā Tad Rūpam",
+    "nameKo": "공즉시색",
+    "rarity": "he",
+    "sin": "lust",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 2,
+      "gloom": 2
+    },
+    "season": 0,
+    "updatedDate": 20231012
+  },
+  {
+    "id": 20705,
+    "sinnerId": 7,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Holiday",
+    "nameKo": "홀리데이",
+    "rarity": "zayin",
+    "sin": "gluttony",
+    "attackType": "blunt",
+    "resourceCost": {
+      "envy": 2,
+      "gluttony": 3
+    },
+    "season": 3,
+    "updatedDate": 20231228
+  },
+  {
+    "id": 20706,
+    "sinnerId": 7,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Binds",
+    "nameKo": "구속",
+    "rarity": "waw",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 2,
+      "gloom": 4,
+      "pride": 2,
+      "envy": 3
+    },
+    "season": 4,
+    "updatedDate": 20240411
+  },
+  {
+    "id": 20707,
+    "sinnerId": 7,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Fell Bullet",
+    "nameKo": "흉탄",
+    "rarity": "teth",
+    "sin": "pride",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 1,
+      "pride": 3,
+      "envy": 2
+    },
+    "season": 0,
+    "updatedDate": 20240725
+  },
+  {
+    "id": 20708,
+    "sinnerId": 7,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Asymmetrical Inertia",
+    "nameKo": "쏠린 관성",
+    "rarity": "he",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 2,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 2
+    },
+    "season": 0,
+    "updatedDate": 20241128
+  },
+  {
+    "id": 20801,
+    "sinnerId": 8,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Snagharpoon",
+    "nameKo": "작살박이",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "gloom": 2
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20802,
+    "sinnerId": 8,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Roseate Desire",
+    "nameKo": "분홍욕망",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 1,
+      "lust": 4
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20803,
+    "sinnerId": 8,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Ardor Blossom Star",
+    "nameKo": "홍염살",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 4,
+      "lust": 2,
+      "envy": 1
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20804,
+    "sinnerId": 8,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Capote",
+    "nameKo": "카포테",
+    "rarity": "teth",
+    "sin": "wrath",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 1
+    },
+    "season": 2,
+    "updatedDate": 20230601
+  },
+  {
+    "id": 20806,
+    "sinnerId": 8,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Wingbeat",
+    "nameKo": "날갯짓",
+    "rarity": "he",
+    "sin": "gluttony",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 1,
+      "gluttony": 3,
+      "pride": 2
+    },
+    "season": 9103,
+    "updatedDate": 20240502
+  },
+  {
+    "id": 20807,
+    "sinnerId": 8,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Bygone Days",
+    "nameKo": "지난 날",
+    "rarity": "teth",
+    "sin": "gloom",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 2,
+      "sloth": 1,
+      "gloom": 3
+    },
+    "season": 0,
+    "updatedDate": 20240919
+  },
+  {
+    "id": 20808,
+    "sinnerId": 8,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Christmas Nightmare",
+    "nameKo": "크리스마스 악몽",
+    "rarity": "he",
+    "sin": "sloth",
+    "attackType": "blunt",
+    "resourceCost": {
+      "sloth": 4,
+      "gluttony": 1,
+      "pride": 2
+    },
+    "season": 5,
+    "updatedDate": 20241226
+  },
+  {
+    "id": 20810,
+    "sinnerId": 8,
+    "slotId": 10,
+    "teamCodeEligible": true,
+    "name": "Tidal Elegy",
+    "nameKo": "파도의 만가",
+    "rarity": "he",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gloom": 4,
+      "pride": 2
+    },
+    "season": 8000,
+    "updatedDate": 20250925
+  },
+  {
+    "id": 20901,
+    "sinnerId": 9,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "What is Cast",
+    "nameKo": "던져지는 것",
+    "rarity": "zayin",
+    "sin": "pride",
+    "attackType": "slash",
+    "resourceCost": {
+      "gloom": 1,
+      "pride": 3
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20902,
+    "sinnerId": 9,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "4th Match Flame",
+    "nameKo": "4번째 성냥불",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 3,
+      "pride": 2,
+      "envy": 1
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20903,
+    "sinnerId": 9,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Rime Shank",
+    "nameKo": "얼음다리",
+    "rarity": "teth",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "gloom": 5,
+      "envy": 3
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 20905,
+    "sinnerId": 9,
+    "slotId": 5,
+    "teamCodeEligible": true,
+    "name": "Pursuance",
+    "nameKo": "집행",
+    "rarity": "he",
+    "sin": "sloth",
+    "attackType": "slash",
+    "resourceCost": {
+      "sloth": 4,
+      "pride": 3
+    },
+    "season": 0,
+    "updatedDate": 20231214
+  },
+  {
+    "id": 20906,
+    "sinnerId": 9,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Sanguine Desire",
+    "nameKo": "핏빛욕망",
+    "rarity": "waw",
+    "sin": "lust",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 1,
+      "lust": 3,
+      "pride": 3,
+      "envy": 3
+    },
+    "season": 9103,
+    "updatedDate": 20240502
+  },
+  {
+    "id": 20907,
+    "sinnerId": 9,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Hex Nail",
+    "nameKo": "저주못",
+    "rarity": "he",
+    "sin": "envy",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 2,
+      "pride": 1,
+      "envy": 4
+    },
+    "season": 5,
+    "updatedDate": 20241024
+  },
+  {
+    "id": 20908,
+    "sinnerId": 9,
+    "slotId": 8,
+    "teamCodeEligible": true,
+    "name": "Indicant's Trial",
+    "nameKo": "지정 재판",
+    "rarity": "waw",
+    "sin": "wrath",
+    "attackType": "pierce",
+    "resourceCost": {
+      "wrath": 7,
+      "pride": 3
+    },
+    "season": 5,
+    "updatedDate": 20250417
+  },
+  {
+    "id": 20909,
+    "sinnerId": 9,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Into the Sunset",
+    "nameKo": "노을 속으로",
+    "rarity": "zayin",
+    "sin": "lust",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 2,
+      "lust": 3
+    },
+    "season": 7,
+    "updatedDate": 20260430
+  },
+  {
+    "id": 21001,
+    "sinnerId": 10,
+    "slotId": 1,
+    "teamCodeEligible": true,
+    "name": "Branch of Knowledge",
+    "nameKo": "지식나무의 가지",
+    "rarity": "zayin",
+    "sin": "gluttony",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 1,
+      "gluttony": 3
+    },
+    "season": 0,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21002,
+    "sinnerId": 10,
+    "slotId": 2,
+    "teamCodeEligible": true,
+    "name": "Impending Day",
+    "nameKo": "다가올날",
+    "rarity": "teth",
+    "sin": "wrath",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 3,
+      "lust": 2
+    },
+    "season": 1,
+    "updatedDate": 20230227
+  },
+  {
+    "id": 21003,
+    "sinnerId": 10,
+    "slotId": 3,
+    "teamCodeEligible": true,
+    "name": "Lifetime Stew",
+    "nameKo": "평생 스튜",
+    "rarity": "teth",
+    "sin": "lust",
+    "attackType": "blunt",
+    "resourceCost": {
+      "wrath": 3,
+      "lust": 2,
+      "gluttony": 1
+    },
+    "season": 1,
+    "updatedDate": 20230420
+  },
+  {
+    "id": 21004,
+    "sinnerId": 10,
+    "slotId": 4,
+    "teamCodeEligible": true,
+    "name": "Lantern",
+    "nameKo": "초롱",
+    "rarity": "he",
+    "sin": "gluttony",
+    "attackType": "slash",
+    "resourceCost": {
+      "lust": 1,
+      "gluttony": 4,
+      "pride": 2
+    },
+    "season": 0,
+    "updatedDate": 20231005
+  },
+  {
+    "id": 21006,
+    "sinnerId": 10,
+    "slotId": 6,
+    "teamCodeEligible": true,
+    "name": "Cavernous Wailing",
+    "nameKo": "낮은울음",
+    "rarity": "zayin",
+    "sin": "gloom",
+    "attackType": "blunt",
+    "resourceCost": {
+      "lust": 1,
+      "sloth": 2,
+      "gloom": 3
+    },
+    "season": 0,
+    "updatedDate": 20240530
+  },
+  {
+    "id": 21007,
+    "sinnerId": 10,
+    "slotId": 7,
+    "teamCodeEligible": true,
+    "name": "Hex Nail",
+    "nameKo": "저주못",
+    "rarity": "teth",
+    "sin": "envy",
+    "attackType": "pierce",
+    "resourceCost": {
+      "lust": 2,
+      "pride": 2,
+      "envy": 2
+    },
+    "season": 5,
+    "updatedDate": 20241024
+  },
+  {
+    "id": 21009,
+    "sinnerId": 10,
+    "slotId": 9,
+    "teamCodeEligible": true,
+    "name": "Harmony",
+    "nameKo": "하모니",
+    "rarity": "he",
+    "sin": "wrath",
+    "attackType": "slash",
+    "resourceCost": {
+      "wrath": 3,
+      "lust": 2,
+      "sloth": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "season": 9108,
+    "updatedDate": 20260305
+  }
+]

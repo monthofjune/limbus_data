@@ -1,0 +1,123 @@
+{
+  "source": "E:\\jngl\\library\\LetheLauncher-Distribution-7\\BepInEx\\plugins\\Lethe\\dumpedData",
+  "counts": {
+    "identities": 195,
+    "egos": 115,
+    "gifts": 485,
+    "packs": 117,
+    "skills": 1093,
+    "passives": 729,
+    "hardOnlyGifts": 53,
+    "combinableGifts": 59
+  },
+  "ordering": {
+    "keywords": [
+      "burn",
+      "bleed",
+      "tremor",
+      "rupture",
+      "sinking",
+      "poise",
+      "charge",
+      "slash",
+      "pierce",
+      "blunt"
+    ],
+    "sins": [
+      "wrath",
+      "lust",
+      "sloth",
+      "gluttony",
+      "gloom",
+      "pride",
+      "envy"
+    ],
+    "rarities": [
+      "zayin",
+      "teth",
+      "he",
+      "waw",
+      "aleph"
+    ]
+  },
+  "teamCodeEligible": {
+    "identities": 183,
+    "egos": 110
+  },
+  "mirrorDungeon": {
+    "totalFloors": 15,
+    "baseFloors": 5,
+    "winFloorIdx": 4,
+    "tierFloors": {
+      "normal": [
+        1,
+        5
+      ],
+      "hard": [
+        1,
+        5
+      ],
+      "superposition": [
+        6,
+        10
+      ],
+      "extreme": [
+        11,
+        15
+      ]
+    },
+    "floorTierCaps": [
+      [
+        1,
+        2
+      ],
+      [
+        1,
+        2,
+        3
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    ],
+    "giftCombineMixed": [
+      {
+        "aEgoGiftIds": [
+          9105,
+          9110,
+          9116,
+          9121,
+          9126,
+          9131,
+          9136
+        ],
+        "aEgoGiftRequiredNum": 2,
+        "bEgoGiftIds": [
+          9142,
+          9147,
+          9152
+        ],
+        "bEgoGiftRequiredNum": 3,
+        "resultEgoGiftId": 9083
+      }
+    ]
+  }
+}

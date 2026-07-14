@@ -1,0 +1,37 @@
+{
+  "wrath": {
+    "name": "Wrath",
+    "attribute": "CRIMSON",
+    "order": 0
+  },
+  "lust": {
+    "name": "Lust",
+    "attribute": "SCARLET",
+    "order": 1
+  },
+  "sloth": {
+    "name": "Sloth",
+    "attribute": "AMBER",
+    "order": 2
+  },
+  "gluttony": {
+    "name": "Glut.",
+    "attribute": "SHAMROCK",
+    "order": 3
+  },
+  "gloom": {
+    "name": "Gloom",
+    "attribute": "AZURE",
+    "order": 4
+  },
+  "pride": {
+    "name": "Pride",
+    "attribute": "INDIGO",
+    "order": 5
+  },
+  "envy": {
+    "name": "Envy",
+    "attribute": "VIOLET",
+    "order": 6
+  }
+}

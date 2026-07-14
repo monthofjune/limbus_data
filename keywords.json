@@ -1,0 +1,42 @@
+{
+  "burn": {
+    "name": "Burn",
+    "order": 0
+  },
+  "bleed": {
+    "name": "Bleed",
+    "order": 1
+  },
+  "tremor": {
+    "name": "Tremor",
+    "order": 2
+  },
+  "rupture": {
+    "name": "Rupture",
+    "order": 3
+  },
+  "sinking": {
+    "name": "Sinking",
+    "order": 4
+  },
+  "poise": {
+    "name": "Poise",
+    "order": 5
+  },
+  "charge": {
+    "name": "Charge",
+    "order": 6
+  },
+  "slash": {
+    "name": "Slash",
+    "order": 7
+  },
+  "pierce": {
+    "name": "Pierce",
+    "order": 8
+  },
+  "blunt": {
+    "name": "Blunt",
+    "order": 9
+  }
+}

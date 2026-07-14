@@ -1,0 +1,5280 @@
+{
+  "20101": {
+    "id": 20101,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0.75,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010111,
+    "corrosionSkill": null,
+    "passives": [],
+    "awakeningPassives": [
+      2010111
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 3
+      }
+    ]
+  },
+  "20102": {
+    "id": 20102,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010211,
+    "corrosionSkill": 2010221,
+    "passives": null,
+    "awakeningPassives": [
+      2010211,
+      2010212
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 5
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 1
+      }
+    ]
+  },
+  "20103": {
+    "id": 20103,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0.5,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010311,
+    "corrosionSkill": 2010321,
+    "passives": null,
+    "awakeningPassives": [
+      2010311
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      }
+    ]
+  },
+  "20104": {
+    "id": 20104,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010411,
+    "corrosionSkill": 2010421,
+    "passives": null,
+    "awakeningPassives": [
+      2010411
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 3
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      }
+    ]
+  },
+  "20105": {
+    "id": 20105,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 0.75,
+      "gluttony": 0.5,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010511,
+    "corrosionSkill": 2010521,
+    "passives": null,
+    "awakeningPassives": [
+      2010511
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20106": {
+    "id": 20106,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0.75,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010611,
+    "corrosionSkill": 2010621,
+    "passives": null,
+    "awakeningPassives": [
+      2010611
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 3
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      }
+    ]
+  },
+  "20107": {
+    "id": 20107,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 0.75,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010711,
+    "corrosionSkill": 2010721,
+    "passives": null,
+    "awakeningPassives": [
+      2010711
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 6
+      }
+    ]
+  },
+  "20109": {
+    "id": 20109,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0.75,
+      "gluttony": 2,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010911,
+    "corrosionSkill": 2010921,
+    "passives": null,
+    "awakeningPassives": [
+      2010911
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20201": {
+    "id": 20201,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2020111
+    ],
+    "requirements": [
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      }
+    ]
+  },
+  "20202": {
+    "id": 20202,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 2,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020211,
+    "corrosionSkill": 2020221,
+    "passives": null,
+    "awakeningPassives": [
+      2020211
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 4
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20203": {
+    "id": 20203,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020311,
+    "corrosionSkill": 2020321,
+    "passives": null,
+    "awakeningPassives": [
+      2020311
+    ],
+    "requirements": [
+      {
+        "attributeType": "VIOLET",
+        "num": 6
+      }
+    ]
+  },
+  "20204": {
+    "id": 20204,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020411,
+    "corrosionSkill": 2020421,
+    "passives": null,
+    "awakeningPassives": [
+      2020411
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20206": {
+    "id": 20206,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020611,
+    "corrosionSkill": 2020621,
+    "passives": null,
+    "awakeningPassives": [
+      2020611
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      }
+    ]
+  },
+  "20207": {
+    "id": 20207,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020711,
+    "corrosionSkill": 2020721,
+    "passives": null,
+    "awakeningPassives": [
+      2020711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20208": {
+    "id": 20208,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020811,
+    "corrosionSkill": 2020821,
+    "passives": null,
+    "awakeningPassives": [
+      2020811
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 5
+      }
+    ]
+  },
+  "20209": {
+    "id": 20209,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 0.5,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020911,
+    "corrosionSkill": 2020921,
+    "passives": null,
+    "awakeningPassives": [
+      2020911
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 5
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20210": {
+    "id": 20210,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 0.75,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2021011,
+    "corrosionSkill": 2021021,
+    "passives": null,
+    "awakeningPassives": [
+      2021011
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "21101": {
+    "id": 21101,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2110111
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "21102": {
+    "id": 21102,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 0.75,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110211,
+    "corrosionSkill": 2110221,
+    "passives": null,
+    "awakeningPassives": [
+      2110211
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      }
+    ]
+  },
+  "21103": {
+    "id": 21103,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.5,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110311,
+    "corrosionSkill": 2110321,
+    "passives": null,
+    "awakeningPassives": [
+      2110311
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "21104": {
+    "id": 21104,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110411,
+    "corrosionSkill": 2110421,
+    "passives": null,
+    "awakeningPassives": [
+      2110411
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      }
+    ]
+  },
+  "21105": {
+    "id": 21105,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.75,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110511,
+    "corrosionSkill": 2110521,
+    "passives": null,
+    "awakeningPassives": [
+      2110511
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "21106": {
+    "id": 21106,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 0.5,
+      "pride": 0.5,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110611,
+    "corrosionSkill": 2110621,
+    "passives": null,
+    "awakeningPassives": [
+      2110611
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      }
+    ]
+  },
+  "21107": {
+    "id": 21107,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110711,
+    "corrosionSkill": 2110721,
+    "passives": null,
+    "awakeningPassives": [
+      2110711
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 4
+      }
+    ]
+  },
+  "21108": {
+    "id": 21108,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110811,
+    "corrosionSkill": 2110821,
+    "passives": null,
+    "awakeningPassives": [
+      2110811
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      }
+    ]
+  },
+  "21201": {
+    "id": 21201,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0.75,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2120111
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 3
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      }
+    ]
+  },
+  "21202": {
+    "id": 21202,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0.75,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120211,
+    "corrosionSkill": 2120221,
+    "passives": null,
+    "awakeningPassives": [
+      2120211
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      }
+    ]
+  },
+  "21203": {
+    "id": 21203,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120311,
+    "corrosionSkill": 2120321,
+    "passives": null,
+    "awakeningPassives": [
+      2120311
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 4
+      }
+    ]
+  },
+  "21204": {
+    "id": 21204,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120411,
+    "corrosionSkill": 2120421,
+    "passives": null,
+    "awakeningPassives": [
+      2120411
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "21205": {
+    "id": 21205,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.5,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120511,
+    "corrosionSkill": 2120521,
+    "passives": null,
+    "awakeningPassives": [
+      2120511
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "21206": {
+    "id": 21206,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120611,
+    "corrosionSkill": 2120621,
+    "passives": null,
+    "awakeningPassives": [
+      2120611
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 4
+      }
+    ]
+  },
+  "21207": {
+    "id": 21207,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 0.75,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120711,
+    "corrosionSkill": 2120721,
+    "passives": null,
+    "awakeningPassives": [
+      2120711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "21208": {
+    "id": 21208,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 0.75,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120811,
+    "corrosionSkill": 2120821,
+    "passives": null,
+    "awakeningPassives": [
+      2120811
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "21209": {
+    "id": 21209,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 0.5,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2120911,
+    "corrosionSkill": 2120921,
+    "passives": null,
+    "awakeningPassives": [
+      2120911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20205": {
+    "id": 20205,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2020511,
+    "corrosionSkill": 2020521,
+    "passives": null,
+    "awakeningPassives": [
+      2020511
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      }
+    ]
+  },
+  "20605": {
+    "id": 20605,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060511,
+    "corrosionSkill": 2060521,
+    "passives": null,
+    "awakeningPassives": [
+      2060511
+    ],
+    "requirements": [
+      {
+        "attributeType": "SHAMROCK",
+        "num": 6
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      }
+    ]
+  },
+  "20406": {
+    "id": 20406,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040611,
+    "corrosionSkill": 2040621,
+    "passives": null,
+    "awakeningPassives": [
+      2040611
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20805": {
+    "id": 20805,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 0.75,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080511,
+    "corrosionSkill": 2080521,
+    "passives": null,
+    "awakeningPassives": [
+      2080511
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20904": {
+    "id": 20904,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090411,
+    "corrosionSkill": 2090421,
+    "passives": null,
+    "awakeningPassives": [
+      2090411
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "21005": {
+    "id": 21005,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100511,
+    "corrosionSkill": 2100521,
+    "passives": null,
+    "awakeningPassives": [
+      2100511
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 5
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "20308": {
+    "id": 20308,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030811,
+    "corrosionSkill": 2030821,
+    "passives": null,
+    "awakeningPassives": [
+      2030811
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 5
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      }
+    ]
+  },
+  "20809": {
+    "id": 20809,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080911,
+    "corrosionSkill": 2080921,
+    "passives": null,
+    "awakeningPassives": [
+      2080911
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20608": {
+    "id": 20608,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0.5,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060811,
+    "corrosionSkill": 2060821,
+    "passives": null,
+    "awakeningPassives": [
+      2060811
+    ],
+    "requirements": [
+      {
+        "attributeType": "SHAMROCK",
+        "num": 5
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "21008": {
+    "id": 21008,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 0.5,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100811,
+    "corrosionSkill": 2100821,
+    "passives": null,
+    "awakeningPassives": [
+      2100811
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 6
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20709": {
+    "id": 20709,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070911,
+    "corrosionSkill": 2070921,
+    "passives": null,
+    "awakeningPassives": [
+      2070911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "21109": {
+    "id": 21109,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2110911,
+    "corrosionSkill": 2110921,
+    "passives": null,
+    "awakeningPassives": [
+      2110911
+    ],
+    "requirements": [
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      }
+    ]
+  },
+  "20409": {
+    "id": 20409,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 0.75,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040911,
+    "corrosionSkill": 2040921,
+    "passives": null,
+    "awakeningPassives": [
+      2040911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 4
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      }
+    ]
+  },
+  "20108": {
+    "id": 20108,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 0.5,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2010811,
+    "corrosionSkill": 2010821,
+    "passives": null,
+    "awakeningPassives": [
+      2010811
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 4
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 4
+      }
+    ]
+  },
+  "201011": {
+    "id": 201011,
+    "attributeResists": {},
+    "corrosion": null,
+    "awakeningSkill": 2010112,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2010111
+    ],
+    "requirements": null
+  },
+  "203011": {
+    "id": 203011,
+    "attributeResists": {},
+    "corrosion": null,
+    "awakeningSkill": 2030112,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2030111
+    ],
+    "requirements": null
+  },
+  "205011": {
+    "id": 205011,
+    "attributeResists": {},
+    "corrosion": null,
+    "awakeningSkill": 2050112,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2050111
+    ],
+    "requirements": null
+  },
+  "206011": {
+    "id": 206011,
+    "attributeResists": {},
+    "corrosion": null,
+    "awakeningSkill": 2060112,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2060111
+    ],
+    "requirements": null
+  },
+  "211011": {
+    "id": 211011,
+    "attributeResists": {},
+    "corrosion": null,
+    "awakeningSkill": 2110112,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2110111
+    ],
+    "requirements": null
+  },
+  "20301": {
+    "id": 20301,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2030111
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20302": {
+    "id": 20302,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 2,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030211,
+    "corrosionSkill": 2030221,
+    "passives": null,
+    "awakeningPassives": [
+      2030211
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      }
+    ]
+  },
+  "20303": {
+    "id": 20303,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030311,
+    "corrosionSkill": 2030321,
+    "passives": null,
+    "awakeningPassives": [
+      2030311
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20304": {
+    "id": 20304,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.5,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030411,
+    "corrosionSkill": 2030421,
+    "passives": null,
+    "awakeningPassives": [
+      2030411
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 5
+      }
+    ]
+  },
+  "20305": {
+    "id": 20305,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0.5,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030511,
+    "corrosionSkill": 2030521,
+    "passives": null,
+    "awakeningPassives": [
+      2030511
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      }
+    ]
+  },
+  "20306": {
+    "id": 20306,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030611,
+    "corrosionSkill": 2030621,
+    "passives": null,
+    "awakeningPassives": [
+      2030611
+    ],
+    "requirements": [
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 4
+      }
+    ]
+  },
+  "20307": {
+    "id": 20307,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.5,
+      "sloth": 2,
+      "gluttony": 0.5,
+      "gloom": 2,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030711,
+    "corrosionSkill": 2030721,
+    "passives": null,
+    "awakeningPassives": [
+      2030711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 5
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20309": {
+    "id": 20309,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2030911,
+    "corrosionSkill": 2030921,
+    "passives": null,
+    "awakeningPassives": [
+      2030911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 6
+      }
+    ]
+  },
+  "20401": {
+    "id": 20401,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2040111
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      }
+    ]
+  },
+  "20402": {
+    "id": 20402,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040211,
+    "corrosionSkill": 2040221,
+    "passives": null,
+    "awakeningPassives": [
+      2040211,
+      2040212
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20403": {
+    "id": 20403,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.5,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040311,
+    "corrosionSkill": 2040321,
+    "passives": null,
+    "awakeningPassives": [
+      2040311
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "20404": {
+    "id": 20404,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.75,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040411,
+    "corrosionSkill": 2040421,
+    "passives": null,
+    "awakeningPassives": [
+      2040411
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20405": {
+    "id": 20405,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.75,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040511,
+    "corrosionSkill": 2040521,
+    "passives": null,
+    "awakeningPassives": [
+      2040511
+    ],
+    "requirements": [
+      {
+        "attributeType": "SHAMROCK",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20407": {
+    "id": 20407,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040711,
+    "corrosionSkill": 2040721,
+    "passives": null,
+    "awakeningPassives": [
+      2040711
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20408": {
+    "id": 20408,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2040811,
+    "corrosionSkill": 2040821,
+    "passives": null,
+    "awakeningPassives": [
+      2040811
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 5
+      }
+    ]
+  },
+  "20501": {
+    "id": 20501,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2050111
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20502": {
+    "id": 20502,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050211,
+    "corrosionSkill": 2050221,
+    "passives": null,
+    "awakeningPassives": [
+      2050211
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20503": {
+    "id": 20503,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050311,
+    "corrosionSkill": 2050321,
+    "passives": null,
+    "awakeningPassives": [
+      2050311
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20504": {
+    "id": 20504,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0.75,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050411,
+    "corrosionSkill": 2050421,
+    "passives": null,
+    "awakeningPassives": [
+      2050411
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      }
+    ]
+  },
+  "20505": {
+    "id": 20505,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 2,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050511,
+    "corrosionSkill": 2050521,
+    "passives": null,
+    "awakeningPassives": [
+      2050511
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20506": {
+    "id": 20506,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050611,
+    "corrosionSkill": 2050621,
+    "passives": null,
+    "awakeningPassives": [
+      2050611
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 4
+      }
+    ]
+  },
+  "20507": {
+    "id": 20507,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.5,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050711,
+    "corrosionSkill": 2050721,
+    "passives": null,
+    "awakeningPassives": [
+      2050711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 4
+      }
+    ]
+  },
+  "20508": {
+    "id": 20508,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 0.5,
+      "gluttony": 2,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050811,
+    "corrosionSkill": 2050821,
+    "passives": null,
+    "awakeningPassives": [
+      2050811
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 6
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "20509": {
+    "id": 20509,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2050911,
+    "corrosionSkill": 2050921,
+    "passives": null,
+    "awakeningPassives": [
+      2050911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "20601": {
+    "id": 20601,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 0.75,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2060111
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 5
+      }
+    ]
+  },
+  "20602": {
+    "id": 20602,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.5,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060211,
+    "corrosionSkill": 2060221,
+    "passives": null,
+    "awakeningPassives": [
+      2060211
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 4
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20603": {
+    "id": 20603,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060311,
+    "corrosionSkill": 2060321,
+    "passives": null,
+    "awakeningPassives": [
+      2060311
+    ],
+    "requirements": [
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      }
+    ]
+  },
+  "20604": {
+    "id": 20604,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0.5,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060411,
+    "corrosionSkill": 2060421,
+    "passives": null,
+    "awakeningPassives": [
+      2060411
+    ],
+    "requirements": [
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20606": {
+    "id": 20606,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060611,
+    "corrosionSkill": 2060621,
+    "passives": null,
+    "awakeningPassives": [
+      2060611
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 3
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20607": {
+    "id": 20607,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 0.5,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060711,
+    "corrosionSkill": 2060721,
+    "passives": null,
+    "awakeningPassives": [
+      2060711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      }
+    ]
+  },
+  "20609": {
+    "id": 20609,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.75,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2060911,
+    "corrosionSkill": 2060921,
+    "passives": null,
+    "awakeningPassives": [
+      2060911
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 4
+      }
+    ]
+  },
+  "20701": {
+    "id": 20701,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2070111
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20702": {
+    "id": 20702,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070211,
+    "corrosionSkill": 2070221,
+    "passives": null,
+    "awakeningPassives": [
+      2070211
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20703": {
+    "id": 20703,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070311,
+    "corrosionSkill": 2070321,
+    "passives": null,
+    "awakeningPassives": [
+      2070311
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20704": {
+    "id": 20704,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.5,
+      "sloth": 0.75,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070411,
+    "corrosionSkill": 2070421,
+    "passives": null,
+    "awakeningPassives": [
+      2070411
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      }
+    ]
+  },
+  "20705": {
+    "id": 20705,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.75,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070511,
+    "corrosionSkill": 2070521,
+    "passives": null,
+    "awakeningPassives": [
+      2070511
+    ],
+    "requirements": [
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      }
+    ]
+  },
+  "20706": {
+    "id": 20706,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 0.5,
+      "pride": 0.5,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070611,
+    "corrosionSkill": 2070621,
+    "passives": null,
+    "awakeningPassives": [
+      2070611
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20707": {
+    "id": 20707,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070711,
+    "corrosionSkill": 2070721,
+    "passives": null,
+    "awakeningPassives": [
+      2070711
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20708": {
+    "id": 20708,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2070811,
+    "corrosionSkill": 2070821,
+    "passives": null,
+    "awakeningPassives": [
+      2070811
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "20801": {
+    "id": 20801,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.75,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2080111
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 2
+      }
+    ]
+  },
+  "20802": {
+    "id": 20802,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 0.5,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080211,
+    "corrosionSkill": 2080221,
+    "passives": null,
+    "awakeningPassives": [
+      2080211
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 4
+      }
+    ]
+  },
+  "20803": {
+    "id": 20803,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 0.75,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080311,
+    "corrosionSkill": 2080321,
+    "passives": null,
+    "awakeningPassives": [
+      2080311
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 4
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "20804": {
+    "id": 20804,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080411,
+    "corrosionSkill": 2080421,
+    "passives": null,
+    "awakeningPassives": [
+      2080411
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      }
+    ]
+  },
+  "20806": {
+    "id": 20806,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080611,
+    "corrosionSkill": 2080621,
+    "passives": null,
+    "awakeningPassives": [
+      2080611
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20807": {
+    "id": 20807,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080711,
+    "corrosionSkill": 2080721,
+    "passives": null,
+    "awakeningPassives": [
+      2080711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      }
+    ]
+  },
+  "20808": {
+    "id": 20808,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 0.5,
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2080811,
+    "corrosionSkill": 2080821,
+    "passives": null,
+    "awakeningPassives": [
+      2080811
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20810": {
+    "id": 20810,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 0.75,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2081011,
+    "corrosionSkill": 2081021,
+    "passives": null,
+    "awakeningPassives": [
+      2081011
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "20901": {
+    "id": 20901,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 0.75,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2090111
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      }
+    ]
+  },
+  "20902": {
+    "id": 20902,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.75,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090211,
+    "corrosionSkill": 2090221,
+    "passives": null,
+    "awakeningPassives": [
+      2090211
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  },
+  "20903": {
+    "id": 20903,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 0.5,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090311,
+    "corrosionSkill": 2090321,
+    "passives": null,
+    "awakeningPassives": [
+      2090311
+    ],
+    "requirements": [
+      {
+        "attributeType": "AZURE",
+        "num": 5
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20905": {
+    "id": 20905,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 2,
+      "sloth": 0.75,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090511,
+    "corrosionSkill": 2090521,
+    "passives": null,
+    "awakeningPassives": [
+      2090511
+    ],
+    "requirements": [
+      {
+        "attributeType": "AMBER",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      }
+    ]
+  },
+  "20906": {
+    "id": 20906,
+    "attributeResists": {
+      "wrath": 0.75,
+      "lust": 0.5,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090611,
+    "corrosionSkill": 2090621,
+    "passives": null,
+    "awakeningPassives": [
+      2090611
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 3
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 3
+      }
+    ]
+  },
+  "20907": {
+    "id": 20907,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090711,
+    "corrosionSkill": 2090721,
+    "passives": null,
+    "awakeningPassives": [
+      2090711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 4
+      }
+    ]
+  },
+  "20908": {
+    "id": 20908,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0.75,
+      "gloom": 2,
+      "pride": 0.5,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090811,
+    "corrosionSkill": 2090821,
+    "passives": null,
+    "awakeningPassives": [
+      2090811
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 7
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 3
+      }
+    ]
+  },
+  "20909": {
+    "id": 20909,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2090911,
+    "corrosionSkill": 2090921,
+    "passives": null,
+    "awakeningPassives": [
+      2090911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 2
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 3
+      }
+    ]
+  },
+  "21001": {
+    "id": 21001,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 0.75,
+      "gloom": 1,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100111,
+    "corrosionSkill": null,
+    "passives": null,
+    "awakeningPassives": [
+      2100111
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 3
+      }
+    ]
+  },
+  "21002": {
+    "id": 21002,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100211,
+    "corrosionSkill": 2100221,
+    "passives": null,
+    "awakeningPassives": [
+      2100211
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      }
+    ]
+  },
+  "21003": {
+    "id": 21003,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 0.5,
+      "sloth": 2,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100311,
+    "corrosionSkill": 2100321,
+    "passives": null,
+    "awakeningPassives": [
+      2100311
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 1
+      }
+    ]
+  },
+  "21004": {
+    "id": 21004,
+    "attributeResists": {
+      "wrath": 2,
+      "lust": 2,
+      "sloth": 1,
+      "gluttony": 0.5,
+      "gloom": 0.75,
+      "pride": 1,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100411,
+    "corrosionSkill": 2100421,
+    "passives": null,
+    "awakeningPassives": [
+      2100411
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "SHAMROCK",
+        "num": 4
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      }
+    ]
+  },
+  "21006": {
+    "id": 21006,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 2,
+      "gloom": 0.75,
+      "pride": 1,
+      "envy": 2,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100611,
+    "corrosionSkill": 2100621,
+    "passives": null,
+    "awakeningPassives": [
+      2100611
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 1
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 2
+      },
+      {
+        "attributeType": "AZURE",
+        "num": 3
+      }
+    ]
+  },
+  "21007": {
+    "id": 21007,
+    "attributeResists": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 2,
+      "gluttony": 2,
+      "gloom": 1,
+      "pride": 1,
+      "envy": 0.5,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100711,
+    "corrosionSkill": 2100721,
+    "passives": null,
+    "awakeningPassives": [
+      2100711
+    ],
+    "requirements": [
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 2
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 2
+      }
+    ]
+  },
+  "21009": {
+    "id": 21009,
+    "attributeResists": {
+      "wrath": 0.5,
+      "lust": 0.75,
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 2,
+      "pride": 2,
+      "envy": 1,
+      "white": 2,
+      "black": 2
+    },
+    "corrosion": [
+      {
+        "section": 0.5,
+        "probability": 0.25
+      },
+      {
+        "section": 0.25,
+        "probability": 0.75
+      },
+      {
+        "section": 0,
+        "probability": 1
+      }
+    ],
+    "awakeningSkill": 2100911,
+    "corrosionSkill": 2100921,
+    "passives": null,
+    "awakeningPassives": [
+      2100911
+    ],
+    "requirements": [
+      {
+        "attributeType": "CRIMSON",
+        "num": 3
+      },
+      {
+        "attributeType": "SCARLET",
+        "num": 2
+      },
+      {
+        "attributeType": "AMBER",
+        "num": 1
+      },
+      {
+        "attributeType": "INDIGO",
+        "num": 1
+      },
+      {
+        "attributeType": "VIOLET",
+        "num": 1
+      }
+    ]
+  }
+}
