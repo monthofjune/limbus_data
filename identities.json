@@ -1383,13 +1383,13 @@
       "associations": []
     },
     {
-      "id": "öufi_assoc_south_section_3_heathcliff",
+      "id": "oufi_assoc_south_section_3_heathcliff",
       "sinner": "heathcliff",
       "name": "Öufi Assoc. South Section 3 Heathcliff",
       "nameKo": "남부 외우피 협회 3과",
       "star": 3,
       "keywords": ["tremor"],
-      "image": "öufi_assoc_south_section_3_heathcliff_profile",
+      "image": "oufi_assoc_south_section_3_heathcliff_profile",
       "skills": [],
       "defense": null,
       "resists": {},
