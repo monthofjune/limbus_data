@@ -12,6 +12,31 @@
     "keywords": [
       "sinking"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 72,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -28,6 +53,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      5,
+      8
+    ],
+    "hp": 82,
+    "stagger": [
+      60,
+      30
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -43,6 +92,30 @@
     "star": 3,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -61,6 +134,31 @@
       "tremor",
       "sinking"
     ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 2,
     "updatedDate": 20230615
   },
@@ -76,6 +174,31 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 2,
     "updatedDate": 20230920
@@ -94,6 +217,30 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 79,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 0,
     "updatedDate": 20231109
   },
@@ -111,6 +258,30 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 3,
     "updatedDate": 20231207
   },
@@ -126,6 +297,30 @@
     "star": 2,
     "keywords": [
       "sinking"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      60,
+      30
     ],
     "season": 0,
     "updatedDate": 20240125
@@ -143,6 +338,30 @@
     "keywords": [
       "bleed"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 70,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 0,
     "updatedDate": 20240516
   },
@@ -158,6 +377,30 @@
     "star": 3,
     "keywords": [
       "sinking"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 66,
+    "stagger": [
+      60,
+      30,
+      15
     ],
     "season": 9104,
     "updatedDate": 20240905
@@ -175,6 +418,29 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 73,
+    "stagger": [
+      50
+    ],
     "season": 5,
     "updatedDate": 20250123
   },
@@ -190,6 +456,30 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20250220
@@ -208,6 +498,31 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      30,
+      15
+    ],
     "season": 6,
     "updatedDate": 20250703
   },
@@ -224,6 +539,29 @@
     "keywords": [
       "tremor",
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      60,
+      30
     ],
     "season": 6,
     "updatedDate": 20250828
@@ -242,6 +580,32 @@
       "sinking",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 1,
+      "blunt": 1
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [
+      "wrath"
+    ],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 66,
+    "stagger": [
+      65
+    ],
     "season": 7,
     "updatedDate": 20260219
   },
@@ -256,6 +620,31 @@
     "titleKo": "LCB 수감자",
     "star": 1,
     "keywords": [],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      4
+    ],
+    "hp": 84,
+    "stagger": [
+      60,
+      30,
+      15
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -271,6 +660,29 @@
     "star": 2,
     "keywords": [
       "charge"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      2,
+      4
+    ],
+    "hp": 88,
+    "stagger": [
+      60,
+      30
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -289,6 +701,31 @@
       "rupture",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 1,
     "updatedDate": 20230227
   },
@@ -305,6 +742,31 @@
     "keywords": [
       "bleed"
     ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 1,
     "updatedDate": 20230323
   },
@@ -319,6 +781,30 @@
     "titleKo": "남부 츠바이 협회 4과",
     "star": 2,
     "keywords": [],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      55,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230810
   },
@@ -335,6 +821,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230907
   },
@@ -350,6 +860,29 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      65,
+      35
     ],
     "season": 9101,
     "updatedDate": 20231026
@@ -368,6 +901,31 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 3,
     "updatedDate": 20240222
   },
@@ -383,6 +941,31 @@
     "star": 2,
     "keywords": [
       "sinking"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 4,
     "updatedDate": 20240404
@@ -400,6 +983,31 @@
     "keywords": [
       "charge"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 4,
     "updatedDate": 20240808
   },
@@ -415,6 +1023,29 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      50,
+      20
     ],
     "season": 5,
     "updatedDate": 20250123
@@ -433,6 +1064,30 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 60,
+    "stagger": [
+      70,
+      50,
+      20
+    ],
     "season": 0,
     "updatedDate": 20251009
   },
@@ -449,6 +1104,29 @@
     "keywords": [
       "bleed",
       "charge"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 92,
+    "stagger": [
+      50,
+      30
     ],
     "season": 7,
     "updatedDate": 20260402
@@ -467,6 +1145,31 @@
       "burn",
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [
+      "gluttony"
+    ],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      55,
+      25
+    ],
     "season": 9109,
     "updatedDate": 20260709
   },
@@ -482,6 +1185,31 @@
     "star": 1,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 60,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -499,6 +1227,31 @@
     "keywords": [
       "poise"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 82,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -514,6 +1267,30 @@
     "star": 2,
     "keywords": [
       "sinking"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35
     ],
     "season": 1,
     "updatedDate": 20230227
@@ -531,6 +1308,29 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      5,
+      8
+    ],
+    "hp": 86,
+    "stagger": [
+      60
+    ],
     "season": 0,
     "updatedDate": 20230406
   },
@@ -546,6 +1346,31 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 68,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 2,
     "updatedDate": 20231004
@@ -563,6 +1388,28 @@
     "keywords": [
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 82,
+    "stagger": [
+      50
+    ],
     "season": 0,
     "updatedDate": 20231221
   },
@@ -578,6 +1425,30 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 9102,
     "updatedDate": 20240111
@@ -595,6 +1466,30 @@
     "keywords": [
       "sinking"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 4,
     "updatedDate": 20240328
   },
@@ -610,6 +1505,30 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20240516
@@ -628,6 +1547,31 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 70,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20240725
   },
@@ -643,6 +1587,30 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 73,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 5,
     "updatedDate": 20241017
@@ -660,6 +1628,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 5,
     "updatedDate": 20250320
   },
@@ -675,6 +1667,30 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 6,
     "updatedDate": 20250731
@@ -693,6 +1709,27 @@
       "burn",
       "bleed"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "envy": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 91,
+    "stagger": [
+      75
+    ],
     "season": 7,
     "updatedDate": 20260528
   },
@@ -708,6 +1745,30 @@
     "star": 1,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 72,
+    "stagger": [
+      70,
+      30
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -725,6 +1786,30 @@
     "keywords": [
       "burn"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 63,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -741,6 +1826,31 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 1,
     "updatedDate": 20230227
   },
@@ -756,6 +1866,30 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      70,
+      30
     ],
     "season": 1,
     "updatedDate": 20230420
@@ -775,6 +1909,31 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 2,
     "updatedDate": 20230608
   },
@@ -789,6 +1948,28 @@
     "titleKo": "남부 츠바이 협회 4과",
     "star": 3,
     "keywords": [],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 90,
+    "stagger": [
+      50
+    ],
     "season": 0,
     "updatedDate": 20230810
   },
@@ -806,6 +1987,30 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 3,
     "updatedDate": 20231116
   },
@@ -822,6 +2027,31 @@
     "keywords": [
       "bleed"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 3,
     "updatedDate": 20240222
   },
@@ -837,6 +2067,30 @@
     "star": 3,
     "keywords": [
       "sinking"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 4,
     "updatedDate": 20240404
@@ -855,6 +2109,28 @@
       "bleed",
       "rupture"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 108,
+    "stagger": [
+      80
+    ],
     "season": 5,
     "updatedDate": 20241031
   },
@@ -870,6 +2146,28 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 2,
+      "lust": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      70,
+      0
     ],
     "season": 5,
     "updatedDate": 20250306
@@ -888,6 +2186,30 @@
       "bleed",
       "tremor"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 9107,
     "updatedDate": 20251106
   },
@@ -905,6 +2227,28 @@
       "burn",
       "sinking"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      1,
+      4
+    ],
+    "hp": 86,
+    "stagger": [
+      40
+    ],
     "season": 7,
     "updatedDate": 20260205
   },
@@ -920,6 +2264,29 @@
     "keywords": [
       "rupture",
       "charge"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      5,
+      7
+    ],
+    "hp": 86,
+    "stagger": [
+      60,
+      30
     ],
     "season": 7,
     "updatedDate": 20260319
@@ -938,6 +2305,28 @@
       "burn",
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 85,
+    "stagger": [
+      55
+    ],
     "season": 9109,
     "updatedDate": 20260709
   },
@@ -954,6 +2343,31 @@
     "keywords": [
       "rupture",
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 6,
     "updatedDate": 20250515
@@ -972,6 +2386,31 @@
       "rupture",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 6,
     "updatedDate": 20250515
   },
@@ -987,6 +2426,28 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      50
     ],
     "season": 6,
     "updatedDate": 20250522
@@ -1005,6 +2466,29 @@
       "sinking",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 57,
+    "stagger": [
+      60,
+      30
+    ],
     "season": 7,
     "updatedDate": 20251231
   },
@@ -1021,6 +2505,29 @@
     "keywords": [
       "tremor",
       "sinking"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 73,
+    "stagger": [
+      50
     ],
     "season": 7,
     "updatedDate": 20251231
@@ -1039,6 +2546,29 @@
       "sinking",
       "poise"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 7,
     "updatedDate": 20260108
   },
@@ -1055,6 +2585,29 @@
     "keywords": [
       "sinking"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 72,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1069,6 +2622,29 @@
     "titleKo": "코끼리반 반장",
     "star": 1,
     "keywords": [],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      4
+    ],
+    "hp": 84,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1084,6 +2660,28 @@
     "star": 1,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      0
     ],
     "season": 0,
     "updatedDate": 20260326
@@ -1101,6 +2699,28 @@
     "keywords": [
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1116,6 +2736,28 @@
     "star": 1,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      3
+    ],
+    "hp": 90,
+    "stagger": [
+      0
     ],
     "season": 0,
     "updatedDate": 20260326
@@ -1134,6 +2776,29 @@
       "rupture",
       "sinking"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1149,6 +2814,28 @@
     "star": 1,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 78,
+    "stagger": [
+      0
     ],
     "season": 0,
     "updatedDate": 20260326
@@ -1166,6 +2853,28 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      5,
+      8
+    ],
+    "hp": 78,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1181,6 +2890,28 @@
     "star": 1,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 78,
+    "stagger": [
+      0
     ],
     "season": 0,
     "updatedDate": 20260326
@@ -1198,6 +2929,28 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 60,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1213,6 +2966,29 @@
     "star": 1,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 60,
+    "stagger": [
+      0
     ],
     "season": 0,
     "updatedDate": 20260326
@@ -1230,6 +3006,29 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 72,
+    "stagger": [
+      0
+    ],
     "season": 0,
     "updatedDate": 20260326
   },
@@ -1245,6 +3044,30 @@
     "star": 1,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -1263,6 +3086,31 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -1278,6 +3126,29 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 69,
+    "stagger": [
+      80,
+      60
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -1296,6 +3167,30 @@
       "bleed",
       "tremor"
     ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 82,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 1,
     "updatedDate": 20230504
   },
@@ -1310,6 +3205,30 @@
     "titleKo": "남부 섕크 협회 5과 부장",
     "star": 3,
     "keywords": [],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 72,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230720
   },
@@ -1325,6 +3244,29 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 86,
+    "stagger": [
+      50,
+      20
     ],
     "season": 3,
     "updatedDate": 20231123
@@ -1342,6 +3284,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      50,
+      20
+    ],
     "season": 9102,
     "updatedDate": 20240111
   },
@@ -1357,6 +3323,31 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 3,
     "updatedDate": 20240222
@@ -1374,6 +3365,29 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 95,
+    "stagger": [
+      50
+    ],
     "season": 0,
     "updatedDate": 20240627
   },
@@ -1389,6 +3403,30 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 63,
+    "stagger": [
+      65,
+      40,
+      20
     ],
     "season": 5,
     "updatedDate": 20241212
@@ -1407,6 +3445,30 @@
       "burn",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 82,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "updatedDate": 20250306
   },
   {
@@ -1423,6 +3485,29 @@
       "rupture",
       "sinking",
       "charge"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "envy": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      15
     ],
     "season": 9106,
     "updatedDate": 20250717
@@ -1441,6 +3526,29 @@
       "rupture",
       "sinking"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 82,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 6,
     "updatedDate": 20251120
   },
@@ -1456,6 +3564,30 @@
     "star": 1,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -1473,6 +3605,31 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 63,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -1488,6 +3645,30 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -1505,6 +3686,31 @@
     "keywords": [
       "bleed"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 70,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 1,
     "updatedDate": 20230420
   },
@@ -1520,6 +3726,30 @@
     "star": 3,
     "keywords": [
       "charge"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230824
@@ -1539,6 +3769,30 @@
       "rupture",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 3,
     "updatedDate": 20231116
   },
@@ -1554,6 +3808,31 @@
     "star": 2,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20240307
@@ -1571,6 +3850,30 @@
     "keywords": [
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 70,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 4,
     "updatedDate": 20240418
   },
@@ -1586,6 +3889,31 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 71,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 4,
     "updatedDate": 20240613
@@ -1604,6 +3932,29 @@
       "bleed",
       "charge"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 9104,
     "updatedDate": 20240905
   },
@@ -1619,6 +3970,29 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35
     ],
     "season": 5,
     "updatedDate": 20250320
@@ -1637,6 +4011,30 @@
       "bleed",
       "tremor"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [
+      "pride"
+    ],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      50
+    ],
     "season": 6,
     "updatedDate": 20250911
   },
@@ -1654,6 +4052,28 @@
       "rupture",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 82,
+    "stagger": [
+      30
+    ],
     "season": 6,
     "updatedDate": 20251204
   },
@@ -1670,6 +4090,29 @@
     "keywords": [
       "tremor",
       "sinking"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 75,
+    "stagger": [
+      65,
+      35
     ],
     "season": 9108,
     "updatedDate": 20260305
@@ -1689,6 +4132,28 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      40
+    ],
     "season": 7,
     "updatedDate": 20260514
   },
@@ -1705,6 +4170,29 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      3
+    ],
+    "hp": 90,
+    "stagger": [
+      50,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -1720,6 +4208,31 @@
     "star": 2,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 82,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -1738,6 +4251,29 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 79,
+    "stagger": [
+      60,
+      30
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -1753,6 +4289,29 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      5
+    ],
+    "hp": 99,
+    "stagger": [
+      50
     ],
     "season": 1,
     "updatedDate": 20230309
@@ -1771,6 +4330,29 @@
       "tremor",
       "charge"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 2,
     "updatedDate": 20230601
   },
@@ -1788,6 +4370,29 @@
       "bleed",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      5
+    ],
+    "hp": 95,
+    "stagger": [
+      40
+    ],
     "season": 0,
     "updatedDate": 20230713
   },
@@ -1803,6 +4408,29 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      55,
+      20
     ],
     "season": 3,
     "updatedDate": 20231123
@@ -1820,6 +4448,28 @@
     "keywords": [
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      80,
+      20
+    ],
     "season": 3,
     "updatedDate": 20240222
   },
@@ -1836,6 +4486,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 4,
     "updatedDate": 20240328
   },
@@ -1851,6 +4525,30 @@
     "star": 3,
     "keywords": [
       "sinking"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      65,
+      35
     ],
     "season": 0,
     "updatedDate": 20240711
@@ -1869,6 +4567,29 @@
       "rupture",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35
+    ],
     "season": 5,
     "updatedDate": 20241010
   },
@@ -1885,6 +4606,29 @@
     "keywords": [
       "burn",
       "tremor"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      65
     ],
     "season": 6,
     "updatedDate": 20250619
@@ -1903,6 +4647,28 @@
       "bleed",
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 88,
+    "stagger": [
+      65
+    ],
     "season": 6,
     "updatedDate": 20251030
   },
@@ -1919,6 +4685,28 @@
     "keywords": [
       "burn",
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 2,
+      "lust": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 72,
+    "stagger": [
+      65,
+      35
     ],
     "season": 9108,
     "updatedDate": 20260305
@@ -1937,6 +4725,29 @@
       "bleed",
       "sinking"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40
+    ],
     "season": 7,
     "updatedDate": 20260416
   },
@@ -1954,6 +4765,31 @@
       "rupture",
       "sinking"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -1969,6 +4805,30 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -1986,6 +4846,31 @@
     "keywords": [
       "bleed"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 76,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 1,
     "updatedDate": 20230227
   },
@@ -2002,6 +4887,29 @@
     "keywords": [
       "burn"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 76,
+    "stagger": [
+      70,
+      30
+    ],
     "season": 0,
     "updatedDate": 20230406
   },
@@ -2017,6 +4925,29 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      6
+    ],
+    "hp": 99,
+    "stagger": [
+      50
     ],
     "season": 2,
     "updatedDate": 20230629
@@ -2035,6 +4966,30 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      55,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230824
   },
@@ -2050,6 +5005,30 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 9101,
     "updatedDate": 20231026
@@ -2067,6 +5046,30 @@
     "keywords": [
       "sinking"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 79,
+    "stagger": [
+      70,
+      30
+    ],
     "season": 0,
     "updatedDate": 20240125
   },
@@ -2082,6 +5085,31 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 70,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 4,
     "updatedDate": 20240613
@@ -2099,6 +5127,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 5,
     "updatedDate": 20241017
   },
@@ -2114,6 +5166,29 @@
     "star": 3,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 70,
+    "stagger": [
+      70,
+      30
     ],
     "season": 9105,
     "updatedDate": 20250109
@@ -2132,6 +5207,30 @@
       "sinking",
       "charge"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 65,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20250430
   },
@@ -2148,6 +5247,29 @@
     "keywords": [
       "rupture",
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 60,
+    "stagger": [
+      65,
+      35
     ],
     "season": 6,
     "updatedDate": 20250814
@@ -2166,6 +5288,28 @@
       "bleed",
       "charge"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      50
+    ],
     "season": 7,
     "updatedDate": 20260402
   },
@@ -2183,6 +5327,29 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 84,
+    "stagger": [
+      55,
+      20
+    ],
     "season": 7,
     "updatedDate": 20260611
   },
@@ -2199,6 +5366,30 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 78,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -2214,6 +5405,30 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 82,
+    "stagger": [
+      80,
+      60
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -2233,6 +5448,30 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -2248,6 +5487,31 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 1,
     "updatedDate": 20230323
@@ -2266,6 +5530,30 @@
       "rupture",
       "sinking"
     ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      5
+    ],
+    "hp": 86,
+    "stagger": [
+      55,
+      20
+    ],
     "season": 2,
     "updatedDate": 20230608
   },
@@ -2281,6 +5569,31 @@
     "star": 2,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20230907
@@ -2299,6 +5612,27 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "pride": 1,
+      "envy": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 99,
+    "stagger": [
+      80
+    ],
     "season": 3,
     "updatedDate": 20231207
   },
@@ -2315,6 +5649,30 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 79,
+    "stagger": [
+      65,
+      35
+    ],
     "updatedDate": 20240321
   },
   {
@@ -2329,6 +5687,31 @@
     "star": 2,
     "keywords": [
       "charge"
+    ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 71,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 4,
     "updatedDate": 20240808
@@ -2346,6 +5729,31 @@
     "keywords": [
       "sinking"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 73,
+    "stagger": [
+      65,
+      35,
+      20
+    ],
     "season": 4,
     "updatedDate": 20240822
   },
@@ -2362,6 +5770,30 @@
     "keywords": [
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 70,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 9105,
     "updatedDate": 20250109
   },
@@ -2377,6 +5809,29 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 70,
+    "stagger": [
+      60,
+      30
     ],
     "season": 5,
     "updatedDate": 20250206
@@ -2395,6 +5850,28 @@
       "rupture",
       "charge"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 99,
+    "stagger": [
+      50
+    ],
     "season": 6,
     "updatedDate": 20251023
   },
@@ -2411,6 +5888,28 @@
     "keywords": [
       "burn",
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 92,
+    "stagger": [
+      70
     ],
     "season": 6,
     "updatedDate": 20251120
@@ -2429,6 +5928,27 @@
       "burn",
       "bleed"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "envy": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 90,
+    "stagger": [
+      50
+    ],
     "season": 7,
     "updatedDate": 20260430
   },
@@ -2446,6 +5966,29 @@
       "burn",
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 83,
+    "stagger": [
+      55,
+      20
+    ],
     "season": 7,
     "updatedDate": 20260625
   },
@@ -2461,6 +6004,29 @@
     "star": 1,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      5,
+      8
+    ],
+    "hp": 78,
+    "stagger": [
+      60,
+      30
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -2479,6 +6045,29 @@
       "sinking",
       "charge"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 79,
+    "stagger": [
+      70,
+      30
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -2494,6 +6083,30 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 82,
+    "stagger": [
+      80,
+      60
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -2512,6 +6125,29 @@
       "tremor",
       "rupture"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      6
+    ],
+    "hp": 82,
+    "stagger": [
+      55,
+      20
+    ],
     "season": 1,
     "updatedDate": 20230227
   },
@@ -2529,6 +6165,29 @@
       "tremor",
       "rupture"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      7
+    ],
+    "hp": 90,
+    "stagger": [
+      50,
+      20
+    ],
     "season": 2,
     "updatedDate": 20230615
   },
@@ -2544,6 +6203,30 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 79,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20230706
@@ -2561,6 +6244,30 @@
     "keywords": [
       "tremor",
       "sinking"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 70,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 2,
     "updatedDate": 20230727
@@ -2580,6 +6287,30 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 68,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 3,
     "updatedDate": 20240208
   },
@@ -2597,6 +6328,31 @@
       "sinking",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gluttony": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 73,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 4,
     "updatedDate": 20240418
   },
@@ -2613,6 +6369,28 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 93,
+    "stagger": [
+      55
+    ],
     "season": 0,
     "updatedDate": 20241003
   },
@@ -2628,6 +6406,30 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 93,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 5,
     "updatedDate": 20250206
@@ -2646,6 +6448,31 @@
       "rupture",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 70,
+    "stagger": [
+      70,
+      40,
+      15
+    ],
     "season": 6,
     "updatedDate": 20250605
   },
@@ -2662,6 +6489,31 @@
     "keywords": [
       "tremor",
       "sinking"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [
+      "envy"
+    ],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 88,
+    "stagger": [
+      65,
+      35
     ],
     "season": 9107,
     "updatedDate": 20251106
@@ -2680,6 +6532,29 @@
       "burn",
       "bleed"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 92,
+    "stagger": [
+      50,
+      30
+    ],
     "season": 7,
     "updatedDate": 20260122
   },
@@ -2697,6 +6572,28 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 85,
+    "stagger": [
+      40
+    ],
     "season": 7,
     "updatedDate": 20260611
   },
@@ -2712,6 +6609,30 @@
     "star": 1,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 78,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -2730,6 +6651,29 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 86,
+    "stagger": [
+      60,
+      30
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -2744,6 +6688,30 @@
     "titleKo": "LCCB 대리",
     "star": 2,
     "keywords": [],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 63,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 1,
     "updatedDate": 20230227
   },
@@ -2759,6 +6727,31 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 69,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 1,
     "updatedDate": 20230309
@@ -2777,6 +6770,31 @@
       "tremor",
       "charge"
     ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      6
+    ],
+    "hp": 73,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 2,
     "updatedDate": 20230601
   },
@@ -2792,6 +6810,29 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      4
+    ],
+    "hp": 88,
+    "stagger": [
+      55,
+      20
     ],
     "season": 0,
     "updatedDate": 20230713
@@ -2809,6 +6850,28 @@
     "keywords": [
       "sinking"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 88,
+    "stagger": [
+      50
+    ],
     "season": 0,
     "updatedDate": 20230921
   },
@@ -2824,6 +6887,31 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 79,
+    "stagger": [
+      65,
+      35,
+      15
     ],
     "season": 0,
     "updatedDate": 20240307
@@ -2841,6 +6929,30 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 86,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 0,
     "updatedDate": 20240627
   },
@@ -2856,6 +6968,29 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 81,
+    "stagger": [
+      60,
+      30
     ],
     "season": 0,
     "updatedDate": 20240919
@@ -2874,6 +7009,29 @@
       "bleed",
       "rupture"
     ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 79,
+    "stagger": [
+      70,
+      30
+    ],
     "season": 5,
     "updatedDate": 20241114
   },
@@ -2890,6 +7048,28 @@
     "keywords": [
       "sinking",
       "charge"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "gloom": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 0.5,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 90,
+    "stagger": [
+      50
     ],
     "season": 9106,
     "updatedDate": 20250717
@@ -2908,6 +7088,29 @@
       "sinking",
       "charge"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 86,
+    "stagger": [
+      70,
+      35
+    ],
     "season": 0,
     "updatedDate": 20251218
   },
@@ -2924,6 +7127,29 @@
     "keywords": [
       "bleed",
       "sinking"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 71,
+    "stagger": [
+      60,
+      30
     ],
     "season": 7,
     "updatedDate": 20260416
@@ -2942,6 +7168,30 @@
       "burn",
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "pride": 1
+    },
+    "altSins": [
+      "lust"
+    ],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      60
+    ],
     "season": 7,
     "updatedDate": 20260625
   },
@@ -2957,6 +7207,30 @@
     "star": 1,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "pride": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 60,
+    "stagger": [
+      70,
+      40,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -2975,6 +7249,30 @@
       "bleed",
       "poise"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      2,
+      5
+    ],
+    "hp": 86,
+    "stagger": [
+      60,
+      30
+    ],
     "season": 0,
     "updatedDate": 20230227
   },
@@ -2990,6 +7288,29 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      4
+    ],
+    "hp": 88,
+    "stagger": [
+      55,
+      20
     ],
     "season": 0,
     "updatedDate": 20230227
@@ -3008,6 +7329,28 @@
       "sinking",
       "poise"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "sloth": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      2,
+      3
+    ],
+    "hp": 95,
+    "stagger": [
+      50
+    ],
     "season": 1,
     "updatedDate": 20230227
   },
@@ -3025,6 +7368,29 @@
       "burn",
       "bleed"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      8
+    ],
+    "hp": 79,
+    "stagger": [
+      70,
+      30
+    ],
     "season": 1,
     "updatedDate": 20230504
   },
@@ -3040,6 +7406,30 @@
     "star": 2,
     "keywords": [
       "rupture"
+    ],
+    "atkTypes": {
+      "pierce": 1,
+      "blunt": 2
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 76,
+    "stagger": [
+      70,
+      30
     ],
     "season": 2,
     "updatedDate": 20230629
@@ -3057,6 +7447,31 @@
     "keywords": [
       "tremor"
     ],
+    "atkTypes": {
+      "pierce": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 69,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 2,
     "updatedDate": 20230727
   },
@@ -3072,6 +7487,29 @@
     "star": 3,
     "keywords": [
       "poise"
+    ],
+    "atkTypes": {
+      "pierce": 3
+    },
+    "atkSins": {
+      "lust": 1,
+      "gluttony": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      8
+    ],
+    "hp": 79,
+    "stagger": [
+      65,
+      35
     ],
     "season": 0,
     "updatedDate": 20231221
@@ -3089,6 +7527,31 @@
     "keywords": [
       "burn"
     ],
+    "atkTypes": {
+      "slash": 2,
+      "pierce": 1
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "envy": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 66,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 9103,
     "updatedDate": 20240502
   },
@@ -3104,6 +7567,29 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "atkTypes": {
+      "slash": 2,
+      "blunt": 1
+    },
+    "atkSins": {
+      "lust": 1,
+      "sloth": 1,
+      "gloom": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 86,
+    "stagger": [
+      60
     ],
     "season": 5,
     "updatedDate": 20241010
@@ -3121,6 +7607,30 @@
     "keywords": [
       "rupture"
     ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 1,
+      "blunt": 0.5
+    },
+    "speed": [
+      3,
+      7
+    ],
+    "hp": 73,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 0,
     "updatedDate": 20241128
   },
@@ -3136,6 +7646,28 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "atkTypes": {
+      "blunt": 3
+    },
+    "atkSins": {
+      "gluttony": 1,
+      "envy": 2
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 1,
+      "pierce": 2,
+      "blunt": 0.5
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 92,
+    "stagger": [
+      50,
+      20
     ],
     "season": 0,
     "updatedDate": 20250403
@@ -3154,6 +7686,31 @@
       "burn",
       "tremor"
     ],
+    "atkTypes": {
+      "slash": 1,
+      "pierce": 2
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "sloth": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 2,
+      "pierce": 0.5,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 79,
+    "stagger": [
+      70,
+      40,
+      20
+    ],
     "season": 6,
     "updatedDate": 20250619
   },
@@ -3171,6 +7728,30 @@
       "burn",
       "rupture"
     ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "lust": 1,
+      "gluttony": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 75,
+    "stagger": [
+      65,
+      35,
+      15
+    ],
     "season": 6,
     "updatedDate": 20250828
   },
@@ -3187,6 +7768,29 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "atkTypes": {
+      "slash": 3
+    },
+    "atkSins": {
+      "wrath": 1,
+      "gloom": 1,
+      "pride": 1
+    },
+    "altSins": [],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 2,
+      "blunt": 1
+    },
+    "speed": [
+      4,
+      6
+    ],
+    "hp": 66,
+    "stagger": [
+      65,
+      35
     ],
     "season": 7,
     "updatedDate": 20260205

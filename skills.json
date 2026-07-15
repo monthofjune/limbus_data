@@ -38210,29 +38210,6 @@
       }
     ]
   },
-  "2010112": {
-    "id": 2010112,
-    "sin": "sloth",
-    "attackType": "pierce",
-    "defType": "attack",
-    "skillTier": 3,
-    "levels": [
-      {
-        "level": 4,
-        "name": "Crow’s Eye View",
-        "nameKo": "오감도",
-        "desc": null,
-        "descKo": null,
-        "coins": [
-          [
-            "[OnSucceedAttack] Inflict 2 [Reduction] this turn and next turn",
-            "[OnSucceedAttack] Apply 3 [Agility] to all allies next turn",
-            "[OnSucceedAttack] Inflict 2 [Binding] next turn"
-          ]
-        ]
-      }
-    ]
-  },
   "2010211": {
     "id": 2010211,
     "sin": "wrath",
@@ -40321,28 +40298,6 @@
       }
     ]
   },
-  "2030112": {
-    "id": 2030112,
-    "sin": "lust",
-    "attackType": "pierce",
-    "defType": "attack",
-    "skillTier": 3,
-    "levels": [
-      {
-        "level": 4,
-        "name": "La Sangre de Sancho",
-        "nameKo": "라 샹그레 데 산쵸",
-        "desc": null,
-        "descKo": null,
-        "coins": [
-          [
-            "[OnSucceedAttack] Inflict 8 [Laceration]",
-            "[OnSucceedAttack] Heal by 50% of damage dealt"
-          ]
-        ]
-      }
-    ]
-  },
   "2030211": {
     "id": 2030211,
     "sin": "gloom",
@@ -42151,31 +42106,6 @@
       }
     ]
   },
-  "2050112": {
-    "id": 2050112,
-    "sin": "pride",
-    "attackType": "blunt",
-    "defType": "attack",
-    "skillTier": 3,
-    "levels": [
-      {
-        "level": 4,
-        "name": "Chains of Others",
-        "nameKo": "타인의 사슬",
-        "desc": null,
-        "descKo": null,
-        "coins": [
-          [
-            "[OnSucceedAttack] Inflict 5 [Binding] next turn",
-            "[OnSucceedAttack] Gain 3 [Binding] next turn",
-            "[OnSucceedAttack] Inflict 4 [Reduction] next turn",
-            "[OnSucceedAttack] Gain 3 [Reduction] next turn",
-            "[OnSucceedAttack] Gain 2 [Protection] next turn"
-          ]
-        ]
-      }
-    ]
-  },
   "2050211": {
     "id": 2050211,
     "sin": "envy",
@@ -43110,27 +43040,6 @@
           [
             "[OnSucceedAttack] Inflict 5 [Sinking]",
             "[EndSkill] Next turn: -2 SP Loss Efficiency to all allies; -2 to amount of SP lost from E.G.O use"
-          ]
-        ]
-      }
-    ]
-  },
-  "2060112": {
-    "id": 2060112,
-    "sin": "gloom",
-    "attackType": "blunt",
-    "defType": "attack",
-    "skillTier": 3,
-    "levels": [
-      {
-        "level": 4,
-        "name": "Land of Illusion",
-        "nameKo": "허환경",
-        "desc": "[EndSkill] Heal 15 SP for this unit and all allies\n[EndSkill] Remove Burn from this unit and all allies",
-        "descKo": "[EndSkill] 본인과 아군의 정신력 15 회복\n[EndSkill] 본인과 아군의 화상 제거",
-        "coins": [
-          [
-            "[OnSucceedAttack] Inflict 5 [Sinking]"
           ]
         ]
       }
@@ -47771,28 +47680,6 @@
           [
             "[OnSucceedAttack] Inflict 4 [Burst]",
             "[EnemyKill] Give 1 [AttackDmgUp] to a random ally"
-          ]
-        ]
-      }
-    ]
-  },
-  "2110112": {
-    "id": 2110112,
-    "sin": "pride",
-    "attackType": "pierce",
-    "defType": "attack",
-    "skillTier": 3,
-    "levels": [
-      {
-        "level": 4,
-        "name": "To Páthos Máthos",
-        "nameKo": "토 파토스 마토스",
-        "desc": "If target’s HP is below 50%, deal +30% damage",
-        "descKo": "대상의 체력이 50%미만일 때 피해량 +30%",
-        "coins": [
-          [
-            "[OnSucceedAttack] Inflict 4 [Burst]",
-            "[EnemyKill] Apply 1 [AttackDmgUp] to a random ally"
           ]
         ]
       }

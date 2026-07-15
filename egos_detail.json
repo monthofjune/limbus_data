@@ -2296,66 +2296,6 @@
       }
     ]
   },
-  "201011": {
-    "id": 201011,
-    "attributeResists": {},
-    "corrosion": null,
-    "awakeningSkill": 2010112,
-    "corrosionSkill": null,
-    "passives": null,
-    "awakeningPassives": [
-      2010111
-    ],
-    "requirements": null
-  },
-  "203011": {
-    "id": 203011,
-    "attributeResists": {},
-    "corrosion": null,
-    "awakeningSkill": 2030112,
-    "corrosionSkill": null,
-    "passives": null,
-    "awakeningPassives": [
-      2030111
-    ],
-    "requirements": null
-  },
-  "205011": {
-    "id": 205011,
-    "attributeResists": {},
-    "corrosion": null,
-    "awakeningSkill": 2050112,
-    "corrosionSkill": null,
-    "passives": null,
-    "awakeningPassives": [
-      2050111
-    ],
-    "requirements": null
-  },
-  "206011": {
-    "id": 206011,
-    "attributeResists": {},
-    "corrosion": null,
-    "awakeningSkill": 2060112,
-    "corrosionSkill": null,
-    "passives": null,
-    "awakeningPassives": [
-      2060111
-    ],
-    "requirements": null
-  },
-  "211011": {
-    "id": 211011,
-    "attributeResists": {},
-    "corrosion": null,
-    "awakeningSkill": 2110112,
-    "corrosionSkill": null,
-    "passives": null,
-    "awakeningPassives": [
-      2110111
-    ],
-    "requirements": null
-  },
   "20301": {
     "id": 20301,
     "attributeResists": {

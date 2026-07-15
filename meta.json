@@ -2,10 +2,10 @@
   "source": "E:\\jngl\\library\\LetheLauncher-Distribution-7\\BepInEx\\plugins\\Lethe\\dumpedData",
   "counts": {
     "identities": 195,
-    "egos": 115,
-    "gifts": 485,
+    "egos": 110,
+    "gifts": 441,
     "packs": 117,
-    "skills": 1093,
+    "skills": 1088,
     "passives": 729,
     "hardOnlyGifts": 53,
     "combinableGifts": 59
