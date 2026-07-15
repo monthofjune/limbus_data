@@ -58,15 +58,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010103
       }
     ],
@@ -148,15 +151,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010203
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010202
       }
     ],
@@ -238,15 +244,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010303
       }
     ],
@@ -330,15 +339,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010403
       }
     ],
@@ -419,15 +431,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010503
       }
     ],
@@ -508,15 +523,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010603
       }
     ],
@@ -598,15 +616,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010703
       }
     ],
@@ -686,15 +707,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010803
       }
     ],
@@ -778,15 +802,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1010901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1010902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1010903
       }
     ],
@@ -875,15 +902,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1011001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1011002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1011003
       }
     ],
@@ -967,15 +997,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1011101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1011102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1011103
       }
     ],
@@ -1059,15 +1092,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1011201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1011202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1011203
       }
     ],
@@ -1151,15 +1187,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1011301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1011302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1011303
       }
     ],
@@ -1242,19 +1281,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1011401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1011402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1011403
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1011405
       }
     ],
@@ -1344,19 +1387,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1011501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1011502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1011503
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1011505
       }
     ],
@@ -1454,15 +1501,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020103
       }
     ],
@@ -1544,15 +1594,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020203
       }
     ],
@@ -1634,15 +1687,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020303
       }
     ],
@@ -1725,15 +1781,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020403
       }
     ],
@@ -1816,15 +1875,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020503
       }
     ],
@@ -1907,15 +1969,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020603
       }
     ],
@@ -1997,15 +2062,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020703
       }
     ],
@@ -2089,15 +2157,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020803
       }
     ],
@@ -2181,15 +2252,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1020901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1020902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1020903
       }
     ],
@@ -2274,15 +2348,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021003
       }
     ],
@@ -2366,19 +2443,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021103
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1021105
       }
     ],
@@ -2463,19 +2544,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021303
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1021305
       }
     ],
@@ -2561,27 +2646,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021503
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1021505
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1021506
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1021507
       }
     ],
@@ -2675,23 +2766,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021603
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1021605
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1021606
       }
     ],
@@ -2781,15 +2877,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110103
       }
     ],
@@ -2872,15 +2971,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110203
       }
     ],
@@ -2962,15 +3064,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110303
       }
     ],
@@ -3049,15 +3154,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110403
       }
     ],
@@ -3139,15 +3247,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110503
       }
     ],
@@ -3227,15 +3338,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110603
       }
     ],
@@ -3319,15 +3433,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110703
       }
     ],
@@ -3418,15 +3535,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110803
       }
     ],
@@ -3510,15 +3630,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1110901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1110902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1110903
       }
     ],
@@ -3607,15 +3730,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1111001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1111002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1111003
       }
     ],
@@ -3696,15 +3822,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1111101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1111102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1111103
       }
     ],
@@ -3791,15 +3920,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1111201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1111202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1111203
       }
     ],
@@ -3882,15 +4014,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1111301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1111302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1111303
       }
     ],
@@ -3969,43 +4104,53 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1111501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1111502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1111503
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1111505
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1111506
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1111507
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1111508
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1111509
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1111510
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1111511
       }
     ],
@@ -4103,15 +4248,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120103
       }
     ],
@@ -4194,15 +4342,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120203
       }
     ],
@@ -4284,15 +4435,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120303
       }
     ],
@@ -4372,15 +4526,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120403
       }
     ],
@@ -4463,15 +4620,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120503
       }
     ],
@@ -4551,15 +4711,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120603
       }
     ],
@@ -4641,15 +4804,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120703
       }
     ],
@@ -4732,15 +4898,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120803
       }
     ],
@@ -4823,15 +4992,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1120901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1120902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1120903
       }
     ],
@@ -4912,15 +5084,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121003
       }
     ],
@@ -5007,15 +5182,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121103
       }
     ],
@@ -5099,23 +5277,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121303
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1121305
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1121306
       }
     ],
@@ -5198,15 +5381,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121403
       }
     ],
@@ -5295,19 +5481,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121503
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1121505
       }
     ],
@@ -5396,23 +5586,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121603
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1121605
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1121607
       }
     ],
@@ -5502,15 +5697,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1121201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1121202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1121203
       }
     ],
@@ -5593,15 +5791,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091203
       }
     ],
@@ -5682,19 +5883,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021203
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1021205
       }
     ],
@@ -5783,15 +5988,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1021401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1021402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1021403
       }
     ],
@@ -5876,15 +6084,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1111401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1111402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1111403
       }
     ],
@@ -5969,27 +6180,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1031401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1031402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1031403
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1031405
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1031406
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1031407
       }
     ],
@@ -6020,1074 +6237,6 @@
       "SPIDER_HOUSE_DISCIPLE"
     ],
     "appearance": "10314_Donquixote_Index_DiscipleAppearance"
-  },
-  "400025": {
-    "id": 400025,
-    "hp": {
-      "defaultStat": 72,
-      "incrementByLevel": 2.48
-    },
-    "defCorrection": -2,
-    "minSpeed": [
-      4,
-      4,
-      4,
-      4
-    ],
-    "maxSpeed": [
-      6,
-      7,
-      8,
-      8
-    ],
-    "resists": {
-      "slash": 2,
-      "pierce": 0.5,
-      "blunt": 1
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40002501
-      },
-      {
-        "slot": 2,
-        "skillId": 40002502
-      },
-      {
-        "slot": 1,
-        "skillId": 40002503
-      }
-    ],
-    "defenseSkills": [
-      40002504
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40002501
-    ],
-    "supporterPassives": [
-      40002502
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_3"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400025_YiSang_KidAppearance"
-  },
-  "400026": {
-    "id": 400026,
-    "hp": {
-      "defaultStat": 84,
-      "incrementByLevel": 2.9
-    },
-    "defCorrection": 1,
-    "minSpeed": [
-      1,
-      2,
-      2,
-      2
-    ],
-    "maxSpeed": [
-      3,
-      3,
-      4,
-      4
-    ],
-    "resists": {
-      "slash": 2,
-      "pierce": 0.5,
-      "blunt": 1
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40002601
-      },
-      {
-        "slot": 2,
-        "skillId": 40002602
-      },
-      {
-        "slot": 1,
-        "skillId": 40002603
-      }
-    ],
-    "defenseSkills": [
-      40002604
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40002601
-    ],
-    "supporterPassives": [
-      40002602
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_4"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400026_Faust_KidAppearance"
-  },
-  "400027": {
-    "id": 400027,
-    "hp": {
-      "defaultStat": 66,
-      "incrementByLevel": 2.28
-    },
-    "defCorrection": -2,
-    "minSpeed": [
-      2,
-      2,
-      3,
-      3
-    ],
-    "maxSpeed": [
-      5,
-      6,
-      6,
-      6
-    ],
-    "resists": {
-      "slash": 1,
-      "pierce": 0.5,
-      "blunt": 2
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40002701
-      },
-      {
-        "slot": 2,
-        "skillId": 40002702
-      },
-      {
-        "slot": 1,
-        "skillId": 40002703
-      }
-    ],
-    "defenseSkills": [
-      40002704
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40002701
-    ],
-    "supporterPassives": [
-      40002702
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_4"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400027_Donquixote_KidAppearance"
-  },
-  "400028": {
-    "id": 400028,
-    "hp": {
-      "defaultStat": 66,
-      "incrementByLevel": 2.28
-    },
-    "defCorrection": -4,
-    "minSpeed": [
-      2,
-      2,
-      3,
-      3
-    ],
-    "maxSpeed": [
-      5,
-      6,
-      6,
-      6
-    ],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 1,
-      "blunt": 2
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40002801
-      },
-      {
-        "slot": 2,
-        "skillId": 40002802
-      },
-      {
-        "slot": 1,
-        "skillId": 40002803
-      }
-    ],
-    "defenseSkills": [
-      40002804
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40002801
-    ],
-    "supporterPassives": [
-      40002802
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_4"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400028_Ryoshu_KidAppearance"
-  },
-  "400029": {
-    "id": 400029,
-    "hp": {
-      "defaultStat": 90,
-      "incrementByLevel": 3.1
-    },
-    "defCorrection": 3,
-    "minSpeed": [
-      1,
-      1,
-      2,
-      2
-    ],
-    "maxSpeed": [
-      2,
-      2,
-      3,
-      3
-    ],
-    "resists": {
-      "slash": 1,
-      "pierce": 2,
-      "blunt": 0.5
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40002901
-      },
-      {
-        "slot": 2,
-        "skillId": 40002902
-      },
-      {
-        "slot": 1,
-        "skillId": 40002903
-      }
-    ],
-    "defenseSkills": [
-      40002904
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40002901
-    ],
-    "supporterPassives": [
-      40002902
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_2"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400029_Meursault_KidAppearance"
-  },
-  "400030": {
-    "id": 400030,
-    "hp": {
-      "defaultStat": 66,
-      "incrementByLevel": 2.28
-    },
-    "defCorrection": -2,
-    "minSpeed": [
-      2,
-      2,
-      3,
-      3
-    ],
-    "maxSpeed": [
-      5,
-      6,
-      6,
-      6
-    ],
-    "resists": {
-      "slash": 2,
-      "pierce": 1,
-      "blunt": 0.5
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003001
-      },
-      {
-        "slot": 2,
-        "skillId": 40003002
-      },
-      {
-        "slot": 1,
-        "skillId": 40003003
-      }
-    ],
-    "defenseSkills": [
-      40003004
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003001
-    ],
-    "supporterPassives": [
-      40003002
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_4"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400030_Honglu_KidAppearance"
-  },
-  "400031": {
-    "id": 400031,
-    "hp": {
-      "defaultStat": 78,
-      "incrementByLevel": 2.69
-    },
-    "defCorrection": 0,
-    "minSpeed": [
-      1,
-      1,
-      2,
-      2
-    ],
-    "maxSpeed": [
-      4,
-      5,
-      5,
-      5
-    ],
-    "resists": {
-      "slash": 2,
-      "pierce": 1,
-      "blunt": 0.5
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003101
-      },
-      {
-        "slot": 2,
-        "skillId": 40003102
-      },
-      {
-        "slot": 1,
-        "skillId": 40003103
-      }
-    ],
-    "defenseSkills": [
-      40003104
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003101
-    ],
-    "supporterPassives": [
-      40003102
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_3"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400031_Heathcliff_KidAppearance"
-  },
-  "400032": {
-    "id": 400032,
-    "hp": {
-      "defaultStat": 78,
-      "incrementByLevel": 2.69
-    },
-    "defCorrection": 0,
-    "minSpeed": [
-      5,
-      5,
-      5,
-      5
-    ],
-    "maxSpeed": [
-      6,
-      7,
-      8,
-      8
-    ],
-    "resists": {
-      "slash": 2,
-      "pierce": 1,
-      "blunt": 0.5
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003201
-      },
-      {
-        "slot": 2,
-        "skillId": 40003202
-      },
-      {
-        "slot": 1,
-        "skillId": 40003203
-      }
-    ],
-    "defenseSkills": [
-      40003204
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003201
-    ],
-    "supporterPassives": [
-      40003202
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_3"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400032_Ishmael_KidAppearance"
-  },
-  "400033": {
-    "id": 400033,
-    "hp": {
-      "defaultStat": 78,
-      "incrementByLevel": 2.69
-    },
-    "defCorrection": 0,
-    "minSpeed": [
-      1,
-      1,
-      2,
-      2
-    ],
-    "maxSpeed": [
-      4,
-      5,
-      5,
-      5
-    ],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 2,
-      "blunt": 1
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003301
-      },
-      {
-        "slot": 2,
-        "skillId": 40003302
-      },
-      {
-        "slot": 1,
-        "skillId": 40003303
-      }
-    ],
-    "defenseSkills": [
-      40003304
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003301
-    ],
-    "supporterPassives": [
-      40003302
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_2"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400033_Rodion_KidAppearance"
-  },
-  "400034": {
-    "id": 400034,
-    "hp": {
-      "defaultStat": 60,
-      "incrementByLevel": 2.07
-    },
-    "defCorrection": -4,
-    "minSpeed": [
-      3,
-      3,
-      3,
-      3
-    ],
-    "maxSpeed": [
-      5,
-      6,
-      7,
-      7
-    ],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 2,
-      "blunt": 1
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003401
-      },
-      {
-        "slot": 2,
-        "skillId": 40003402
-      },
-      {
-        "slot": 1,
-        "skillId": 40003403
-      }
-    ],
-    "defenseSkills": [
-      40003404
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003401
-    ],
-    "supporterPassives": [
-      40003402
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_3"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400034_Sinclair_KidAppearance"
-  },
-  "400035": {
-    "id": 400035,
-    "hp": {
-      "defaultStat": 60,
-      "incrementByLevel": 2.07
-    },
-    "defCorrection": -4,
-    "minSpeed": [
-      3,
-      3,
-      3,
-      3
-    ],
-    "maxSpeed": [
-      5,
-      6,
-      7,
-      7
-    ],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 1,
-      "blunt": 2
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003501
-      },
-      {
-        "slot": 2,
-        "skillId": 40003502
-      },
-      {
-        "slot": 1,
-        "skillId": 40003503
-      }
-    ],
-    "defenseSkills": [
-      40003504
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003501
-    ],
-    "supporterPassives": [
-      40003502
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_2"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400035_Outis_KidAppearance"
-  },
-  "400036": {
-    "id": 400036,
-    "hp": {
-      "defaultStat": 72,
-      "incrementByLevel": 2.48
-    },
-    "defCorrection": 0,
-    "minSpeed": [
-      2,
-      3,
-      3,
-      3
-    ],
-    "maxSpeed": [
-      6,
-      6,
-      7,
-      7
-    ],
-    "resists": {
-      "slash": 1,
-      "pierce": 0.5,
-      "blunt": 2
-    },
-    "stagger": [
-      0
-    ],
-    "mentalCondition": {
-      "add": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
-            },
-            {
-              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
-            },
-            {
-              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
-            }
-          ]
-        }
-      ],
-      "min": [
-        {
-          "level": 1,
-          "conditionIDList": [
-            {
-              "conditionID": "OnDieAllyAsLevelRatio10"
-            }
-          ]
-        }
-      ]
-    },
-    "attackSkills": [
-      {
-        "slot": 3,
-        "skillId": 40003601
-      },
-      {
-        "slot": 2,
-        "skillId": 40003602
-      },
-      {
-        "slot": 1,
-        "skillId": 40003603
-      }
-    ],
-    "defenseSkills": [
-      40003604
-    ],
-    "panicSkill": 1000104,
-    "battlePassives": [
-      40003601
-    ],
-    "supporterPassives": [
-      40003602
-    ],
-    "associations": [
-      "X1P1C1_ASSO_1",
-      "X1P1C1_ASSO_2"
-    ],
-    "unitKeywords": [
-      "SMALL",
-      "NONE_BLOOD"
-    ],
-    "appearance": "400036_Gregor_KidAppearance"
   },
   "10301": {
     "id": 10301,
@@ -7148,15 +6297,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030103
       }
     ],
@@ -7239,15 +6391,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030203
       }
     ],
@@ -7327,15 +6482,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030303
       }
     ],
@@ -7416,15 +6574,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030403
       }
     ],
@@ -7506,15 +6667,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030503
       }
     ],
@@ -7595,15 +6759,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030603
       }
     ],
@@ -7686,15 +6853,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030703
       }
     ],
@@ -7779,15 +6949,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030803
       }
     ],
@@ -7870,15 +7043,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1030901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1030902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1030903
       }
     ],
@@ -7959,27 +7135,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1031001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1031002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1031003
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1031005
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1031006
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1031007
       }
     ],
@@ -8069,15 +7251,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1031101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1031102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1031103
       }
     ],
@@ -8163,27 +7348,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1031201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1031202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1031203
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1031205
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1031206
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1031207
       }
     ],
@@ -8269,15 +7460,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1031301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1031302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1031303
       }
     ],
@@ -8364,15 +7558,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040103
       }
     ],
@@ -8455,15 +7652,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040203
       }
     ],
@@ -8545,15 +7745,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040303
       }
     ],
@@ -8635,15 +7838,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040403
       }
     ],
@@ -8726,15 +7932,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040503
       }
     ],
@@ -8816,15 +8025,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040603
       }
     ],
@@ -8909,15 +8121,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040703
       }
     ],
@@ -9001,15 +8216,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040803
       }
     ],
@@ -9094,15 +8312,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1040901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1040902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1040903
       }
     ],
@@ -9183,19 +8404,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1041001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1041002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1041003
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1041005
       }
     ],
@@ -9280,15 +8505,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1041101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1041102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1041103
       }
     ],
@@ -9370,23 +8598,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1041201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1041202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1041203
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1041205
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1041206
       }
     ],
@@ -9473,15 +8706,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1041301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1041302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1041303
       }
     ],
@@ -9563,23 +8799,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1041401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1041402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1041403
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1041405
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1041406
       }
     ],
@@ -9663,31 +8904,38 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1041501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1041502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1041503
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1041505
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1041506
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1041507
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1041508
       }
     ],
@@ -9780,15 +9028,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050103
       }
     ],
@@ -9871,15 +9122,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050203
       }
     ],
@@ -9960,15 +9214,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050303
       }
     ],
@@ -10048,15 +9305,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050403
       }
     ],
@@ -10137,15 +9397,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050503
       }
     ],
@@ -10225,15 +9488,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050603
       }
     ],
@@ -10314,15 +9580,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050703
       }
     ],
@@ -10407,15 +9676,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050803
       }
     ],
@@ -10504,15 +9776,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1050901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1050902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1050903
       }
     ],
@@ -10595,15 +9870,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1051001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1051002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1051003
       }
     ],
@@ -10684,15 +9962,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1051101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1051102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1051103
       }
     ],
@@ -10776,19 +10057,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1051201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1051202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1051203
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1051205
       }
     ],
@@ -10874,19 +10159,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1051301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1051302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1051303
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1051305
       }
     ],
@@ -10975,15 +10264,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1051401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1051402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1051403
       }
     ],
@@ -11069,15 +10361,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1051501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1051502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1051503
       }
     ],
@@ -11163,15 +10458,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060103
       }
     ],
@@ -11254,15 +10552,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060203
       }
     ],
@@ -11344,15 +10645,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060303
       }
     ],
@@ -11434,15 +10738,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060403
       }
     ],
@@ -11522,15 +10829,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060503
       }
     ],
@@ -11610,15 +10920,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060603
       }
     ],
@@ -11700,15 +11013,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060703
       }
     ],
@@ -11790,15 +11106,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060803
       }
     ],
@@ -11881,15 +11200,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1060901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1060902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1060903
       }
     ],
@@ -11971,15 +11293,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1061001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1061002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1061003
       }
     ],
@@ -12061,27 +11386,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1061101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1061102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1061103
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1061105
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1061106
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1061108
       }
     ],
@@ -12168,15 +11499,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1061201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1061202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1061203
       }
     ],
@@ -12261,23 +11595,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1061301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1061302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1061303
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1061305
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1061306
       }
     ],
@@ -12360,27 +11699,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1061401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1061402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1061403
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1061405
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1061408
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1061406
       }
     ],
@@ -12477,15 +11822,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1061501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1061502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1061503
       }
     ],
@@ -12569,15 +11917,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070103
       }
     ],
@@ -12659,15 +12010,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070203
       }
     ],
@@ -12749,15 +12103,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070303
       }
     ],
@@ -12839,15 +12196,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070403
       }
     ],
@@ -12932,15 +12292,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070503
       }
     ],
@@ -13022,15 +12385,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070603
       }
     ],
@@ -13112,15 +12478,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070703
       }
     ],
@@ -13202,15 +12571,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070803
       }
     ],
@@ -13293,15 +12665,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1070901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1070902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1070903
       }
     ],
@@ -13385,19 +12760,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071003
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1071005
       }
     ],
@@ -13487,19 +12866,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071103
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1071105
       }
     ],
@@ -13587,19 +12970,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071203
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1071205
       }
     ],
@@ -13683,15 +13070,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071303
       }
     ],
@@ -13772,19 +13162,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071403
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1071405
       }
     ],
@@ -13870,27 +13264,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071503
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1071505
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1071506
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1071507
       }
     ],
@@ -13978,19 +13378,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1071601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1071602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1071603
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1071606
       }
     ],
@@ -14079,15 +13483,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080103
       }
     ],
@@ -14169,15 +13576,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080203
       }
     ],
@@ -14258,15 +13668,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080303
       }
     ],
@@ -14347,15 +13760,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080403
       }
     ],
@@ -14436,15 +13852,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080503
       }
     ],
@@ -14527,15 +13946,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080603
       }
     ],
@@ -14617,15 +14039,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080703
       }
     ],
@@ -14710,15 +14135,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080803
       }
     ],
@@ -14805,15 +14233,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1080901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1080902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1080903
       }
     ],
@@ -14895,15 +14326,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1081001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1081002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1081003
       }
     ],
@@ -14986,15 +14420,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1081101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1081102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1081103
       }
     ],
@@ -15080,19 +14517,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1081201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1081202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1081203
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1081205
       }
     ],
@@ -15176,19 +14617,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1081301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1081302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1081303
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1081305
       }
     ],
@@ -15272,15 +14717,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1081401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1081402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1081403
       }
     ],
@@ -15366,23 +14814,28 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1081501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1081502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1081503
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1081505
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1081506
       }
     ],
@@ -15474,15 +14927,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090103
       }
     ],
@@ -15564,15 +15020,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090203
       }
     ],
@@ -15655,15 +15114,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090303
       }
     ],
@@ -15745,15 +15207,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090403
       }
     ],
@@ -15835,15 +15300,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090503
       }
     ],
@@ -15924,15 +15392,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090603
       }
     ],
@@ -16012,15 +15483,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090703
       }
     ],
@@ -16102,15 +15576,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090803
       }
     ],
@@ -16193,15 +15670,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1090901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1090902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1090903
       }
     ],
@@ -16281,15 +15761,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091003
       }
     ],
@@ -16375,19 +15858,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091103
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1091105
       }
     ],
@@ -16475,27 +15962,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091303
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1091305
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1091306
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1091307
       }
     ],
@@ -16589,15 +16082,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091403
       }
     ],
@@ -16678,19 +16174,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091503
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1091505
       }
     ],
@@ -16777,27 +16277,33 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1091601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1091602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1091603
       },
       {
-        "slot": 0,
+        "slot": 1,
+        "copies": 0,
         "skillId": 1091605
       },
       {
-        "slot": 0,
+        "slot": 2,
+        "copies": 0,
         "skillId": 1091606
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1091607
       }
     ],
@@ -16897,15 +16403,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100103
       }
     ],
@@ -16987,15 +16496,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100203
       }
     ],
@@ -17078,15 +16590,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100303
       }
     ],
@@ -17166,15 +16681,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100403
       }
     ],
@@ -17256,15 +16774,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100503
       }
     ],
@@ -17346,15 +16867,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100601
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100602
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100603
       }
     ],
@@ -17436,15 +16960,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100701
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100702
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100703
       }
     ],
@@ -17525,15 +17052,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100801
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100802
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100803
       }
     ],
@@ -17619,19 +17149,23 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1100901
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1100902
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1100903
       },
       {
-        "slot": 0,
+        "slot": 3,
+        "copies": 0,
         "skillId": 1100905
       }
     ],
@@ -17718,15 +17252,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1101001
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1101002
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1101003
       }
     ],
@@ -17808,15 +17345,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1101101
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1101102
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1101103
       }
     ],
@@ -17902,15 +17442,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1101201
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1101202
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1101203
       }
     ],
@@ -17996,15 +17539,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1101301
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1101302
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1101303
       }
     ],
@@ -18092,15 +17638,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1101401
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1101402
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1101403
       }
     ],
@@ -18184,15 +17733,18 @@
     },
     "attackSkills": [
       {
-        "slot": 3,
+        "slot": 1,
+        "copies": 3,
         "skillId": 1101501
       },
       {
         "slot": 2,
+        "copies": 2,
         "skillId": 1101502
       },
       {
-        "slot": 1,
+        "slot": 3,
+        "copies": 1,
         "skillId": 1101503
       }
     ],

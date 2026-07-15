@@ -1,0 +1,1923 @@
+{
+  "AStrokeOfDeath": {
+    "name": "Liferender",
+    "nameKo": "절명"
+  },
+  "AccelBullet": {
+    "name": "Acceleration Round",
+    "nameKo": "가속탄"
+  },
+  "AccumulatedPastSinner": {
+    "name": "Accumulated Past",
+    "nameKo": "축적된 과거"
+  },
+  "AengduNewArmIshmael": {
+    "name": "Dokkaebi Arms",
+    "nameKo": "도깨비팔"
+  },
+  "Aggro": {
+    "name": "Aggro",
+    "nameKo": "도발치"
+  },
+  "Agility": {
+    "name": "Haste",
+    "nameKo": "신속"
+  },
+  "AimForTheGoal": {
+    "name": "Target Aim",
+    "nameKo": "목표 조준"
+  },
+  "AlcoholKimPersonal": {
+    "name": "Drink to the Fallen",
+    "nameKo": "추모주"
+  },
+  "AllyKill": {
+    "name": "[On Ally Kill]",
+    "nameKo": "[아군 처치 시]"
+  },
+  "AllyKillFail": {
+    "name": "[On Ally Kill Fail]",
+    "nameKo": "[아군 처치 실패시]"
+  },
+  "AlriuneEGOThey": {
+    "name": "Faint Aroma",
+    "nameKo": "잔향"
+  },
+  "AlriuneEGOWe": {
+    "name": "Petals",
+    "nameKo": "꽃잎"
+  },
+  "AlwaysUseEGOPassive2010911": {
+    "name": "[Always Active - Lobotomy E.G.O::Solemn Lament Yi Sang Exclusive Effect]",
+    "nameKo": "[로보토미 E.G.O::엄숙한 애도 이상 전용 상시 효과]"
+  },
+  "AlwaysUseEGOPassive2050911": {
+    "name": "[Always Active - Blade Lineage Mentor Meursault Exclusive Effect]",
+    "nameKo": "[검계 우두머리 뫼르소 전용 상시 효과]"
+  },
+  "AmberTakeDamageDown": {
+    "name": "Sloth Protection",
+    "nameKo": "나태 보호"
+  },
+  "AmberTakeDamageUp": {
+    "name": "Sloth Fragility",
+    "nameKo": "나태 취약"
+  },
+  "ArcanaQueenOfHate": {
+    "name": "Magical Arcana",
+    "nameKo": "매지컬 아르카나"
+  },
+  "ArrowInTheEyeFau": {
+    "name": "Lodged Arrow",
+    "nameKo": "박힌 화살"
+  },
+  "ArrowShiFau": {
+    "name": "Arrow - Shi",
+    "nameKo": "화살 - 시"
+  },
+  "AssemblePersonality": {
+    "name": "Fanatic",
+    "nameKo": "광신"
+  },
+  "AttackDmgDown": {
+    "name": "Damage Down",
+    "nameKo": "피해량 감소"
+  },
+  "AttackDmgUp": {
+    "name": "Damage Up",
+    "nameKo": "피해량 증가"
+  },
+  "AttackDown": {
+    "name": "Offense Level Down",
+    "nameKo": "공격 레벨 감소"
+  },
+  "AttackUp": {
+    "name": "Offense Level Up",
+    "nameKo": "공격 레벨 증가"
+  },
+  "AzureDamageUp": {
+    "name": "Gloom DMG Up",
+    "nameKo": "우울 피해량 증가"
+  },
+  "AzureResistDown": {
+    "name": "Gloom Resist Down",
+    "nameKo": "우울 내성 약화"
+  },
+  "AzureResultUp": {
+    "name": "Gloom Power Up",
+    "nameKo": "우울 위력 증가"
+  },
+  "AzureTakeDamageUp": {
+    "name": "Gloom Fragility",
+    "nameKo": "우울 취약"
+  },
+  "BattlefieldHorse": {
+    "name": "Commanding Cry",
+    "nameKo": "호령"
+  },
+  "BearClawWoundAlly": {
+    "name": "Mauled Color [Rouge]",
+    "nameKo": "찢긴 색채 [루주]"
+  },
+  "BeastEyesAlly": {
+    "name": "Overheat",
+    "nameKo": "오버히트"
+  },
+  "BeforeAttack": {
+    "name": "[Before Attack]",
+    "nameKo": "[공격 시작 전]"
+  },
+  "BeforeHit": {
+    "name": "[Before Getting Hit]",
+    "nameKo": "[피격 직전]"
+  },
+  "BeforeUse": {
+    "name": "[Before Use]",
+    "nameKo": "[사용전]"
+  },
+  "Binding": {
+    "name": "Bind",
+    "nameKo": "속박"
+  },
+  "BirdCage": {
+    "name": "Searing Birdcage",
+    "nameKo": "달궈진 새장"
+  },
+  "BlackCloud": {
+    "name": "Dark Cloud",
+    "nameKo": "검은 구름"
+  },
+  "BlackCloudBlade": {
+    "name": "Dark Cloud Blade",
+    "nameKo": "흑운도"
+  },
+  "BlackNightmareYisang": {
+    "name": "Indulgence in Prescripts",
+    "nameKo": "지령 탐닉"
+  },
+  "BlackTearsAlly": {
+    "name": "Deep Tears",
+    "nameKo": "깊은 눈물"
+  },
+  "BladeResultUpTier1": {
+    "name": "Sword of the Homeland - Rending",
+    "nameKo": "본국검 - 세법 전수"
+  },
+  "BladeResultUpTier2": {
+    "name": "Sword of the Homeland - Penetrating",
+    "nameKo": "본국검 - 자법 전수"
+  },
+  "BladelineagePride": {
+    "name": "Bearing of a Salsu",
+    "nameKo": "살수본위"
+  },
+  "Blandishment": {
+    "name": "Faith Beyond Question",
+    "nameKo": "당연한 믿음"
+  },
+  "Blandishment_Shin": {
+    "name": "Shin (心) - Procuration",
+    "nameKo": "신(心) - 대행"
+  },
+  "BlessingAlly": {
+    "name": "Blessing",
+    "nameKo": "가호"
+  },
+  "BlessingOfIndexPrescriptAlly": {
+    "name": "Grace of the Prescript",
+    "nameKo": "지령의 가호"
+  },
+  "BloodArmorCasting": {
+    "name": "Hardblood Cast",
+    "nameKo": "주조된 경혈"
+  },
+  "BloodArmorMeursault": {
+    "name": "Hardblood Armor",
+    "nameKo": "경혈 갑주"
+  },
+  "BloodArmorPersonalityFirst": {
+    "name": "Hardblood",
+    "nameKo": "경혈"
+  },
+  "BloodDinner": {
+    "name": "Bloodfeast",
+    "nameKo": "혈찬"
+  },
+  "BloodDinner_Accumulation": {
+    "name": "Bloodfeast Consumed",
+    "nameKo": "누적 소모 혈찬"
+  },
+  "BloodDinner_Common_Accumulation": {
+    "name": "Bloodfeast Consumed (shared)",
+    "nameKo": "공용 누적 소모 혈찬"
+  },
+  "BloodScissorPersonalityFirst": {
+    "name": "Blood-tinged Scissorblades",
+    "nameKo": "핏빛 가위날"
+  },
+  "BloodyHandGregFirst": {
+    "name": "Bloodied Hand",
+    "nameKo": "피로 물든 손"
+  },
+  "BloomingThornsRodionFirst": {
+    "name": "Blooming Thorn",
+    "nameKo": "피어나는 가시"
+  },
+  "BlueSand": {
+    "name": "Blue Sand",
+    "nameKo": "푸른 모래"
+  },
+  "BoldBrushstrokesRodion": {
+    "name": "Touche Hardie",
+    "nameKo": "과감한 터치"
+  },
+  "BongukGiftEnhance": {
+    "name": "Sword of the Homeland - Striking",
+    "nameKo": "본국검 - 격법 전수"
+  },
+  "BoseProjektil": {
+    "name": "Torn Memory",
+    "nameKo": "찢어진 추억"
+  },
+  "BreakthroughHorse": {
+    "name": "Linebreaker",
+    "nameKo": "적진 주파"
+  },
+  "Breath": {
+    "name": "Poise",
+    "nameKo": "호흡"
+  },
+  "Bullet": {
+    "name": "Ammo",
+    "nameKo": "탄환"
+  },
+  "BulletGodok": {
+    "name": "Bullet - Solitude",
+    "nameKo": "탄환 - 고독"
+  },
+  "BulletLament": {
+    "name": "The Living & The Departed",
+    "nameKo": "산나비·죽은나비"
+  },
+  "BulletPropellantAlly": {
+    "name": "Tigermark Round",
+    "nameKo": "호표탄"
+  },
+  "BulletPropellantSpecialAlly": {
+    "name": "Savage Tigermark Round",
+    "nameKo": "맹호표탄"
+  },
+  "Bullet_LogicAtelier": {
+    "name": "Ammo - Atelier Logic",
+    "nameKo": "탄환 - 로직 아틀리에"
+  },
+  "BurningWoundYisang": {
+    "name": "Sizzling Wound",
+    "nameKo": "이글거리는 상처"
+  },
+  "BurningWoundYisangMask": {
+    "name": "Wound-casing Mask",
+    "nameKo": "상처를 가린 가면"
+  },
+  "Burst": {
+    "name": "Rupture",
+    "nameKo": "파열"
+  },
+  "BurstAgility": {
+    "name": "Deathrite【Haste】",
+    "nameKo": "주살【신속】"
+  },
+  "BurstPoison": {
+    "name": "Deathrite【Venom】",
+    "nameKo": "주살【독】"
+  },
+  "BurstVulnerableZilu": {
+    "name": "Mark of Decay",
+    "nameKo": "붕괴 표식"
+  },
+  "BurstZilu": {
+    "name": "Deathrite 【Fissure】",
+    "nameKo": "주살【파】"
+  },
+  "CanDuelGuard": {
+    "name": "Clashable Guard",
+    "nameKo": "합 가능 가드"
+  },
+  "CantChangeTarget": {
+    "name": "[Target Fixed]",
+    "nameKo": "[대상 변경 불가]"
+  },
+  "CantDuel": {
+    "name": "[Unclashable]",
+    "nameKo": "[합 불가능]"
+  },
+  "CantIdentify": {
+    "name": "[Indiscriminate]",
+    "nameKo": "[피아식별불가]"
+  },
+  "CaseOverheating": {
+    "name": "Overheated Coffin",
+    "nameKo": "과열된 관"
+  },
+  "CentipedePoison": {
+    "name": "Centipede Venom",
+    "nameKo": "지네 독"
+  },
+  "Charge": {
+    "name": "Charge",
+    "nameKo": "충전"
+  },
+  "ChargeBodyArt": {
+    "name": "Corpus Ingredient",
+    "nameKo": "생체 재료"
+  },
+  "ChargeForceField": {
+    "name": "Charge Barrier",
+    "nameKo": "충전 역장"
+  },
+  "ChargeLoad": {
+    "name": "Load",
+    "nameKo": "부하"
+  },
+  "ChargedSting": {
+    "name": "Charged Sting",
+    "nameKo": "전하침"
+  },
+  "CheerUpXichun": {
+    "name": "Assist [援]",
+    "nameKo": "원[援]"
+  },
+  "ChickenFightlust": {
+    "name": "Battleblood Instinct",
+    "nameKo": "혈투본능"
+  },
+  "ChickenStance": {
+    "name": "Bloodflame [血炎]",
+    "nameKo": "혈염 [血炎]"
+  },
+  "ChoSuperCharge": {
+    "name": "Near-light Superbattery",
+    "nameKo": "초아광축전"
+  },
+  "Cianjing": {
+    "name": "Thunderer",
+    "nameKo": "시엔징"
+  },
+  "CloudWall": {
+    "name": "Cumulus Wall",
+    "nameKo": "구름 장벽"
+  },
+  "Coffin": {
+    "name": "Coffin",
+    "nameKo": "관"
+  },
+  "Combustion": {
+    "name": "Burn",
+    "nameKo": "화상"
+  },
+  "ConcentratedAttackMeursault": {
+    "name": "Focused Attack - Meursault",
+    "nameKo": "집중 공격 - 뫼르소"
+  },
+  "ConcussionYisang": {
+    "name": "Concussion",
+    "nameKo": "뇌진탕"
+  },
+  "CondensedBlood": {
+    "name": "Tarnished Blood",
+    "nameKo": "오혈"
+  },
+  "ContemptPersonality": {
+    "name": "Contempt of the Gaze",
+    "nameKo": "시선의 경멸"
+  },
+  "ContemptRyoshu": {
+    "name": "Contempt",
+    "nameKo": "경멸"
+  },
+  "CountSkillMidOutis": {
+    "name": "Rising Fever",
+    "nameKo": "달아오르는 재미"
+  },
+  "CoverAttack": {
+    "name": "Assist Attack",
+    "nameKo": "원호 공격"
+  },
+  "CoveringFire": {
+    "name": "Target Spotted",
+    "nameKo": "타겟 포착"
+  },
+  "CriHurtNightStiletto": {
+    "name": "Deep Wound",
+    "nameKo": "깊은 상처"
+  },
+  "CrimsonDamageUp": {
+    "name": "Wrath DMG Up",
+    "nameKo": "분노 피해량 증가"
+  },
+  "CrimsonResultUp": {
+    "name": "Wrath Power Up",
+    "nameKo": "분노 위력 증가"
+  },
+  "CrimsonTakeDamageUp": {
+    "name": "Wrath Fragility",
+    "nameKo": "분노 취약"
+  },
+  "CriticalActivated": {
+    "name": "[On Crit]",
+    "nameKo": "[크리티컬 발동 시]"
+  },
+  "CriticalDamageUp": {
+    "name": "Crit DMG Up",
+    "nameKo": "크리티컬 피해량 증가"
+  },
+  "CriticalEndSkill": {
+    "name": "[Crit Attack End]",
+    "nameKo": "[크리티컬 공격 종료 시]"
+  },
+  "CriticalEnemyTargetKill": {
+    "name": "[On Crit Kill Against Enemy]",
+    "nameKo": "[크리티컬 적 처치 시]"
+  },
+  "CriticalOnSucceedAttack": {
+    "name": "[On Crit]",
+    "nameKo": "[크리티컬 적중 시]"
+  },
+  "CriticalOnSucceedAttackHead": {
+    "name": "[On Crit - Heads Hit]",
+    "nameKo": "[크리티컬 앞면 적중 시]"
+  },
+  "CriticalTargetKill": {
+    "name": "[On Crit Kill]",
+    "nameKo": "[크리티컬 처치 시]"
+  },
+  "CrushMarks": {
+    "name": "Shattermark",
+    "nameKo": "파쇄흔"
+  },
+  "CuredFilm": {
+    "name": "Hardened Shell-Barrier",
+    "nameKo": "경화막"
+  },
+  "Curse": {
+    "name": "Curse",
+    "nameKo": "저주"
+  },
+  "DarkFlame": {
+    "name": "Dark Flame",
+    "nameKo": "흑염"
+  },
+  "DaughterEducationSpiderOutis": {
+    "name": "Check This Out, Kiddo!",
+    "nameKo": "잘 봐둬라 딸!"
+  },
+  "DawnFaust": {
+    "name": "High Noon",
+    "nameKo": "정오"
+  },
+  "DawnFaustDying": {
+    "name": "Loneliness at High Noon",
+    "nameKo": "고독한 정오"
+  },
+  "DawnGregor": {
+    "name": "From Dawnbreak to Sunset",
+    "nameKo": "새벽에서 노을로"
+  },
+  "DawnGregorDying": {
+    "name": "Blazing Sunset",
+    "nameKo": "타오르는 노을"
+  },
+  "DawnLight": {
+    "name": "Dawnherald",
+    "nameKo": "새벽맞이"
+  },
+  "DawnTeam": {
+    "name": "Dawn Office",
+    "nameKo": "새벽 사무소"
+  },
+  "DefeatDuel": {
+    "name": "[Clash Lose]",
+    "nameKo": "[합 패배]"
+  },
+  "DefenseDown": {
+    "name": "Defense Level Down",
+    "nameKo": "방어 레벨 감소"
+  },
+  "DefenseUp": {
+    "name": "Defense Level Up",
+    "nameKo": "방어 레벨 증가"
+  },
+  "DefensiveStance": {
+    "name": "Defensive Stance",
+    "nameKo": "방어 태세"
+  },
+  "DelusionGregBigBird": {
+    "name": "Dazzle",
+    "nameKo": "현혹"
+  },
+  "DespairAlly": {
+    "name": "Despair",
+    "nameKo": "절망"
+  },
+  "DesperadoBuff": {
+    "name": "Desperado",
+    "nameKo": "데스페라도"
+  },
+  "DevyatDimensionalSack": {
+    "name": "Courier Trunk - Rodion",
+    "nameKo": "딜리버리 캐리어 - 로쟈"
+  },
+  "DevyatDimensionalSackSinclair": {
+    "name": "Courier Trunk - Sinclair",
+    "nameKo": "딜리버리 캐리어 - 싱클레어"
+  },
+  "DianxueDonQuixote": {
+    "name": "Nerve Strike - Don Quixote",
+    "nameKo": "점혈 - 돈키호테"
+  },
+  "DimensionRift": {
+    "name": "Dimensional Rift",
+    "nameKo": "차원 균열"
+  },
+  "Disarming": {
+    "name": "Defense Power Down",
+    "nameKo": "수비 위력 감소"
+  },
+  "Discard": {
+    "name": "Discard",
+    "nameKo": "버림"
+  },
+  "DragonLance": {
+    "name": "Flower-burying Wedge [埋花櫼]",
+    "nameKo": "매화첨[埋花櫼]"
+  },
+  "DuelCounter": {
+    "name": "[Clashable Counter]",
+    "nameKo": "[합 가능 반격]"
+  },
+  "DuelDeclaration_DonQuixote": {
+    "name": "Declared Duel - Don Quixote",
+    "nameKo": "결투 선포 - 돈키호테"
+  },
+  "DuelDeclaration_Outis": {
+    "name": "Declared Duel - Outis",
+    "nameKo": "결투 선포 - 오티스"
+  },
+  "DuelDeclaration_Sinclair": {
+    "name": "Declared Duel - Sinclair",
+    "nameKo": "결투 선포 - 싱클레어"
+  },
+  "DuelEdgeAlly": {
+    "name": "The Duel Escalates",
+    "nameKo": "결투 고조"
+  },
+  "EagleClawWoundAlly": {
+    "name": "Mauled Color [Bleu]",
+    "nameKo": "찢긴 색채 [블뢰]"
+  },
+  "EchoOfMansion": {
+    "name": "Echoes of the Manor",
+    "nameKo": "저택의 메아리"
+  },
+  "EmergencyChargeForceField": {
+    "name": "Emergency Barrier Battery",
+    "nameKo": "비상용 역장 배터리"
+  },
+  "EmittedCurrent": {
+    "name": "Spark Discharge",
+    "nameKo": "방출 전류"
+  },
+  "Emptiness": {
+    "name": "Only Ashes Remain",
+    "nameKo": "하얗게 태워버렸군"
+  },
+  "EndBattle": {
+    "name": "[Turn End]",
+    "nameKo": "[턴 종료 시]"
+  },
+  "EndCoin": {
+    "name": "[Current Coin Attack End]",
+    "nameKo": "[이 코인 공격 종료 시]"
+  },
+  "EndSkill": {
+    "name": "[Attack End]",
+    "nameKo": "[공격 종료시]"
+  },
+  "EndSkillAll": {
+    "name": "[Skill End]",
+    "nameKo": "[스킬 종료시]"
+  },
+  "EndSkillHead": {
+    "name": "[Heads Attack End]",
+    "nameKo": "[앞면 공격 종료 시]"
+  },
+  "EndSkillTail": {
+    "name": "[Tails Attack End]",
+    "nameKo": "[뒷면 공격 종료 시]"
+  },
+  "Endurance": {
+    "name": "Defense Power Up",
+    "nameKo": "수비 위력 증가"
+  },
+  "EnemyKill": {
+    "name": "[On Kill]",
+    "nameKo": "[적 처치 시]"
+  },
+  "EnemyKillFail": {
+    "name": "[Failed Kill]",
+    "nameKo": "[적 처치 실패 시]"
+  },
+  "EngageToBattle": {
+    "name": "Battle Ready",
+    "nameKo": "임전"
+  },
+  "EnhanceZilu": {
+    "name": "Tianjiu Star's Blade",
+    "nameKo": "천구성도"
+  },
+  "Enhancement": {
+    "name": "Attack Power Up",
+    "nameKo": "공격 위력 증가"
+  },
+  "EntangledCurseTalisman": {
+    "name": "Twisted Curse Talisman",
+    "nameKo": "얽혀버린 저주 부적"
+  },
+  "EvolvingManual": {
+    "name": "Maturing Textbook",
+    "nameKo": "완성되어가는 교본"
+  },
+  "FasciaPersonality": {
+    "name": "Artwork: Fascia",
+    "nameKo": "작품명: 파시아"
+  },
+  "FaubismMaskMeursault": {
+    "name": "Le Fauvisme - Masque de Chien",
+    "nameKo": "야수파 - 마스크 드 시앵"
+  },
+  "FaubismWolfMaskRodion": {
+    "name": "Le Fauvisme - Masque de Loup",
+    "nameKo": "야수파 - 마스크 드 루"
+  },
+  "FaustFlameMothEmber": {
+    "name": "Embers",
+    "nameKo": "잔불"
+  },
+  "FellBulletPersonality": {
+    "name": "Fell Bullet",
+    "nameKo": "흉탄"
+  },
+  "FestivalFeverRodion": {
+    "name": "Festive Fever",
+    "nameKo": "축제의 열기"
+  },
+  "FireBulletPropellant": {
+    "name": "Scorch Propellant Ammo",
+    "nameKo": "작열 추진탄"
+  },
+  "FirePunchFuel": {
+    "name": "District 12 Fuel",
+    "nameKo": "12구산 연료"
+  },
+  "FirePunchFuelOverheated": {
+    "name": "Overheated Fuel",
+    "nameKo": "과열 연료"
+  },
+  "Firstlight": {
+    "name": "Battle Instinct",
+    "nameKo": "전투 감각"
+  },
+  "FocusOnActing": {
+    "name": "Focused Performance",
+    "nameKo": "연기 집중"
+  },
+  "ForwardToTheBoundKing": {
+    "name": "Before the King in Binds",
+    "nameKo": "묶인 왕의 앞으로"
+  },
+  "ForwardToTheKing": {
+    "name": "Before the King",
+    "nameKo": "왕의 앞으로"
+  },
+  "FreischutzShotCount": {
+    "name": "Magic Bullet",
+    "nameKo": "마탄"
+  },
+  "FreishutzOutisEgoBullet_1st": {
+    "name": "The First Magic Bullet",
+    "nameKo": "첫번째 마탄"
+  },
+  "FreishutzOutisEgoBullet_2nd": {
+    "name": "The Second Magic Bullet",
+    "nameKo": "두번째 마탄"
+  },
+  "FreishutzOutisEgoBullet_3rd": {
+    "name": "The Third Magic Bullet",
+    "nameKo": "세번째 마탄"
+  },
+  "FreishutzOutisEgoBullet_4th": {
+    "name": "The Fourth Magic Bullet",
+    "nameKo": "네번째 마탄"
+  },
+  "FreishutzOutisEgoBullet_5th": {
+    "name": "The Fifth Magic Bullet",
+    "nameKo": "다섯번째 마탄"
+  },
+  "FreishutzOutisEgoBullet_6th": {
+    "name": "The Sixth Magic Bullet",
+    "nameKo": "여섯번째 마탄"
+  },
+  "FreishutzOutisEgoBullet_7th": {
+    "name": "The Seventh Magic Bullet",
+    "nameKo": "일곱번째 마탄"
+  },
+  "FullReload": {
+    "name": "Reload",
+    "nameKo": "재장전"
+  },
+  "FusionVibration": {
+    "name": "Amplitude Entanglement",
+    "nameKo": "진폭 얽힘"
+  },
+  "FutureEyeOffRodion": {
+    "name": "Eye of Precognition - Overheat",
+    "nameKo": "예지안 과열"
+  },
+  "FutureEyeOnRodion": {
+    "name": "Eye of Precognition",
+    "nameKo": "예지안"
+  },
+  "GazePersonality": {
+    "name": "Gaze of Contempt",
+    "nameKo": "경멸의 시선"
+  },
+  "GazeRyoshu": {
+    "name": "Gaze",
+    "nameKo": "시선"
+  },
+  "GhostKimPersonal": {
+    "name": "Resentment",
+    "nameKo": "원한"
+  },
+  "GiftCannon": {
+    "name": "Firepower",
+    "nameKo": "화력"
+  },
+  "GiftGlass": {
+    "name": "Delicateness",
+    "nameKo": "연약"
+  },
+  "GlowingLantern": {
+    "name": "Fairy Lure",
+    "nameKo": "미끼 요정"
+  },
+  "GodokPanicType": {
+    "name": "Solitude",
+    "nameKo": "고독"
+  },
+  "GoldenOpportunity": {
+    "name": "Viewing the Tableau",
+    "nameKo": "조망"
+  },
+  "GotAComplimentIshmael": {
+    "name": "I Got Praised!",
+    "nameKo": "칭찬 받았다!"
+  },
+  "GreatAesthetics": {
+    "name": "Exquisite Aesthetics",
+    "nameKo": "훌륭한 미감"
+  },
+  "GrownHorns": {
+    "name": "Burgeoning of Horns [發角]",
+    "nameKo": "발각[發角]"
+  },
+  "GrudgePersonal": {
+    "name": "Growing Resentment",
+    "nameKo": "맺혀가는 응어리"
+  },
+  "HanafudaCombo": {
+    "name": "Bright【光】",
+    "nameKo": "광【光】"
+  },
+  "HanafudaOne": {
+    "name": "Hand - Pine Crane Suit",
+    "nameKo": "짝패 - 송학"
+  },
+  "HanafudaThree": {
+    "name": "Hand - Blue Sakura Suit",
+    "nameKo": "짝패 - 청벚꽃"
+  },
+  "HanafudaTwo": {
+    "name": "Hand - Susuki Grass Suit",
+    "nameKo": "짝패 - 억새"
+  },
+  "HeatedGasHarpoon": {
+    "name": "Heated Gas Harpoon",
+    "nameKo": "가열된 가스 작살"
+  },
+  "HeatingWireIshmael": {
+    "name": "Thermal Blades",
+    "nameKo": "열선"
+  },
+  "HeishouAttack": {
+    "name": "Your Will Guides My Blade.",
+    "nameKo": "뜻에 따라, 베겠습니다."
+  },
+  "HeishouCombo": {
+    "name": "Exalted Command",
+    "nameKo": "존명"
+  },
+  "HeishouComboCount": {
+    "name": "Unrelenting Storm",
+    "nameKo": "몰아침"
+  },
+  "HeishouComboCountHonglu": {
+    "name": "Heishou Bolus Contamination [黑獣丸染]",
+    "nameKo": "흑수환염[黑獣丸染]"
+  },
+  "HeishouDeathCount": {
+    "name": "Life from Death [死中求活]",
+    "nameKo": "사중구활[死中求活]"
+  },
+  "HeishouSupportProtect": {
+    "name": "Lordsguard",
+    "nameKo": "호위"
+  },
+  "HeishouSynergy": {
+    "name": "Leash-holder of All Heishou",
+    "nameKo": "모든 흑수의 주인"
+  },
+  "HighVoltageExoshell": {
+    "name": "High-voltage Exoskeleton",
+    "nameKo": "고전압 외피"
+  },
+  "HitDamageUp": {
+    "name": "Blunt DMG Up",
+    "nameKo": "타격 피해량 증가"
+  },
+  "HitResistDown": {
+    "name": "Blunt Resist Down",
+    "nameKo": "타격 내성 약화"
+  },
+  "HitResultUp": {
+    "name": "Blunt Power Up",
+    "nameKo": "타격 위력 증가"
+  },
+  "HitTakeDamageDown": {
+    "name": "Blunt Protection",
+    "nameKo": "타격 보호"
+  },
+  "HitTakeDamageUp": {
+    "name": "Blunt Fragility",
+    "nameKo": "타격 취약"
+  },
+  "HoldingBreath": {
+    "name": "Deep Inhale",
+    "nameKo": "깊은 들숨"
+  },
+  "HorrHurtNightStiletto": {
+    "name": "Fatal Wound",
+    "nameKo": "치명적인 상처"
+  },
+  "HugeIrritationAlly": {
+    "name": "Shin (心) - Tiantui Star [天退星]",
+    "nameKo": "신(心) - 천퇴성[天退星]"
+  },
+  "HurtNightStiletto": {
+    "name": "Open Wound",
+    "nameKo": "상처"
+  },
+  "HystericGauge": {
+    "name": "Hysteria",
+    "nameKo": "히스테리"
+  },
+  "IDMicroChip": {
+    "name": "Resident Reg. Microchip",
+    "nameKo": "주민등록 마이크로칩"
+  },
+  "IndexPrescriptDon_0": {
+    "name": "Prescript: [Device] I",
+    "nameKo": "지령[단말기] I"
+  },
+  "IndexPrescriptDon_1": {
+    "name": "Prescript: [Device] II",
+    "nameKo": "지령[단말기] II"
+  },
+  "IndexPrescriptDon_2": {
+    "name": "Prescript: [Device] III",
+    "nameKo": "지령[단말기] III"
+  },
+  "IndexPrescriptDon_3": {
+    "name": "Prescript: [Device] IV",
+    "nameKo": "지령[단말기] IV"
+  },
+  "IndexPrescriptFaust_0": {
+    "name": "Prescript: [Paper Slip] I",
+    "nameKo": "지령[쪽지] I"
+  },
+  "IndexPrescriptFaust_1": {
+    "name": "Prescript: [Paper Slip] II",
+    "nameKo": "지령[쪽지] II"
+  },
+  "IndexPrescriptFaust_2": {
+    "name": "Prescript: [Paper Slip] III",
+    "nameKo": "지령[쪽지] III"
+  },
+  "IndexPrescriptFaust_3": {
+    "name": "Prescript: [Paper Slip] IV",
+    "nameKo": "지령[쪽지] IV"
+  },
+  "IndexPrescriptTargetMarkToEnemy": {
+    "name": "Mark of the Prescript",
+    "nameKo": "지령 표식"
+  },
+  "IndexPrescriptTargetToEnemy": {
+    "name": "The Prescript's Target",
+    "nameKo": "지령 대상"
+  },
+  "IndexPrescriptYi_0": {
+    "name": "Prescript: [Device] I",
+    "nameKo": "지령[단말기] I"
+  },
+  "IndexPrescriptYi_1": {
+    "name": "Prescript: [Device] II",
+    "nameKo": "지령[단말기] II"
+  },
+  "IndexPrescriptYi_2": {
+    "name": "Prescript: [Device] III",
+    "nameKo": "지령[단말기] III"
+  },
+  "IndexPrescriptYi_3": {
+    "name": "Prescript: [Device] IV",
+    "nameKo": "지령[단말기] IV"
+  },
+  "IndexPrescript_Base": {
+    "name": "Prescript",
+    "nameKo": "지령"
+  },
+  "IndexPrescript_Base_2nd": {
+    "name": "Prescript",
+    "nameKo": "지령"
+  },
+  "IndigoDamageUp": {
+    "name": "Pride DMG Up",
+    "nameKo": "오만 피해량 증가"
+  },
+  "IndigoTakeDamageUp": {
+    "name": "Pride Fragility",
+    "nameKo": "오만 취약"
+  },
+  "Inspire": {
+    "name": "Spark of Inspiration",
+    "nameKo": "영감"
+  },
+  "IntenseColorsRodion": {
+    "name": "Palette Vibrante",
+    "nameKo": "강렬한 색채"
+  },
+  "IronMaidenPersonality": {
+    "name": "Iron Maiden",
+    "nameKo": "아이언 메이든"
+  },
+  "IrritationAlly": {
+    "name": "Tiantui Star [天退星]",
+    "nameKo": "천퇴성[天退星]"
+  },
+  "KAmpouleMirror": {
+    "name": "K Corp. Emergency Ampule",
+    "nameKo": "비상용 K사 앰플"
+  },
+  "KarmaOfIndexAlly": {
+    "name": "Karmic Consequence",
+    "nameKo": "카르마"
+  },
+  "KnightBless": {
+    "name": "Blessing",
+    "nameKo": "가호"
+  },
+  "KnowledgeExplored": {
+    "name": "Insight",
+    "nameKo": "탐구한 지식"
+  },
+  "KnowledgeTraining": {
+    "name": "Erudition",
+    "nameKo": "지식 단련"
+  },
+  "LCA_Bullet": {
+    "name": "LCA Fracture Round",
+    "nameKo": "LCA 균열탄"
+  },
+  "Laceration": {
+    "name": "Bleed",
+    "nameKo": "출혈"
+  },
+  "LanternGregBigBird": {
+    "name": "Lamp",
+    "nameKo": "램프"
+  },
+  "LegStrength": {
+    "name": "Strider【Mao】",
+    "nameKo": "각력【묘】"
+  },
+  "LegStrengthHorseYisang": {
+    "name": "Strider【Wu】",
+    "nameKo": "각력【오】"
+  },
+  "LineCuttingPersonality": {
+    "name": "Sewing Target",
+    "nameKo": "재봉 대상"
+  },
+  "LittleFingerID": {
+    "name": "Moonlit Azure Blade",
+    "nameKo": "월하청도"
+  },
+  "LivingSpecimenPersonality": {
+    "name": "Corpus Theater",
+    "nameKo": "신체관극"
+  },
+  "LogicAtelierAM": {
+    "name": "Concentration【Sniper】",
+    "nameKo": "집중【저격】"
+  },
+  "LookingFutureMirror": {
+    "name": "Glimpse of Precognition",
+    "nameKo": "순간의 예지"
+  },
+  "LookingFutureRodion": {
+    "name": "Accelerating Future",
+    "nameKo": "가속하는 미래"
+  },
+  "MagicalGirlAppear": {
+    "name": "Here Comes Magical Girl!",
+    "nameKo": "마법소녀 등장!"
+  },
+  "MagicalGirlResponse": {
+    "name": "Magical Girl's Chant",
+    "nameKo": "마법소녀의 영창"
+  },
+  "MarkOfButler": {
+    "name": "B.M.",
+    "nameKo": "버.표"
+  },
+  "MarkOfHeresy": {
+    "name": "Gaze",
+    "nameKo": "주시"
+  },
+  "MatchesPersonality": {
+    "name": "Blazing",
+    "nameKo": "타오름"
+  },
+  "MeleeCover": {
+    "name": "Melee Support",
+    "nameKo": "근접 지원"
+  },
+  "MelodyBodyArt": {
+    "name": "Somatic Frisson-inspiring Melody",
+    "nameKo": "신체가 울리는 선율"
+  },
+  "MentalSystemResultDecrease_Typo": {
+    "name": "SP Loss Efficiency",
+    "nameKo": "정신력 감소 효율"
+  },
+  "MentalSystemResultIncrease_Typo": {
+    "name": "SP Heal Efficiency",
+    "nameKo": "정신력 회복 효율"
+  },
+  "MeursaultBeeSpore": {
+    "name": "Spore",
+    "nameKo": "포자"
+  },
+  "MeursaultSporeBulletLong": {
+    "name": "Spore Round [Base]",
+    "nameKo": "포자탄[기본]"
+  },
+  "MeursaultSporeBulletReloading": {
+    "name": "Reload [Germination]",
+    "nameKo": "재장전[포자보충]"
+  },
+  "MeursaultSporeBulletShort": {
+    "name": "Spore Round [Buckshot]",
+    "nameKo": "포자탄[산탄]"
+  },
+  "MeursaultWorkerBee": {
+    "name": "Loyalty Pheromone",
+    "nameKo": "충성 페로몬"
+  },
+  "MidFamilyOutis": {
+    "name": "Avenging My Family",
+    "nameKo": "가족의 복수"
+  },
+  "MiddleFatherGutsOutis": {
+    "name": "Ridiculous Grit",
+    "nameKo": "초근성"
+  },
+  "MiddleFatherSwordFourOutis": {
+    "name": "Lævateinn",
+    "nameKo": "레바테인"
+  },
+  "MiddleFatherSwordOneOutis": {
+    "name": "Sealed Sword",
+    "nameKo": "봉인된 검"
+  },
+  "MiddleFatherSwordThreeOutis": {
+    "name": "Second Seal Removed",
+    "nameKo": "2단계 봉인 해제"
+  },
+  "MiddleFatherSwordTwoOutis": {
+    "name": "First Seal Removed",
+    "nameKo": "1단계 봉인 해제"
+  },
+  "MiddleFingerTattooID": {
+    "name": "Vengeance Tattoo",
+    "nameKo": "원한 문신"
+  },
+  "MinusCoinValueDown": {
+    "name": "Minus Coin Drop",
+    "nameKo": "빼기 코인 약화"
+  },
+  "MinusCoinValueUp": {
+    "name": "Minus Coin Boost",
+    "nameKo": "빼기 코인 강화"
+  },
+  "MlynarWaiting": {
+    "name": "Man in Scabbard",
+    "nameKo": "칼집 속 사람"
+  },
+  "Muckworm": {
+    "name": "Maggots",
+    "nameKo": "구더기"
+  },
+  "NailPersonality": {
+    "name": "Nails",
+    "nameKo": "못"
+  },
+  "NebulizerExhale": {
+    "name": "Nebulizer α",
+    "nameKo": "네뷸라이저 α"
+  },
+  "NebulizerInhale": {
+    "name": "Nebulizer β",
+    "nameKo": "네뷸라이저 β"
+  },
+  "NiddleEGO": {
+    "name": "Needle",
+    "nameKo": "바늘"
+  },
+  "NightPathfinding": {
+    "name": "Dullahan",
+    "nameKo": "듀라한"
+  },
+  "NoVillain": {
+    "name": "Regressive Transformation - Reversed",
+    "nameKo": "역변-리버스드"
+  },
+  "ObedienceGregBigBird": {
+    "name": "Guardians of the Forest",
+    "nameKo": "숲의 파수꾼"
+  },
+  "ObjectOfExploration": {
+    "name": "Curio",
+    "nameKo": "탐구 대상"
+  },
+  "ObsessionAndGreedRodion": {
+    "name": "Shin (心) - Disgrace",
+    "nameKo": "신(心) - 불명예"
+  },
+  "OnDirectAttack": {
+    "name": "[On Unopposed Attack]",
+    "nameKo": "[일방 공격 시]"
+  },
+  "OnStartCoin": {
+    "name": "[Coin Start]",
+    "nameKo": "[코인 시작 시]"
+  },
+  "OnSucceedAttack": {
+    "name": "[On Hit]",
+    "nameKo": "[적중시]"
+  },
+  "OnSucceedAttackHead": {
+    "name": "[Heads Hit]",
+    "nameKo": "[앞면 적중시]"
+  },
+  "OnSucceedAttackTail": {
+    "name": "[Tails Hit]",
+    "nameKo": "[뒷면 적중시]"
+  },
+  "OnSucceedEvade": {
+    "name": "[On Evade]",
+    "nameKo": "[회피 성공시]"
+  },
+  "OneOnOneDuel": {
+    "name": "Single Combat",
+    "nameKo": "1대1 대결"
+  },
+  "OutisNoHat": {
+    "name": "Violent Collections",
+    "nameKo": "강력 징수 집행"
+  },
+  "OverHeatedGasHarpoon": {
+    "name": "Overheated Gas Harpoon",
+    "nameKo": "과열된 가스 작살"
+  },
+  "PaintingMaterial": {
+    "name": "Art Medium",
+    "nameKo": "그림 재료"
+  },
+  "ParadeConcentration": {
+    "name": "La Mancha Parade",
+    "nameKo": "라만차 퍼레이드"
+  },
+  "Paralysis": {
+    "name": "Paralyze",
+    "nameKo": "마비"
+  },
+  "ParryingResultDown": {
+    "name": "Clash Power Down",
+    "nameKo": "합 위력 감소"
+  },
+  "ParryingResultUp": {
+    "name": "Clash Power Up",
+    "nameKo": "합 위력 증가"
+  },
+  "PenanceFirst": {
+    "name": "Penitence",
+    "nameKo": "참회"
+  },
+  "PenetrateDamageUp": {
+    "name": "Pierce DMG Up",
+    "nameKo": "관통 피해량 증가"
+  },
+  "PenetrateResistDown": {
+    "name": "Pierce Resist Down",
+    "nameKo": "관통 내성 약화"
+  },
+  "PenetrateResultUp": {
+    "name": "Pierce Power Up",
+    "nameKo": "관통 위력 증가"
+  },
+  "PenetrateTakeDamageUp": {
+    "name": "Pierce Fragility",
+    "nameKo": "관통 취약"
+  },
+  "PenetratingSword": {
+    "name": "Piercing Sword",
+    "nameKo": "꿰뚫는 검"
+  },
+  "PhantomIncisionID": {
+    "name": "Bladetrail [Afterimage]",
+    "nameKo": "검흔[잔상]"
+  },
+  "PhantomIncisionTotalID": {
+    "name": "Dihui Star's Blade",
+    "nameKo": "지혜성도"
+  },
+  "PhotoElectricity": {
+    "name": "Photoelectricity",
+    "nameKo": "광전"
+  },
+  "PinkPetals": {
+    "name": "Pink Petals",
+    "nameKo": "분홍 꽃잎"
+  },
+  "PinkRibbon_Ishmael": {
+    "name": "Pink Ribbons",
+    "nameKo": "분홍 리본"
+  },
+  "PlusCoinValueDown": {
+    "name": "Plus Coin Drop",
+    "nameKo": "더하기 코인 약화"
+  },
+  "PlusCoinValueUp": {
+    "name": "Plus Coin Boost",
+    "nameKo": "더하기 코인 강화"
+  },
+  "ProtectStanceRyoshu": {
+    "name": "Protector's Stance",
+    "nameKo": "호위태세"
+  },
+  "Protection": {
+    "name": "Protection",
+    "nameKo": "보호"
+  },
+  "ProtectiveSword": {
+    "name": "Protecting Sword",
+    "nameKo": "지키는 검"
+  },
+  "QueenBeeMark": {
+    "name": "Pheromone Mark",
+    "nameKo": "페로몬 표식"
+  },
+  "QueenBeepheromone": {
+    "name": "Pheromone",
+    "nameKo": "페로몬"
+  },
+  "ReUseOnSucceedAttack": {
+    "name": "[Reuse - On Hit]",
+    "nameKo": "[재사용 적중시]"
+  },
+  "ReUseOnSucceedAttackHead": {
+    "name": "[Reuse - Heads Hit]",
+    "nameKo": "[재사용 앞면 적중 시]"
+  },
+  "RedApricotBlossom": {
+    "name": "Red Plum Blossom",
+    "nameKo": "홍매화"
+  },
+  "RedButterfly": {
+    "name": "Torn-out Butterfly",
+    "nameKo": "찢겨나온나비"
+  },
+  "RedEyeFirst": {
+    "name": "Red Eyes",
+    "nameKo": "적안"
+  },
+  "Reduction": {
+    "name": "Attack Power Down",
+    "nameKo": "공격 위력 감소"
+  },
+  "ReinforcedTattooIshmael": {
+    "name": "The Middle Styled Augmentation Tattoos",
+    "nameKo": "중지식 강화 문신"
+  },
+  "ReinforcedTattooSpiderOutis": {
+    "name": "The Middle - Vengeance Tattoo [<s>Great Sister</s>]",
+    "nameKo": "중지 - 원한 문신 [<s>큰 누님</s>]"
+  },
+  "ReleaseBreath": {
+    "name": "Shallow Exhale",
+    "nameKo": "가쁜 날숨"
+  },
+  "ReloadLament": {
+    "name": "Reload",
+    "nameKo": "재장전"
+  },
+  "RequestedTarget": {
+    "name": "Requested Target",
+    "nameKo": "의뢰 대상"
+  },
+  "ResentmentIshmael": {
+    "name": "The Middle - Grudge",
+    "nameKo": "중지 - 원한"
+  },
+  "ResentmentSpiderOutis": {
+    "name": "The Middle - Grudge",
+    "nameKo": "중지 - 원한"
+  },
+  "ResultEnhancement": {
+    "name": "Power Up",
+    "nameKo": "위력 증가"
+  },
+  "ResultReduction": {
+    "name": "Power Down",
+    "nameKo": "위력 감소"
+  },
+  "RetaliationBook": {
+    "name": "Vengeance Mark",
+    "nameKo": "앙갚음 대상"
+  },
+  "RetaliationBookSpiderOutis": {
+    "name": "Book of Vengeance [The House of Spiders]",
+    "nameKo": "앙갚음 장부 [거미집]"
+  },
+  "Retreat": {
+    "name": "Strategic R&R Mode",
+    "nameKo": "전략적 휴식 복지 모드"
+  },
+  "RetreatForCommon": {
+    "name": "Battlefield Retreat",
+    "nameKo": "전장 퇴각"
+  },
+  "Retreat_FullStop": {
+    "name": "Overwatch Assignment",
+    "nameKo": "후방 지원 배치"
+  },
+  "RingFingerFauvism": {
+    "name": "Charm of the Beastly",
+    "nameKo": "야성미"
+  },
+  "RingFingerPhysical": {
+    "name": "Beauty of the Physique",
+    "nameKo": "육체미"
+  },
+  "RootSoupKimPersonal": {
+    "name": "Resentful Scabbard",
+    "nameKo": "한 서린 검집"
+  },
+  "RoseThorn": {
+    "name": "Gluttonous Thorn (貪食棘)",
+    "nameKo": "탐식극(貪食棘)"
+  },
+  "RoseWedge": {
+    "name": "Rose Wedge",
+    "nameKo": "장미 쐐기"
+  },
+  "RunSinclair": {
+    "name": "Escape Apparatus",
+    "nameKo": "도주 장치"
+  },
+  "RyoshuEGOPF": {
+    "name": "Entangled Life [羅生]",
+    "nameKo": "나생[羅生]"
+  },
+  "SadLamanchaland": {
+    "name": "Responsibility",
+    "nameKo": "책임감"
+  },
+  "SatisfyingEsteemNeeds": {
+    "name": "Desire for Acknowledgement Sated",
+    "nameKo": "인정 욕구 충족"
+  },
+  "ScarletDamageUp": {
+    "name": "Lust DMG Up",
+    "nameKo": "색욕 피해량 증가"
+  },
+  "ScarletMothRodion": {
+    "name": "Scarlet Moth",
+    "nameKo": "주홍 나방"
+  },
+  "ScarletResultUp": {
+    "name": "Lust Power Up",
+    "nameKo": "색욕 위력 증가"
+  },
+  "ScarletTakeDamageUp": {
+    "name": "Lust Fragility",
+    "nameKo": "색욕 취약"
+  },
+  "ScratchesHurtID": {
+    "name": "Avulsion Wound",
+    "nameKo": "찢긴 상처"
+  },
+  "SelfChargeAlly": {
+    "name": "Self-charge",
+    "nameKo": "자가 충전"
+  },
+  "SeniorCianjing": {
+    "name": "Higher Thunderer",
+    "nameKo": "상급 시엔징"
+  },
+  "SeveredTendonAlly": {
+    "name": "Severed Tendon",
+    "nameKo": "힘줄 절단"
+  },
+  "ShamrockDamageUp": {
+    "name": "Gluttony DMG Up",
+    "nameKo": "탐식 피해량 증가"
+  },
+  "ShamrockResultUp": {
+    "name": "Gluttony Power Up",
+    "nameKo": "탐식 위력 증가"
+  },
+  "ShamrockTakeDamageUp": {
+    "name": "Gluttony Fragility",
+    "nameKo": "탐식 취약"
+  },
+  "ShareCharge": {
+    "name": "Self Resonance Circuitry",
+    "nameKo": "자가 공진 회로"
+  },
+  "SheutFracture": {
+    "name": "Sheut Fracture",
+    "nameKo": "셰우트의 균열"
+  },
+  "ShieldManagerCryingToad": {
+    "name": "Blubberbubble",
+    "nameKo": "울음 방울"
+  },
+  "Shin_IndexFingerYisang": {
+    "name": "Shin (心) - Fate",
+    "nameKo": "신(心) - 운명"
+  },
+  "SilverOpportunity": {
+    "name": "The Self Unbound - Flow State",
+    "nameKo": "구속 해제 - 창작 몰입"
+  },
+  "Sinking": {
+    "name": "Sinking",
+    "nameKo": "침잠"
+  },
+  "SinkingSurge": {
+    "name": "Sinking Deluge",
+    "nameKo": "침잠쇄도"
+  },
+  "SinkingWhite": {
+    "name": "Butterfly",
+    "nameKo": "나비"
+  },
+  "SkillPowerUp": {
+    "name": "Base Power Up",
+    "nameKo": "기본 위력 증가"
+  },
+  "SlashDamageUp": {
+    "name": "Slash DMG Up",
+    "nameKo": "참격 피해량 증가"
+  },
+  "SlashResistDown": {
+    "name": "Slash Resist Down",
+    "nameKo": "참격 내성 약화"
+  },
+  "SlashResultUp": {
+    "name": "Slash Power Up",
+    "nameKo": "참격 위력 증가"
+  },
+  "SlashTakeDamageUp": {
+    "name": "Slash Fragility",
+    "nameKo": "참격 취약"
+  },
+  "SnakeStance": {
+    "name": "Serpent Arm",
+    "nameKo": "사완"
+  },
+  "Snare": {
+    "name": "Lasso",
+    "nameKo": "올가미"
+  },
+  "SnipingArrowMode": {
+    "name": "Ready to Loose",
+    "nameKo": "저격 자세"
+  },
+  "SojiRyoshuEchoFuture": {
+    "name": "Phantom Trace",
+    "nameKo": "잔영"
+  },
+  "SojiRyoshuEchoPast": {
+    "name": "Entanglement",
+    "nameKo": "얽힘"
+  },
+  "SojiRyoshuEntangle": {
+    "name": "String Severance [絕緣]",
+    "nameKo": "절연[絕緣]"
+  },
+  "SojiRyoshuShin": {
+    "name": "Shin (心) - Dihui Star [地慧星]",
+    "nameKo": "신(心) - 지혜성[地慧星]"
+  },
+  "StackYisangSpecialSkill": {
+    "name": "Procuration [Hermes]",
+    "nameKo": "대행 [헤르메스]"
+  },
+  "StartBattle": {
+    "name": "[Combat Start]",
+    "nameKo": "[전투 시작시]"
+  },
+  "StartBattle_Force": {
+    "name": "<color=#93f13e>[Combat Start]</color>",
+    "nameKo": "<color=#93f13e>[전투 시작시]</color>"
+  },
+  "StartDuel": {
+    "name": "[Clash Start]",
+    "nameKo": "[합 시작 시]"
+  },
+  "StartXichun": {
+    "name": "Launcher [始]",
+    "nameKo": "시[始]"
+  },
+  "StigmaWorkshopCelloCaseOne": {
+    "name": "Fire Butterfly Coffin",
+    "nameKo": "불꽃나비의 관"
+  },
+  "StigmaWorkshopHandStep1": {
+    "name": "Light of Daybreak",
+    "nameKo": "새벽불"
+  },
+  "SuperCoin": {
+    "name": "Unbreakable Coin",
+    "nameKo": "파괴 불가 코인"
+  },
+  "SupportProtect": {
+    "name": "Assist Defense",
+    "nameKo": "원호 방어"
+  },
+  "SwirlingBloodPersonality": {
+    "name": "Shimmering【Bloodfiend】",
+    "nameKo": "일렁임【혈귀】"
+  },
+  "Switch_Vibration": {
+    "name": "Amplitude Conversion",
+    "nameKo": "진폭 변환"
+  },
+  "SwordCutwithTear": {
+    "name": "Tear-sharpened",
+    "nameKo": "눈물 벼리기"
+  },
+  "SwordPlayOfTheHomeland": {
+    "name": "Swordplay of the Homeland",
+    "nameKo": "본국검술"
+  },
+  "TabExplain": {},
+  "TakeHpHealIncrease": {
+    "name": "HP Healing Boost",
+    "nameKo": "체력 회복 증가"
+  },
+  "TakeHpHealReduce": {
+    "name": "HP Healing Down",
+    "nameKo": "체력 회복 감소"
+  },
+  "Talisman": {
+    "name": "Talisman",
+    "nameKo": "부적"
+  },
+  "TargetKill": {
+    "name": "[On Target Kill]",
+    "nameKo": "[대상 처치 시]"
+  },
+  "TeachersPreyRodion": {
+    "name": "Game Target",
+    "nameKo": "사냥 표적"
+  },
+  "TensionUp": {
+    "name": "Hyped-up",
+    "nameKo": "텐션 업"
+  },
+  "TestWaitDocentRodion": {
+    "name": "Réflexion",
+    "nameKo": "레플렉시옹"
+  },
+  "TestWaitingMeursault": {
+    "name": "Imperfections Addressed",
+    "nameKo": "결점 보완"
+  },
+  "ThankyouDocentRodion": {
+    "name": "L'Hommage",
+    "nameKo": "경의"
+  },
+  "ThatIsRhythm": {
+    "name": "Rhythm",
+    "nameKo": "리듬"
+  },
+  "ThePowerOfLoveAndHate": {
+    "name": "Love/Hate",
+    "nameKo": "사랑/증오"
+  },
+  "TheUdjatOutis": {
+    "name": "The Udjat [Vanguard]",
+    "nameKo": "우제트의 눈 [선봉]"
+  },
+  "ThirstyRose": {
+    "name": "Polydipsic Rose",
+    "nameKo": "목마른 장미"
+  },
+  "ThreeMirrorpartYiSang": {
+    "name": "Shattered World",
+    "nameKo": "깨어진 세계"
+  },
+  "TibiaPersonality": {
+    "name": "Artwork: Tibia",
+    "nameKo": "작품명: 티비아"
+  },
+  "TiedRopeHonglu": {
+    "name": "Trussed [Hong Lu]",
+    "nameKo": "포박 [홍루]"
+  },
+  "TiedWithRopeID": {
+    "name": "Prisoner Transport Arrangements",
+    "nameKo": "압송 채비"
+  },
+  "TimeRentalTwoPersonality": {
+    "name": "Borrowed Time",
+    "nameKo": "시간 대여"
+  },
+  "TimeSuspend": {
+    "name": "Time Moratorium",
+    "nameKo": "시간 유예"
+  },
+  "TraumaShield": {
+    "name": "Trauma Shield",
+    "nameKo": "트라우마 방지장"
+  },
+  "UltraPrecisionTimeAcceleration": {
+    "name": "Microprecision Time Acceleration",
+    "nameKo": "초정밀 시간 가속"
+  },
+  "UnBrokenCoinOnSucceedAttack": {
+    "name": "[On Hit without Cracking]",
+    "nameKo": "[파괴되지 않고 적중시]"
+  },
+  "UninvitedGuestPersonality": {
+    "name": "The Uninvited",
+    "nameKo": "초청받지 않은 자"
+  },
+  "UnlockBuffAlly_1": {
+    "name": "Unlock - I",
+    "nameKo": "해금 - I"
+  },
+  "UnlockBuffAlly_2": {
+    "name": "Unlock - II",
+    "nameKo": "해금 - II"
+  },
+  "UnlockBuffAlly_3": {
+    "name": "Unlock - III",
+    "nameKo": "해금 - III"
+  },
+  "UnlockBuff_Base": {
+    "name": "Unlock",
+    "nameKo": "해금"
+  },
+  "UnstableFeeling": {
+    "name": "Volatile Passion",
+    "nameKo": "불안정한 격정"
+  },
+  "VendettaMark": {
+    "name": "Vendetta Mark",
+    "nameKo": "복수 대상"
+  },
+  "VengeanceBookHeathcliff": {
+    "name": "Book of Vengeance [Heathcliff]",
+    "nameKo": "앙갚음 장부 [히스클리프]"
+  },
+  "VengeanceBookSinclair": {
+    "name": "Book of Vengeance [Sinclair]",
+    "nameKo": "앙갚음 장부 [싱클레어]"
+  },
+  "VerEmergencyCandy": {
+    "name": "Backup Candy",
+    "nameKo": "비상용 사탕"
+  },
+  "VerHunger": {
+    "name": "Hunger",
+    "nameKo": "배고픔"
+  },
+  "Vibration": {
+    "name": "Tremor",
+    "nameKo": "진동"
+  },
+  "VibrationBleeding": {
+    "name": "Tremor - Hemorrhage",
+    "nameKo": "진동 - 과다출혈"
+  },
+  "VibrationChainPersonality": {
+    "name": "Tremor - Chain",
+    "nameKo": "진동 - 사슬"
+  },
+  "VibrationCollapse": {
+    "name": "Tremor - Decay",
+    "nameKo": "진동 - 붕괴"
+  },
+  "VibrationContinue": {
+    "name": "Tremor - Everlasting",
+    "nameKo": "진동 - 영속"
+  },
+  "VibrationCrack": {
+    "name": "Tremor - Fracture",
+    "nameKo": "진동 - 균열"
+  },
+  "VibrationDistribution": {
+    "name": "Tremor - Distribution",
+    "nameKo": "진동 - 분배"
+  },
+  "VibrationEcho": {
+    "name": "Tremor - Reverb",
+    "nameKo": "진동 - 반향"
+  },
+  "VibrationExplosion": {
+    "name": "Tremor Burst",
+    "nameKo": "진동 폭발"
+  },
+  "VibrationIgnition": {
+    "name": "Tremor - Scorch",
+    "nameKo": "진동 - 작열"
+  },
+  "VibrationNesting": {
+    "name": "Tremor - Superposition",
+    "nameKo": "진동 - 중첩"
+  },
+  "VibrationSpring": {
+    "name": "Tremor - Clockwinding",
+    "nameKo": "진동 - 태엽감기"
+  },
+  "VillainMark": {
+    "name": "Mark of Villainy",
+    "nameKo": "악당 표식"
+  },
+  "VioletDamageUp": {
+    "name": "Envy DMG Up",
+    "nameKo": "질투 피해량 증가"
+  },
+  "VioletResistDown": {
+    "name": "Envy Resist Down",
+    "nameKo": "질투 내성 약화"
+  },
+  "VioletTakeDamageUp": {
+    "name": "Envy Fragility",
+    "nameKo": "질투 취약"
+  },
+  "Vulnerable": {
+    "name": "Fragile",
+    "nameKo": "취약"
+  },
+  "WOverCharge": {
+    "name": "Overcharge",
+    "nameKo": "과충전"
+  },
+  "WaitingXichun": {
+    "name": "Ready [待]",
+    "nameKo": "대[待]"
+  },
+  "WanderingFootsteps": {
+    "name": "Impending Ruin",
+    "nameKo": "다가오는 파탄"
+  },
+  "WaveSinking": {
+    "name": "Reflux",
+    "nameKo": "역류"
+  },
+  "WeaknessAnalysis": {
+    "name": "Weakness Analyzed",
+    "nameKo": "약점 분석"
+  },
+  "WhenUse": {
+    "name": "[On Use]",
+    "nameKo": "[사용시]"
+  },
+  "WhenUseEGOPassive": {
+    "name": "[Effect on Use]",
+    "nameKo": "[사용 효과]"
+  },
+  "WhenUseEGOPassive2010911": {
+    "name": "[Effect on Use - Lobotomy E.G.O::Solemn Lament Yi Sang Exclusive Effect]",
+    "nameKo": "[로보토미 E.G.O::엄숙한 애도 이상 전용 사용 효과]"
+  },
+  "WhenUseEvade": {
+    "name": "[On Evade Use]",
+    "nameKo": "[회피 사용시]"
+  },
+  "WhenUse_Force": {
+    "name": "<color=#26cfff>[On Use]</color>",
+    "nameKo": "<color=#26cfff>[사용시]</color>"
+  },
+  "WideAreaRampage": {
+    "name": "Unfocused Volley",
+    "nameKo": "광역 난사"
+  },
+  "WildHunt": {
+    "name": "Wild Hunt",
+    "nameKo": "와일드헌트"
+  },
+  "WinDuel": {
+    "name": "[Clash Win]",
+    "nameKo": "[합 승리시]"
+  },
+  "WinDuelAttack": {
+    "name": "[Hit after Clash Win]",
+    "nameKo": "[합 승리 후 적중시]"
+  },
+  "WinDuelAttackHead": {
+    "name": "[Heads Hit after Clash Win]",
+    "nameKo": "[합 승리 후 앞면 적중시]"
+  },
+  "WindBladeIshmael": {
+    "name": "Mook Workshop - Ye [銳] Type II Bladedraw / Thrust Force: Dokkaebi Fire",
+    "nameKo": "묵 공방 - 예[銳] 2식 발도 / 추력:도깨비불"
+  },
+  "WornHeartGreg": {
+    "name": "Ailing Heart",
+    "nameKo": "닳아버린 마음"
+  },
+  "YesdragonNodie": {
+    "name": "Denial [不許]",
+    "nameKo": "불허[不許]"
+  },
+  "YesdragonSelf": {
+    "name": "Flower-burying Pin [埋花針]",
+    "nameKo": "매화침[埋花針]"
+  },
+  "YisangWeapon01Hatchet": {
+    "name": "When hacking through the ribs with a hatchet...",
+    "nameKo": "손도끼로 갈비뼈를 찍어 내릴 때는…"
+  },
+  "YisangWeapon02Stiletto": {
+    "name": "When penetrating the lungs with a stiletto...",
+    "nameKo": "스틸레토로 허파를 꿰뚫을 때는…"
+  },
+  "YisangWeapon03Greatsword": {
+    "name": "When cleaving through the shoulder and the skull with a bastard sword...",
+    "nameKo": "바스타드 소드로 어깨와 머리를 짓이길 때는…"
+  },
+  "YisangWeapon04Rapier": {
+    "name": "When punching 10 or more holes in the torso with a rapier...",
+    "nameKo": "레이피어로 몸에 10개 이상의 구멍을 내야할 때는…"
+  },
+  "YisangWeapon05Sledgehammer": {
+    "name": "When caving in the back of the skull with a hammer...",
+    "nameKo": "망치로 뒤통수를 으깨야 할 때는…"
+  },
+  "YisangWeapon06Ultragreatsword": {
+    "name": "When rending the body with a great sword...",
+    "nameKo": "커다란 검으로 몸통을 갈라야 할 때는…"
+  },
+  "YisangWeapon07Lance": {
+    "name": "When boring a 20-inch hole with a lance...",
+    "nameKo": "랜스로 20인치의 구멍을 내야 할 때는…"
+  },
+  "YisangWeapon08Chain": {
+    "name": "When ripping the flesh to ten thousand strips with a whip...",
+    "nameKo": "채찍으로 살점을 만 갈래 떼어내야 할 때는…"
+  },
+  "YisangWeapon09Scythe": {
+    "name": "When lacerating through space itself with a scythe, like a certain someone...",
+    "nameKo": "낫으로… 누군가처럼 공간을 따라 베어내야 할 때는…"
+  },
+  "Zazen": {
+    "name": "Dhyāna",
+    "nameKo": "참선"
+  }
+}

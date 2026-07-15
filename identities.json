@@ -12,6 +12,10 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -53,6 +57,9 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "SEVEN"
+    ],
     "atkTypes": {
       "pierce": 2,
       "blunt": 1
@@ -92,6 +99,9 @@
     "star": 3,
     "keywords": [
       "poise"
+    ],
+    "associations": [
+      "BLADE_LINEAGE"
     ],
     "atkTypes": {
       "slash": 3
@@ -134,6 +144,9 @@
       "tremor",
       "sinking"
     ],
+    "associations": [
+      "ATL"
+    ],
     "atkTypes": {
       "pierce": 2,
       "blunt": 1
@@ -174,6 +187,9 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "MOLAR"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -217,6 +233,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "slash": 1,
       "pierce": 2
@@ -258,6 +277,9 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "PEQUOD_CREW"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -297,6 +319,9 @@
     "star": 2,
     "keywords": [
       "sinking"
+    ],
+    "associations": [
+      "DIECI"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -338,6 +363,10 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "RING_FINGER_POINTILLISM",
+      "RING_FINGER"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -377,6 +406,9 @@
     "star": 3,
     "keywords": [
       "sinking"
+    ],
+    "associations": [
+      "L_CORP"
     ],
     "atkTypes": {
       "pierce": 3
@@ -418,6 +450,10 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCE"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -456,6 +492,9 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "LIU"
     ],
     "atkTypes": {
       "slash": 3
@@ -497,6 +536,9 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "associations": [
+      "N_CORP"
     ],
     "atkTypes": {
       "pierce": 2,
@@ -540,6 +582,11 @@
       "tremor",
       "rupture"
     ],
+    "associations": [
+      "FAMILY_GA",
+      "BLACK_BEAST_HORSE",
+      "H_CORP"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -579,6 +626,10 @@
     "keywords": [
       "sinking",
       "poise"
+    ],
+    "associations": [
+      "INDEX_FINGER",
+      "SPIDER_HOUSE"
     ],
     "atkTypes": {
       "slash": 1,
@@ -620,6 +671,10 @@
     "titleKo": "LCB 수감자",
     "star": 1,
     "keywords": [],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -661,6 +716,9 @@
     "keywords": [
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -700,6 +758,9 @@
     "keywords": [
       "rupture",
       "poise"
+    ],
+    "associations": [
+      "L_CORP"
     ],
     "atkTypes": {
       "slash": 2,
@@ -742,6 +803,10 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "N_CORP",
+      "N_CORP_FNATIC"
+    ],
     "atkTypes": {
       "pierce": 2,
       "blunt": 1
@@ -781,6 +846,9 @@
     "titleKo": "남부 츠바이 협회 4과",
     "star": 2,
     "keywords": [],
+    "associations": [
+      "ZWEI"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -820,6 +888,9 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "SEVEN"
     ],
     "atkTypes": {
       "slash": 3
@@ -861,6 +932,9 @@
     "keywords": [
       "tremor"
     ],
+    "associations": [
+      "L_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -900,6 +974,9 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "associations": [
+      "BLADE_LINEAGE"
     ],
     "atkTypes": {
       "slash": 2,
@@ -942,6 +1019,9 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "WUTHERING_HEIGHTS"
+    ],
     "atkTypes": {
       "slash": 2,
       "blunt": 1
@@ -982,6 +1062,9 @@
     "star": 3,
     "keywords": [
       "charge"
+    ],
+    "associations": [
+      "MULTI_CRACK"
     ],
     "atkTypes": {
       "slash": 1,
@@ -1024,6 +1107,10 @@
     "keywords": [
       "burn"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCE"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -1063,6 +1150,9 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "associations": [
+      "SHI"
     ],
     "atkTypes": {
       "slash": 3
@@ -1105,6 +1195,11 @@
       "bleed",
       "charge"
     ],
+    "associations": [
+      "RING_FINGER_PHYSICAL",
+      "RING_FINGER",
+      "SPIDER_HOUSE"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -1144,6 +1239,9 @@
     "keywords": [
       "burn",
       "tremor"
+    ],
+    "associations": [
+      "DAWN"
     ],
     "atkTypes": {
       "slash": 3
@@ -1186,6 +1284,10 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
+    ],
     "atkTypes": {
       "slash": 1,
       "pierce": 2
@@ -1226,6 +1328,9 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "associations": [
+      "BLADE_LINEAGE"
     ],
     "atkTypes": {
       "slash": 2,
@@ -1268,6 +1373,9 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "G_CORP"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -1308,6 +1416,9 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "SEVEN"
+    ],
     "atkTypes": {
       "slash": 1,
       "blunt": 2
@@ -1346,6 +1457,9 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "MOLAR"
     ],
     "atkTypes": {
       "slash": 1,
@@ -1388,6 +1502,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "CINQ"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -1425,6 +1542,9 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "L_CORP"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -1466,6 +1586,9 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "WUTHERING_HEIGHTS"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -1505,6 +1628,10 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "RING_FINGER_POINTILLISM",
+      "RING_FINGER"
     ],
     "atkTypes": {
       "pierce": 3
@@ -1547,6 +1674,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "slash": 1,
       "blunt": 2
@@ -1588,6 +1718,9 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "LA_MANCHA_LAND"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -1628,6 +1761,10 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "BLACK_BEAST_RABBIT",
+      "H_CORP"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -1667,6 +1804,9 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "T_CORP"
     ],
     "atkTypes": {
       "blunt": 3
@@ -1709,6 +1849,10 @@
       "burn",
       "bleed"
     ],
+    "associations": [
+      "SPIDER_HOUSE",
+      "MIDDLE_FINGER"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -1745,6 +1889,10 @@
     "star": 1,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "slash": 1,
@@ -1786,6 +1934,9 @@
     "keywords": [
       "burn"
     ],
+    "associations": [
+      "LIU"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -1825,6 +1976,9 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "G_CORP"
     ],
     "atkTypes": {
       "slash": 2,
@@ -1866,6 +2020,9 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "BACKSTREET_COOK"
     ],
     "atkTypes": {
       "slash": 2,
@@ -1909,6 +2066,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "TROUBLE_SHOOTER"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -1948,6 +2108,9 @@
     "titleKo": "남부 츠바이 협회 4과",
     "star": 3,
     "keywords": [],
+    "associations": [
+      "ZWEI"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -1986,6 +2149,9 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "associations": [
+      "DUAL_HOOK_PIRATE"
     ],
     "atkTypes": {
       "pierce": 3
@@ -2026,6 +2192,9 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "BLACK_CLOUD"
     ],
     "atkTypes": {
       "slash": 2,
@@ -2068,6 +2237,9 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "LINTON"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -2109,6 +2281,9 @@
       "bleed",
       "rupture"
     ],
+    "associations": [
+      "LA_MANCHA_LAND"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -2146,6 +2321,9 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "FIREPUNCH_OFFICE"
     ],
     "atkTypes": {
       "blunt": 3
@@ -2185,6 +2363,9 @@
     "keywords": [
       "bleed",
       "tremor"
+    ],
+    "associations": [
+      "NIGHTSTILETTO"
     ],
     "atkTypes": {
       "pierce": 3
@@ -2227,6 +2408,10 @@
       "burn",
       "sinking"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCE"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -2264,6 +2449,10 @@
     "keywords": [
       "rupture",
       "charge"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCE"
     ],
     "atkTypes": {
       "slash": 3
@@ -2305,6 +2494,9 @@
       "burn",
       "tremor"
     ],
+    "associations": [
+      "DAWN"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -2343,6 +2535,10 @@
     "keywords": [
       "rupture",
       "poise"
+    ],
+    "associations": [
+      "BLACK_BEAST_SNAKE",
+      "H_CORP"
     ],
     "atkTypes": {
       "slash": 2,
@@ -2386,6 +2582,10 @@
       "rupture",
       "poise"
     ],
+    "associations": [
+      "BLACK_BEAST_SNAKE",
+      "H_CORP"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -2427,6 +2627,10 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "BLACK_BEAST_RABBIT",
+      "H_CORP"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -2465,6 +2669,9 @@
     "keywords": [
       "sinking",
       "poise"
+    ],
+    "associations": [
+      "INDEX_FINGER"
     ],
     "atkTypes": {
       "slash": 3
@@ -2506,6 +2713,10 @@
       "tremor",
       "sinking"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCA"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -2546,6 +2757,10 @@
       "sinking",
       "poise"
     ],
+    "associations": [
+      "INDEX_FINGER",
+      "SPIDER_HOUSE"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -2573,466 +2788,6 @@
     "updatedDate": 20260108
   },
   {
-    "id": 400025,
-    "sinnerId": 1,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Yi Sang",
-    "nameKo": "이상",
-    "title": "Cheery Chickies Class Captain",
-    "titleKo": "병아리반 반장",
-    "star": 1,
-    "keywords": [
-      "sinking"
-    ],
-    "atkTypes": {
-      "slash": 2,
-      "pierce": 1
-    },
-    "atkSins": {
-      "sloth": 1,
-      "gloom": 1,
-      "envy": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 2,
-      "pierce": 0.5,
-      "blunt": 1
-    },
-    "speed": [
-      4,
-      8
-    ],
-    "hp": 72,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400026,
-    "sinnerId": 2,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Faust",
-    "nameKo": "파우스트",
-    "title": "Early Elephants Class Captain",
-    "titleKo": "코끼리반 반장",
-    "star": 1,
-    "keywords": [],
-    "atkTypes": {
-      "pierce": 1,
-      "blunt": 2
-    },
-    "atkSins": {
-      "sloth": 1,
-      "gluttony": 1,
-      "pride": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 2,
-      "pierce": 0.5,
-      "blunt": 1
-    },
-    "speed": [
-      2,
-      4
-    ],
-    "hp": 84,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400027,
-    "sinnerId": 3,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Don Quixote",
-    "nameKo": "돈키호테",
-    "title": "Early Elephants Sinnerling",
-    "titleKo": "코끼리반 수감생",
-    "star": 1,
-    "keywords": [
-      "bleed"
-    ],
-    "atkTypes": {
-      "pierce": 3
-    },
-    "atkSins": {
-      "lust": 1,
-      "gluttony": 1,
-      "envy": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 1,
-      "pierce": 0.5,
-      "blunt": 2
-    },
-    "speed": [
-      3,
-      6
-    ],
-    "hp": 66,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400028,
-    "sinnerId": 4,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Ryōshū",
-    "nameKo": "료슈",
-    "title": "Early Elephants Sinnerling",
-    "titleKo": "코끼리반 수감생",
-    "star": 1,
-    "keywords": [
-      "poise"
-    ],
-    "atkTypes": {
-      "slash": 3
-    },
-    "atkSins": {
-      "lust": 1,
-      "gluttony": 1,
-      "pride": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 1,
-      "blunt": 2
-    },
-    "speed": [
-      3,
-      6
-    ],
-    "hp": 66,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400029,
-    "sinnerId": 5,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Meursault",
-    "nameKo": "뫼르소",
-    "title": "Perky Penguins Sinnerling",
-    "titleKo": "펭귄반 수감생",
-    "star": 1,
-    "keywords": [
-      "tremor"
-    ],
-    "atkTypes": {
-      "blunt": 3
-    },
-    "atkSins": {
-      "sloth": 1,
-      "gloom": 1,
-      "pride": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 1,
-      "pierce": 2,
-      "blunt": 0.5
-    },
-    "speed": [
-      2,
-      3
-    ],
-    "hp": 90,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400030,
-    "sinnerId": 6,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Hong Lu",
-    "nameKo": "홍루",
-    "title": "Early Elephants Sinnerling",
-    "titleKo": "코끼리반 수감생",
-    "star": 1,
-    "keywords": [
-      "rupture",
-      "sinking"
-    ],
-    "atkTypes": {
-      "slash": 1,
-      "blunt": 2
-    },
-    "atkSins": {
-      "lust": 1,
-      "sloth": 1,
-      "pride": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 2,
-      "pierce": 1,
-      "blunt": 0.5
-    },
-    "speed": [
-      3,
-      6
-    ],
-    "hp": 66,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400031,
-    "sinnerId": 7,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Heathcliff",
-    "nameKo": "히스클리프",
-    "title": "Cheery Chickies Sinnerling",
-    "titleKo": "병아리반 수감생",
-    "star": 1,
-    "keywords": [
-      "tremor"
-    ],
-    "atkTypes": {
-      "blunt": 3
-    },
-    "atkSins": {
-      "wrath": 1,
-      "lust": 1,
-      "envy": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 2,
-      "pierce": 1,
-      "blunt": 0.5
-    },
-    "speed": [
-      2,
-      5
-    ],
-    "hp": 78,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400032,
-    "sinnerId": 8,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Ishmael",
-    "nameKo": "이스마엘",
-    "title": "Cheery Chickies Sinnerling",
-    "titleKo": "병아리반 수감생",
-    "star": 1,
-    "keywords": [
-      "tremor"
-    ],
-    "atkTypes": {
-      "blunt": 3
-    },
-    "atkSins": {
-      "wrath": 1,
-      "gluttony": 1,
-      "gloom": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 2,
-      "pierce": 1,
-      "blunt": 0.5
-    },
-    "speed": [
-      5,
-      8
-    ],
-    "hp": 78,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400033,
-    "sinnerId": 9,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Rodion",
-    "nameKo": "로쟈",
-    "title": "Perky Penguins Sinnerling",
-    "titleKo": "펭귄반 수감생",
-    "star": 1,
-    "keywords": [
-      "bleed"
-    ],
-    "atkTypes": {
-      "slash": 3
-    },
-    "atkSins": {
-      "wrath": 1,
-      "gluttony": 1,
-      "pride": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 2,
-      "blunt": 1
-    },
-    "speed": [
-      2,
-      5
-    ],
-    "hp": 78,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400034,
-    "sinnerId": 10,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Sinclair",
-    "nameKo": "싱클레어",
-    "title": "Cheery Chickies Sinnerling",
-    "titleKo": "병아리반 수감생",
-    "star": 1,
-    "keywords": [
-      "rupture"
-    ],
-    "atkTypes": {
-      "slash": 3
-    },
-    "atkSins": {
-      "wrath": 1,
-      "pride": 1,
-      "envy": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 2,
-      "blunt": 1
-    },
-    "speed": [
-      3,
-      7
-    ],
-    "hp": 60,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400035,
-    "sinnerId": 11,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Outis",
-    "nameKo": "오티스",
-    "title": "Perky Penguins Class Captain",
-    "titleKo": "펭귄반 반장",
-    "star": 1,
-    "keywords": [
-      "rupture"
-    ],
-    "atkTypes": {
-      "slash": 1,
-      "pierce": 2
-    },
-    "atkSins": {
-      "sloth": 1,
-      "gloom": 1,
-      "pride": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 0.5,
-      "pierce": 1,
-      "blunt": 2
-    },
-    "speed": [
-      3,
-      7
-    ],
-    "hp": 60,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
-    "id": 400036,
-    "sinnerId": 12,
-    "slotId": null,
-    "teamCodeEligible": false,
-    "name": "Gregor",
-    "nameKo": "그레고르",
-    "title": "Perky Penguins Sinnerling",
-    "titleKo": "펭귄반 수감생",
-    "star": 1,
-    "keywords": [
-      "rupture"
-    ],
-    "atkTypes": {
-      "slash": 1,
-      "pierce": 2
-    },
-    "atkSins": {
-      "sloth": 1,
-      "gluttony": 1,
-      "gloom": 1
-    },
-    "altSins": [],
-    "resists": {
-      "slash": 1,
-      "pierce": 0.5,
-      "blunt": 2
-    },
-    "speed": [
-      3,
-      7
-    ],
-    "hp": 72,
-    "stagger": [
-      0
-    ],
-    "season": 0,
-    "updatedDate": 20260326
-  },
-  {
     "id": 10301,
     "sinnerId": 3,
     "slotId": 1,
@@ -3044,6 +2799,10 @@
     "star": 1,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "pierce": 3
@@ -3086,6 +2845,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -3127,6 +2889,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "SHI"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -3167,6 +2932,10 @@
       "bleed",
       "tremor"
     ],
+    "associations": [
+      "N_CORP",
+      "N_CORP_FNATIC"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -3205,6 +2974,9 @@
     "titleKo": "남부 섕크 협회 5과 부장",
     "star": 3,
     "keywords": [],
+    "associations": [
+      "CINQ"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -3245,6 +3017,9 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "MIDDLE_FINGER"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -3283,6 +3058,9 @@
     "star": 2,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "L_CORP"
     ],
     "atkTypes": {
       "slash": 2,
@@ -3323,6 +3101,9 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "associations": [
+      "BLADE_LINEAGE"
     ],
     "atkTypes": {
       "slash": 2,
@@ -3365,6 +3146,9 @@
     "keywords": [
       "tremor"
     ],
+    "associations": [
+      "T_CORP"
+    ],
     "atkTypes": {
       "slash": 1,
       "blunt": 2
@@ -3403,6 +3187,9 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "LA_MANCHA_LAND"
     ],
     "atkTypes": {
       "pierce": 3
@@ -3445,6 +3232,9 @@
       "burn",
       "poise"
     ],
+    "associations": [
+      "CINQ"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -3486,6 +3276,9 @@
       "sinking",
       "charge"
     ],
+    "associations": [
+      "L_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -3526,6 +3319,10 @@
       "rupture",
       "sinking"
     ],
+    "associations": [
+      "BLACK_BEAST_SHEEP",
+      "H_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -3564,6 +3361,10 @@
     "star": 1,
     "keywords": [
       "poise"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "slash": 3
@@ -3604,6 +3405,9 @@
     "star": 2,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "SEVEN"
     ],
     "atkTypes": {
       "slash": 2,
@@ -3646,6 +3450,9 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "BLACK_CLOUD"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -3685,6 +3492,9 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "BACKSTREET_COOK"
     ],
     "atkTypes": {
       "slash": 2,
@@ -3726,6 +3536,9 @@
     "star": 3,
     "keywords": [
       "charge"
+    ],
+    "associations": [
+      "W_CORP"
     ],
     "atkTypes": {
       "slash": 3
@@ -3769,6 +3582,10 @@
       "rupture",
       "poise"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCC"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -3808,6 +3625,9 @@
     "star": 2,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "LIU"
     ],
     "atkTypes": {
       "slash": 2,
@@ -3850,6 +3670,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "LINTON"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -3889,6 +3712,9 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "YURODIVY"
     ],
     "atkTypes": {
       "pierce": 2,
@@ -3932,6 +3758,9 @@
       "bleed",
       "charge"
     ],
+    "associations": [
+      "L_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -3970,6 +3799,10 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "BLACK_BEAST_RABBIT",
+      "H_CORP"
     ],
     "atkTypes": {
       "slash": 3
@@ -4010,6 +3843,9 @@
     "keywords": [
       "bleed",
       "tremor"
+    ],
+    "associations": [
+      "N_CORP"
     ],
     "atkTypes": {
       "pierce": 3
@@ -4052,6 +3888,9 @@
       "rupture",
       "poise"
     ],
+    "associations": [
+      "H_CORP"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -4090,6 +3929,9 @@
     "keywords": [
       "tremor",
       "sinking"
+    ],
+    "associations": [
+      "L_CORP"
     ],
     "atkTypes": {
       "pierce": 3
@@ -4132,6 +3974,10 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "LITTLE_FINGER",
+      "SPIDER_HOUSE"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -4169,6 +4015,10 @@
     "star": 1,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "blunt": 3
@@ -4208,6 +4058,9 @@
     "star": 2,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "LIU"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -4251,6 +4104,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -4289,6 +4145,10 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "N_CORP",
+      "N_CORP_FNATIC"
     ],
     "atkTypes": {
       "pierce": 2,
@@ -4330,6 +4190,9 @@
       "tremor",
       "charge"
     ],
+    "associations": [
+      "TROUBLE_SHOOTER"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -4370,6 +4233,9 @@
       "bleed",
       "charge"
     ],
+    "associations": [
+      "R_CORP"
+    ],
     "atkTypes": {
       "slash": 2,
       "blunt": 1
@@ -4408,6 +4274,9 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "MIDDLE_FINGER"
     ],
     "atkTypes": {
       "blunt": 3
@@ -4448,6 +4317,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "BLADE_LINEAGE"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -4485,6 +4357,9 @@
     "star": 2,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "DEAD_RABBITS"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -4525,6 +4400,9 @@
     "star": 3,
     "keywords": [
       "sinking"
+    ],
+    "associations": [
+      "DIECI"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -4567,6 +4445,9 @@
       "rupture",
       "poise"
     ],
+    "associations": [
+      "CINQ"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -4606,6 +4487,9 @@
     "keywords": [
       "burn",
       "tremor"
+    ],
+    "associations": [
+      "THUMB_FINGER"
     ],
     "atkTypes": {
       "slash": 2,
@@ -4647,6 +4531,9 @@
       "bleed",
       "rupture"
     ],
+    "associations": [
+      "LA_MANCHA_LAND"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -4685,6 +4572,9 @@
     "keywords": [
       "burn",
       "bleed"
+    ],
+    "associations": [
+      "L_CORP"
     ],
     "atkTypes": {
       "pierce": 3
@@ -4725,6 +4615,10 @@
       "bleed",
       "sinking"
     ],
+    "associations": [
+      "RING_FINGER",
+      "RING_FINGER_FAUVISM"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -4764,6 +4658,10 @@
     "keywords": [
       "rupture",
       "sinking"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "slash": 1,
@@ -4806,6 +4704,9 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "BLACK_CLOUD"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -4845,6 +4746,9 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "KONG_KONG"
     ],
     "atkTypes": {
       "slash": 2,
@@ -4887,6 +4791,9 @@
     "keywords": [
       "burn"
     ],
+    "associations": [
+      "LIU"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -4925,6 +4832,9 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "K_CORP"
     ],
     "atkTypes": {
       "slash": 2,
@@ -4966,6 +4876,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "slash": 1,
       "pierce": 2
@@ -5005,6 +4918,9 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "HOOK_OFFICE"
     ],
     "atkTypes": {
       "pierce": 3
@@ -5046,6 +4962,9 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "DIECI"
+    ],
     "atkTypes": {
       "slash": 2,
       "blunt": 1
@@ -5085,6 +5004,9 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "YURODIVY"
     ],
     "atkTypes": {
       "pierce": 2,
@@ -5127,6 +5049,9 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "FANG_HUNT"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -5167,6 +5092,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "FULL_STOP"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -5206,6 +5134,9 @@
     "keywords": [
       "sinking",
       "charge"
+    ],
+    "associations": [
+      "R_CORP"
     ],
     "atkTypes": {
       "blunt": 3
@@ -5248,6 +5179,10 @@
       "rupture",
       "poise"
     ],
+    "associations": [
+      "H_CORP",
+      "FAMILY_GA_CANCELED"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -5288,6 +5223,11 @@
       "bleed",
       "charge"
     ],
+    "associations": [
+      "RING_FINGER_PHYSICAL",
+      "RING_FINGER",
+      "SPIDER_HOUSE"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -5326,6 +5266,9 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "associations": [
+      "S_CORP"
     ],
     "atkTypes": {
       "slash": 3
@@ -5366,6 +5309,10 @@
     "keywords": [
       "tremor"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -5405,6 +5352,9 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "associations": [
+      "SHI"
     ],
     "atkTypes": {
       "slash": 2,
@@ -5448,6 +5398,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "R_CORP"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -5487,6 +5440,10 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "N_CORP",
+      "N_CORP_FNATIC"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -5530,6 +5487,9 @@
       "rupture",
       "sinking"
     ],
+    "associations": [
+      "ATL"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -5569,6 +5529,9 @@
     "star": 2,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "SEVEN"
     ],
     "atkTypes": {
       "slash": 2,
@@ -5612,6 +5575,9 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "PEQUOD_CREW"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -5648,6 +5614,9 @@
     "star": 3,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "OUFI"
     ],
     "atkTypes": {
       "slash": 2,
@@ -5687,6 +5656,9 @@
     "star": 2,
     "keywords": [
       "charge"
+    ],
+    "associations": [
+      "MULTI_CRACK"
     ],
     "atkTypes": {
       "slash": 1,
@@ -5729,6 +5701,10 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "WILD_HUNT",
+      "WUTHERING_HEIGHTS"
+    ],
     "atkTypes": {
       "slash": 2,
       "blunt": 1
@@ -5770,6 +5746,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "FULL_STOP"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -5809,6 +5788,9 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "BLACK_CLOUD"
     ],
     "atkTypes": {
       "slash": 3
@@ -5850,6 +5832,9 @@
       "rupture",
       "charge"
     ],
+    "associations": [
+      "W_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -5888,6 +5873,10 @@
     "keywords": [
       "burn",
       "rupture"
+    ],
+    "associations": [
+      "H_CORP",
+      "BLACK_BEAST_CHICKEN"
     ],
     "atkTypes": {
       "slash": 3
@@ -5928,6 +5917,9 @@
       "burn",
       "bleed"
     ],
+    "associations": [
+      "MIDDLE_FINGER"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -5965,6 +5957,10 @@
     "keywords": [
       "burn",
       "tremor"
+    ],
+    "associations": [
+      "THUMB_FINGER",
+      "SPIDER_HOUSE"
     ],
     "atkTypes": {
       "slash": 3
@@ -6004,6 +6000,10 @@
     "star": 1,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "blunt": 3
@@ -6045,6 +6045,9 @@
       "sinking",
       "charge"
     ],
+    "associations": [
+      "R_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6083,6 +6086,9 @@
     "star": 2,
     "keywords": [
       "poise"
+    ],
+    "associations": [
+      "SHI"
     ],
     "atkTypes": {
       "slash": 2,
@@ -6125,6 +6131,10 @@
       "tremor",
       "rupture"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCC"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6165,6 +6175,9 @@
       "tremor",
       "rupture"
     ],
+    "associations": [
+      "ATL"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6203,6 +6216,9 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "LIU"
     ],
     "atkTypes": {
       "blunt": 3
@@ -6244,6 +6260,9 @@
     "keywords": [
       "tremor",
       "sinking"
+    ],
+    "associations": [
+      "MOLAR"
     ],
     "atkTypes": {
       "pierce": 3
@@ -6287,6 +6306,9 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "PEQUOD_CREW"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -6327,6 +6349,9 @@
     "keywords": [
       "sinking",
       "poise"
+    ],
+    "associations": [
+      "LINTON"
     ],
     "atkTypes": {
       "slash": 2,
@@ -6369,6 +6394,9 @@
     "keywords": [
       "tremor"
     ],
+    "associations": [
+      "ZWEI"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6406,6 +6434,9 @@
     "star": 3,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "BLACK_CLOUD"
     ],
     "atkTypes": {
       "slash": 3
@@ -6447,6 +6478,10 @@
     "keywords": [
       "rupture",
       "poise"
+    ],
+    "associations": [
+      "FAMILY_GA",
+      "H_CORP"
     ],
     "atkTypes": {
       "slash": 1,
@@ -6490,6 +6525,10 @@
       "tremor",
       "sinking"
     ],
+    "associations": [
+      "JEONG_OFFICE",
+      "OUFI_COOP"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -6532,6 +6571,10 @@
       "burn",
       "bleed"
     ],
+    "associations": [
+      "MIDDLE_FINGER",
+      "SPIDER_HOUSE"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6572,6 +6615,11 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCD",
+      "BLADE_LINEAGE"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -6609,6 +6657,10 @@
     "star": 1,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "slash": 3
@@ -6651,6 +6703,9 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "BLACK_CLOUD"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -6688,6 +6743,10 @@
     "titleKo": "LCCB 대리",
     "star": 2,
     "keywords": [],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCC"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6727,6 +6786,10 @@
     "star": 2,
     "keywords": [
       "bleed"
+    ],
+    "associations": [
+      "N_CORP",
+      "N_CORP_FNATIC"
     ],
     "atkTypes": {
       "pierce": 1,
@@ -6770,6 +6833,9 @@
       "tremor",
       "charge"
     ],
+    "associations": [
+      "TROUBLE_SHOOTER"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -6811,6 +6877,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "ZWEI"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6850,6 +6919,9 @@
     "keywords": [
       "sinking"
     ],
+    "associations": [
+      "DIECI"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6887,6 +6959,9 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "LIU"
     ],
     "atkTypes": {
       "pierce": 2,
@@ -6929,6 +7004,9 @@
     "keywords": [
       "tremor"
     ],
+    "associations": [
+      "T_CORP"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -6968,6 +7046,9 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "DEVYAT"
     ],
     "atkTypes": {
       "slash": 3
@@ -7009,6 +7090,9 @@
       "bleed",
       "rupture"
     ],
+    "associations": [
+      "LA_MANCHA_LAND"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -7049,6 +7133,9 @@
       "sinking",
       "charge"
     ],
+    "associations": [
+      "L_CORP"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -7087,6 +7174,9 @@
     "keywords": [
       "sinking",
       "charge"
+    ],
+    "associations": [
+      "R_CORP"
     ],
     "atkTypes": {
       "blunt": 3
@@ -7128,6 +7218,10 @@
       "bleed",
       "sinking"
     ],
+    "associations": [
+      "RING_FINGER",
+      "RING_FINGER_FAUVISM"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -7168,6 +7262,11 @@
       "burn",
       "tremor"
     ],
+    "associations": [
+      "THUMB_FINGER",
+      "SPIDER_HOUSE",
+      "SEVENFAMILIES_CANCELED"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -7207,6 +7306,10 @@
     "star": 1,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCB"
     ],
     "atkTypes": {
       "slash": 3
@@ -7249,6 +7352,9 @@
       "bleed",
       "poise"
     ],
+    "associations": [
+      "BLADE_LINEAGE"
+    ],
     "atkTypes": {
       "slash": 2,
       "pierce": 1
@@ -7288,6 +7394,9 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "ZWEI"
     ],
     "atkTypes": {
       "blunt": 3
@@ -7329,6 +7438,9 @@
       "sinking",
       "poise"
     ],
+    "associations": [
+      "MARIACHI"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -7367,6 +7479,10 @@
     "keywords": [
       "burn",
       "bleed"
+    ],
+    "associations": [
+      "N_CORP",
+      "N_CORP_FNATIC"
     ],
     "atkTypes": {
       "blunt": 3
@@ -7407,6 +7523,9 @@
     "keywords": [
       "rupture"
     ],
+    "associations": [
+      "ATL"
+    ],
     "atkTypes": {
       "pierce": 1,
       "blunt": 2
@@ -7446,6 +7565,9 @@
     "star": 2,
     "keywords": [
       "tremor"
+    ],
+    "associations": [
+      "MOLAR"
     ],
     "atkTypes": {
       "pierce": 2,
@@ -7488,6 +7610,9 @@
     "keywords": [
       "poise"
     ],
+    "associations": [
+      "CINQ"
+    ],
     "atkTypes": {
       "pierce": 3
     },
@@ -7526,6 +7651,9 @@
     "star": 3,
     "keywords": [
       "burn"
+    ],
+    "associations": [
+      "DAWN"
     ],
     "atkTypes": {
       "slash": 2,
@@ -7568,6 +7696,9 @@
     "keywords": [
       "tremor"
     ],
+    "associations": [
+      "ZWEI"
+    ],
     "atkTypes": {
       "slash": 2,
       "blunt": 1
@@ -7606,6 +7737,9 @@
     "star": 3,
     "keywords": [
       "rupture"
+    ],
+    "associations": [
+      "DEVYAT"
     ],
     "atkTypes": {
       "blunt": 3
@@ -7647,6 +7781,9 @@
     "keywords": [
       "bleed"
     ],
+    "associations": [
+      "MIDDLE_FINGER"
+    ],
     "atkTypes": {
       "blunt": 3
     },
@@ -7685,6 +7822,9 @@
     "keywords": [
       "burn",
       "tremor"
+    ],
+    "associations": [
+      "THUMB_FINGER"
     ],
     "atkTypes": {
       "slash": 1,
@@ -7728,6 +7868,10 @@
       "burn",
       "rupture"
     ],
+    "associations": [
+      "BLACK_BEAST_CHICKEN",
+      "H_CORP"
+    ],
     "atkTypes": {
       "slash": 3
     },
@@ -7768,6 +7912,9 @@
     "keywords": [
       "bleed",
       "poise"
+    ],
+    "associations": [
+      "SPIDER_HOUSE"
     ],
     "atkTypes": {
       "slash": 3
