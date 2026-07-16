@@ -1,36 +1,43 @@
 {
   "wrath": {
     "name": "Wrath",
+    "nameKo": "분노",
     "attribute": "CRIMSON",
     "order": 0
   },
   "lust": {
     "name": "Lust",
+    "nameKo": "색욕",
     "attribute": "SCARLET",
     "order": 1
   },
   "sloth": {
     "name": "Sloth",
+    "nameKo": "나태",
     "attribute": "AMBER",
     "order": 2
   },
   "gluttony": {
-    "name": "Glut.",
+    "name": "Gluttony",
+    "nameKo": "탐식",
     "attribute": "SHAMROCK",
     "order": 3
   },
   "gloom": {
     "name": "Gloom",
+    "nameKo": "우울",
     "attribute": "AZURE",
     "order": 4
   },
   "pride": {
     "name": "Pride",
+    "nameKo": "오만",
     "attribute": "INDIGO",
     "order": 5
   },
   "envy": {
     "name": "Envy",
+    "nameKo": "질투",
     "attribute": "VIOLET",
     "order": 6
   }

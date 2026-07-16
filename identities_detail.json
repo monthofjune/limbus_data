@@ -78,10 +78,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010101
+      {
+        "level": 1,
+        "passives": [
+          1010101
+        ]
+      }
     ],
     "supporterPassives": [
-      1010121
+      {
+        "level": 3,
+        "passives": [
+          1010121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -171,10 +181,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010201
+      {
+        "level": 2,
+        "passives": [
+          1010201
+        ]
+      }
     ],
     "supporterPassives": [
-      1010221
+      {
+        "level": 3,
+        "passives": [
+          1010221
+        ]
+      }
     ],
     "associations": [
       "SEVEN"
@@ -264,11 +284,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010301,
-      1010311
+      {
+        "level": 2,
+        "passives": [
+          1010301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1010311
+        ]
+      }
     ],
     "supporterPassives": [
-      1010321
+      {
+        "level": 3,
+        "passives": [
+          1010321
+        ]
+      }
     ],
     "associations": [
       "BLADE_LINEAGE"
@@ -359,10 +394,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010401
+      {
+        "level": 2,
+        "passives": [
+          1010401
+        ]
+      }
     ],
     "supporterPassives": [
-      1010421
+      {
+        "level": 3,
+        "passives": [
+          1010421
+        ]
+      }
     ],
     "associations": [
       "ATL"
@@ -451,10 +496,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010501
+      {
+        "level": 2,
+        "passives": [
+          1010501
+        ]
+      }
     ],
     "supporterPassives": [
-      1010521
+      {
+        "level": 3,
+        "passives": [
+          1010521
+        ]
+      }
     ],
     "associations": [
       "MOLAR"
@@ -543,11 +598,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010601,
-      1010611
+      {
+        "level": 2,
+        "passives": [
+          1010601
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1010611
+        ]
+      }
     ],
     "supporterPassives": [
-      1010621
+      {
+        "level": 3,
+        "passives": [
+          1010621
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -636,10 +706,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010701
+      {
+        "level": 2,
+        "passives": [
+          1010701
+        ]
+      }
     ],
     "supporterPassives": [
-      1010721
+      {
+        "level": 3,
+        "passives": [
+          1010721
+        ]
+      }
     ],
     "associations": [
       "PEQUOD_CREW"
@@ -727,12 +807,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010801,
-      1010811
+      {
+        "level": 2,
+        "passives": [
+          1010801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1010811
+        ]
+      }
     ],
     "supporterPassives": [
-      1010821,
-      1010831
+      {
+        "level": 3,
+        "passives": [
+          1010821
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1010831
+        ]
+      }
     ],
     "associations": [
       "DIECI"
@@ -822,15 +922,40 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1010902,
-      1010902,
-      1010901,
-      1010902,
-      1010911
+      {
+        "level": 1,
+        "passives": [
+          1010902
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1010902,
+          1010901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1010902,
+          1010911
+        ]
+      }
     ],
     "supporterPassives": [
-      1010921,
-      1010931
+      {
+        "level": 3,
+        "passives": [
+          1010921
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1010931
+        ]
+      }
     ],
     "associations": [
       "RING_FINGER_POINTILLISM",
@@ -922,17 +1047,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1011002,
-      1011003,
-      1011002,
-      1011001,
-      1011003,
-      1011002,
-      1011011,
-      1011003
+      {
+        "level": 1,
+        "passives": [
+          1011002,
+          1011003
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1011002,
+          1011001,
+          1011003
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1011002,
+          1011011,
+          1011003
+        ]
+      }
     ],
     "supporterPassives": [
-      1011021
+      {
+        "level": 3,
+        "passives": [
+          1011021
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -1017,11 +1162,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1011101,
-      1011111
+      {
+        "level": 2,
+        "passives": [
+          1011101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1011111
+        ]
+      }
     ],
     "supporterPassives": [
-      1011121
+      {
+        "level": 3,
+        "passives": [
+          1011121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -1112,12 +1272,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1011201,
-      1011211
+      {
+        "level": 2,
+        "passives": [
+          1011201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1011211
+        ]
+      }
     ],
     "supporterPassives": [
-      1011221,
-      1011231
+      {
+        "level": 3,
+        "passives": [
+          1011221
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1011231
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -1207,12 +1387,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1011302,
-      1011302,
-      1011301
+      {
+        "level": 1,
+        "passives": [
+          1011302
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1011302,
+          1011301
+        ]
+      }
     ],
     "supporterPassives": [
-      1011321
+      {
+        "level": 3,
+        "passives": [
+          1011321
+        ]
+      }
     ],
     "associations": [
       "N_CORP"
@@ -1306,17 +1501,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1011402,
-      1011403,
-      1011402,
-      1011403,
-      1011401,
-      1011402,
-      1011403,
-      1011411
+      {
+        "level": 1,
+        "passives": [
+          1011402,
+          1011403
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1011402,
+          1011403,
+          1011401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1011402,
+          1011403,
+          1011411
+        ]
+      }
     ],
     "supporterPassives": [
-      1011421
+      {
+        "level": 3,
+        "passives": [
+          1011421
+        ]
+      }
     ],
     "associations": [
       "FAMILY_GA",
@@ -1412,23 +1627,43 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1011502,
-      1011503,
-      1011504,
-      1011505,
-      1011502,
-      1011503,
-      1011504,
-      1011505,
-      1011501,
-      1011502,
-      1011503,
-      1011504,
-      1011506,
-      1011511
+      {
+        "level": 1,
+        "passives": [
+          1011502,
+          1011503,
+          1011504,
+          1011505
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1011502,
+          1011503,
+          1011504,
+          1011505,
+          1011501
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1011502,
+          1011503,
+          1011504,
+          1011506,
+          1011511
+        ]
+      }
     ],
     "supporterPassives": [
-      1011521
+      {
+        "level": 3,
+        "passives": [
+          1011521
+        ]
+      }
     ],
     "associations": [
       "INDEX_FINGER",
@@ -1521,10 +1756,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020101
+      {
+        "level": 1,
+        "passives": [
+          1020101
+        ]
+      }
     ],
     "supporterPassives": [
-      1020121
+      {
+        "level": 3,
+        "passives": [
+          1020121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -1614,11 +1859,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020201,
-      1020211
+      {
+        "level": 2,
+        "passives": [
+          1020201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020211
+        ]
+      }
     ],
     "supporterPassives": [
-      1020221
+      {
+        "level": 3,
+        "passives": [
+          1020221
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -1707,10 +1967,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020301
+      {
+        "level": 2,
+        "passives": [
+          1020301
+        ]
+      }
     ],
     "supporterPassives": [
-      1020321
+      {
+        "level": 3,
+        "passives": [
+          1020321
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -1801,12 +2071,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020401,
-      1020411
+      {
+        "level": 2,
+        "passives": [
+          1020401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020411
+        ]
+      }
     ],
     "supporterPassives": [
-      1020421,
-      1020431
+      {
+        "level": 3,
+        "passives": [
+          1020421
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020431
+        ]
+      }
     ],
     "associations": [
       "N_CORP",
@@ -1895,11 +2185,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020501,
-      1020511
+      {
+        "level": 2,
+        "passives": [
+          1020501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020511
+        ]
+      }
     ],
     "supporterPassives": [
-      1020521
+      {
+        "level": 3,
+        "passives": [
+          1020521
+        ]
+      }
     ],
     "associations": [
       "ZWEI"
@@ -1989,11 +2294,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020601
+      {
+        "level": 2,
+        "passives": [
+          1020601
+        ]
+      }
     ],
     "supporterPassives": [
-      1020621,
-      1020631
+      {
+        "level": 3,
+        "passives": [
+          1020621
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020631
+        ]
+      }
     ],
     "associations": [
       "SEVEN"
@@ -2082,11 +2402,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020701,
-      1020711
+      {
+        "level": 2,
+        "passives": [
+          1020701
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020711
+        ]
+      }
     ],
     "supporterPassives": [
-      1020721
+      {
+        "level": 3,
+        "passives": [
+          1020721
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -2177,11 +2512,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020801,
-      1020811
+      {
+        "level": 2,
+        "passives": [
+          1020801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020811
+        ]
+      }
     ],
     "supporterPassives": [
-      1020821
+      {
+        "level": 3,
+        "passives": [
+          1020821
+        ]
+      }
     ],
     "associations": [
       "BLADE_LINEAGE"
@@ -2272,12 +2622,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1020901,
-      1020911
+      {
+        "level": 2,
+        "passives": [
+          1020901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020911
+        ]
+      }
     ],
     "supporterPassives": [
-      1020921,
-      1020931
+      {
+        "level": 3,
+        "passives": [
+          1020921
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1020931
+        ]
+      }
     ],
     "associations": [
       "WUTHERING_HEIGHTS"
@@ -2368,12 +2738,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021001,
-      1021011
+      {
+        "level": 2,
+        "passives": [
+          1021001
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1021011
+        ]
+      }
     ],
     "supporterPassives": [
-      1021021,
-      1021031
+      {
+        "level": 3,
+        "passives": [
+          1021021
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1021031
+        ]
+      }
     ],
     "associations": [
       "MULTI_CRACK"
@@ -2468,12 +2858,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021101,
-      1021101,
-      1021111
+      {
+        "level": 1,
+        "passives": [
+          1021101
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1021101,
+          1021111
+        ]
+      }
     ],
     "supporterPassives": [
-      1021121
+      {
+        "level": 3,
+        "passives": [
+          1021121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -2570,14 +2975,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021301,
-      1021302,
-      1021301,
-      1021302,
-      1021311
+      {
+        "level": 2,
+        "passives": [
+          1021301
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1021302,
+          1021301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1021302,
+          1021311
+        ]
+      }
     ],
     "supporterPassives": [
-      1021321
+      {
+        "level": 3,
+        "passives": [
+          1021321
+        ]
+      }
     ],
     "associations": [
       "SHI"
@@ -2683,17 +3108,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021504,
-      1021503,
-      1021504,
-      1021503,
-      1021501,
-      1021504,
-      1021503,
-      1021511
+      {
+        "level": 1,
+        "passives": [
+          1021504,
+          1021503
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1021504,
+          1021503,
+          1021501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1021504,
+          1021503,
+          1021511
+        ]
+      }
     ],
     "supporterPassives": [
-      1021521
+      {
+        "level": 3,
+        "passives": [
+          1021521
+        ]
+      }
     ],
     "associations": [
       "RING_FINGER_PHYSICAL",
@@ -2797,17 +3242,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021602,
-      1021603,
-      1021602,
-      1021603,
-      1021601,
-      1021602,
-      1021603,
-      1021611
+      {
+        "level": 1,
+        "passives": [
+          1021602,
+          1021603
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1021602,
+          1021603,
+          1021601
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1021602,
+          1021603,
+          1021611
+        ]
+      }
     ],
     "supporterPassives": [
-      1021621
+      {
+        "level": 3,
+        "passives": [
+          1021621
+        ]
+      }
     ],
     "associations": [
       "DAWN"
@@ -2897,10 +3362,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110101
+      {
+        "level": 1,
+        "passives": [
+          1110101
+        ]
+      }
     ],
     "supporterPassives": [
-      1110121
+      {
+        "level": 3,
+        "passives": [
+          1110121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -2991,10 +3466,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110201
+      {
+        "level": 2,
+        "passives": [
+          1110201
+        ]
+      }
     ],
     "supporterPassives": [
-      1110221
+      {
+        "level": 3,
+        "passives": [
+          1110221
+        ]
+      }
     ],
     "associations": [
       "BLADE_LINEAGE"
@@ -3084,10 +3569,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110301
+      {
+        "level": 2,
+        "passives": [
+          1110301
+        ]
+      }
     ],
     "supporterPassives": [
-      1110321
+      {
+        "level": 3,
+        "passives": [
+          1110321
+        ]
+      }
     ],
     "associations": [
       "G_CORP"
@@ -3174,10 +3669,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110401
+      {
+        "level": 2,
+        "passives": [
+          1110401
+        ]
+      }
     ],
     "supporterPassives": [
-      1110421
+      {
+        "level": 3,
+        "passives": [
+          1110421
+        ]
+      }
     ],
     "associations": [
       "SEVEN"
@@ -3267,10 +3772,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110501
+      {
+        "level": 2,
+        "passives": [
+          1110501
+        ]
+      }
     ],
     "supporterPassives": [
-      1110521
+      {
+        "level": 3,
+        "passives": [
+          1110521
+        ]
+      }
     ],
     "associations": [
       "MOLAR"
@@ -3358,12 +3873,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110601,
-      1110611
+      {
+        "level": 2,
+        "passives": [
+          1110601
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110611
+        ]
+      }
     ],
     "supporterPassives": [
-      1110621,
-      1110631
+      {
+        "level": 3,
+        "passives": [
+          1110621
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110631
+        ]
+      }
     ],
     "associations": [
       "CINQ"
@@ -3453,12 +3988,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110701,
-      1110711
+      {
+        "level": 2,
+        "passives": [
+          1110701
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110711
+        ]
+      }
     ],
     "supporterPassives": [
-      1110721,
-      1110731
+      {
+        "level": 3,
+        "passives": [
+          1110721
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110731
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -3555,11 +4110,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110801,
-      1110811
+      {
+        "level": 2,
+        "passives": [
+          1110801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110811
+        ]
+      }
     ],
     "supporterPassives": [
-      1110821
+      {
+        "level": 3,
+        "passives": [
+          1110821
+        ]
+      }
     ],
     "associations": [
       "WUTHERING_HEIGHTS"
@@ -3650,15 +4220,40 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1110902,
-      1110902,
-      1110901,
-      1110902,
-      1110911
+      {
+        "level": 1,
+        "passives": [
+          1110902
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1110902,
+          1110901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110902,
+          1110911
+        ]
+      }
     ],
     "supporterPassives": [
-      1110921,
-      1110931
+      {
+        "level": 3,
+        "passives": [
+          1110921
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1110931
+        ]
+      }
     ],
     "associations": [
       "RING_FINGER_POINTILLISM",
@@ -3750,10 +4345,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1111001
+      {
+        "level": 2,
+        "passives": [
+          1111001
+        ]
+      }
     ],
     "supporterPassives": [
-      1111021
+      {
+        "level": 3,
+        "passives": [
+          1111021
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -3842,14 +4447,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1111102,
-      1111102,
-      1111101,
-      1111102,
-      1111111
+      {
+        "level": 1,
+        "passives": [
+          1111102
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1111102,
+          1111101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1111102,
+          1111111
+        ]
+      }
     ],
     "supporterPassives": [
-      1111121
+      {
+        "level": 3,
+        "passives": [
+          1111121
+        ]
+      }
     ],
     "associations": [
       "LA_MANCHA_LAND"
@@ -3940,10 +4565,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1111201
+      {
+        "level": 2,
+        "passives": [
+          1111201
+        ]
+      }
     ],
     "supporterPassives": [
-      1111221
+      {
+        "level": 3,
+        "passives": [
+          1111221
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_RABBIT",
@@ -4034,10 +4669,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1111301
+      {
+        "level": 2,
+        "passives": [
+          1111301
+        ]
+      }
     ],
     "supporterPassives": [
-      1111321
+      {
+        "level": 3,
+        "passives": [
+          1111321
+        ]
+      }
     ],
     "associations": [
       "T_CORP"
@@ -4159,24 +4804,44 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1111502,
-      1111503,
-      1111504,
-      1111505,
-      1111502,
-      1111503,
-      1111504,
-      1111505,
-      1111501,
-      1111502,
-      1111513,
-      1111504,
-      1111505,
-      1111506,
-      1111501
+      {
+        "level": 1,
+        "passives": [
+          1111502,
+          1111503,
+          1111504,
+          1111505
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1111502,
+          1111503,
+          1111504,
+          1111505,
+          1111501
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1111502,
+          1111513,
+          1111504,
+          1111505,
+          1111506,
+          1111501
+        ]
+      }
     ],
     "supporterPassives": [
-      1111521
+      {
+        "level": 3,
+        "passives": [
+          1111521
+        ]
+      }
     ],
     "associations": [
       "SPIDER_HOUSE",
@@ -4268,10 +4933,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120101
+      {
+        "level": 1,
+        "passives": [
+          1120101
+        ]
+      }
     ],
     "supporterPassives": [
-      1120121
+      {
+        "level": 3,
+        "passives": [
+          1120121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -4362,10 +5037,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120201
+      {
+        "level": 2,
+        "passives": [
+          1120201
+        ]
+      }
     ],
     "supporterPassives": [
-      1120221
+      {
+        "level": 3,
+        "passives": [
+          1120221
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -4455,10 +5140,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120301
+      {
+        "level": 2,
+        "passives": [
+          1120301
+        ]
+      }
     ],
     "supporterPassives": [
-      1120321
+      {
+        "level": 3,
+        "passives": [
+          1120321
+        ]
+      }
     ],
     "associations": [
       "G_CORP"
@@ -4546,10 +5241,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120401
+      {
+        "level": 2,
+        "passives": [
+          1120401
+        ]
+      }
     ],
     "supporterPassives": [
-      1120421
+      {
+        "level": 3,
+        "passives": [
+          1120421
+        ]
+      }
     ],
     "associations": [
       "BACKSTREET_COOK"
@@ -4640,10 +5345,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120501
+      {
+        "level": 2,
+        "passives": [
+          1120501
+        ]
+      }
     ],
     "supporterPassives": [
-      1120521
+      {
+        "level": 3,
+        "passives": [
+          1120521
+        ]
+      }
     ],
     "associations": [
       "TROUBLE_SHOOTER"
@@ -4731,10 +5446,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120601
+      {
+        "level": 2,
+        "passives": [
+          1120601
+        ]
+      }
     ],
     "supporterPassives": [
-      1120621
+      {
+        "level": 3,
+        "passives": [
+          1120621
+        ]
+      }
     ],
     "associations": [
       "ZWEI"
@@ -4824,11 +5549,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120701,
-      1120702
+      {
+        "level": 2,
+        "passives": [
+          1120701
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1120702
+        ]
+      }
     ],
     "supporterPassives": [
-      1120721
+      {
+        "level": 3,
+        "passives": [
+          1120721
+        ]
+      }
     ],
     "associations": [
       "DUAL_HOOK_PIRATE"
@@ -4918,11 +5658,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120801
+      {
+        "level": 2,
+        "passives": [
+          1120801
+        ]
+      }
     ],
     "supporterPassives": [
-      1120821,
-      1120831
+      {
+        "level": 3,
+        "passives": [
+          1120821
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1120831
+        ]
+      }
     ],
     "associations": [
       "BLACK_CLOUD"
@@ -5012,12 +5767,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1120901,
-      1120911
+      {
+        "level": 2,
+        "passives": [
+          1120901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1120911
+        ]
+      }
     ],
     "supporterPassives": [
-      1120921,
-      1120931
+      {
+        "level": 3,
+        "passives": [
+          1120921
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1120931
+        ]
+      }
     ],
     "associations": [
       "LINTON"
@@ -5104,15 +5879,40 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121002,
-      1121002,
-      1121001,
-      1121002,
-      1121011
+      {
+        "level": 1,
+        "passives": [
+          1121002
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1121002,
+          1121001
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1121002,
+          1121011
+        ]
+      }
     ],
     "supporterPassives": [
-      1121021,
-      1121031
+      {
+        "level": 3,
+        "passives": [
+          1121021
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1121031
+        ]
+      }
     ],
     "associations": [
       "LA_MANCHA_LAND"
@@ -5202,12 +6002,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121102,
-      1121102,
-      1121101
+      {
+        "level": 1,
+        "passives": [
+          1121102
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1121102,
+          1121101
+        ]
+      }
     ],
     "supporterPassives": [
-      1121121
+      {
+        "level": 3,
+        "passives": [
+          1121121
+        ]
+      }
     ],
     "associations": [
       "FIREPUNCH_OFFICE"
@@ -5307,13 +6122,28 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121302,
-      1121301,
-      1121302,
-      1121311
+      {
+        "level": 2,
+        "passives": [
+          1121302,
+          1121301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1121302,
+          1121311
+        ]
+      }
     ],
     "supporterPassives": [
-      1121321
+      {
+        "level": 3,
+        "passives": [
+          1121321
+        ]
+      }
     ],
     "associations": [
       "NIGHTSTILETTO"
@@ -5401,17 +6231,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121402,
-      1121403,
-      1121402,
-      1121403,
-      1121401,
-      1121402,
-      1121403,
-      1121411
+      {
+        "level": 1,
+        "passives": [
+          1121402,
+          1121403
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1121402,
+          1121403,
+          1121401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1121402,
+          1121403,
+          1121411
+        ]
+      }
     ],
     "supporterPassives": [
-      1121421
+      {
+        "level": 3,
+        "passives": [
+          1121421
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -5506,18 +6356,43 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121502,
-      1121503,
-      1121502,
-      1121503,
-      1121501,
-      1121502,
-      1121503,
-      1121511
+      {
+        "level": 1,
+        "passives": [
+          1121502,
+          1121503
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1121502,
+          1121503,
+          1121501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1121502,
+          1121503,
+          1121511
+        ]
+      }
     ],
     "supporterPassives": [
-      1121521,
-      1121531
+      {
+        "level": 3,
+        "passives": [
+          1121521
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1121531
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -5617,17 +6492,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121602,
-      1121603,
-      1121602,
-      1121603,
-      1121601,
-      1121602,
-      1121603,
-      1121611
+      {
+        "level": 1,
+        "passives": [
+          1121602,
+          1121603
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1121602,
+          1121603,
+          1121601
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1121602,
+          1121603,
+          1121611
+        ]
+      }
     ],
     "supporterPassives": [
-      1121621
+      {
+        "level": 3,
+        "passives": [
+          1121621
+        ]
+      }
     ],
     "associations": [
       "DAWN"
@@ -5717,10 +6612,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1121201
+      {
+        "level": 2,
+        "passives": [
+          1121201
+        ]
+      }
     ],
     "supporterPassives": [
-      1121221
+      {
+        "level": 3,
+        "passives": [
+          1121221
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_SNAKE",
@@ -5811,10 +6716,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091201
+      {
+        "level": 2,
+        "passives": [
+          1091201
+        ]
+      }
     ],
     "supporterPassives": [
-      1091221
+      {
+        "level": 3,
+        "passives": [
+          1091221
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_SNAKE",
@@ -5910,14 +6825,29 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021203,
-      1021202,
-      1021203,
-      1021201,
-      1021202
+      {
+        "level": 1,
+        "passives": [
+          1021203,
+          1021202
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1021203,
+          1021201,
+          1021202
+        ]
+      }
     ],
     "supporterPassives": [
-      1021221
+      {
+        "level": 3,
+        "passives": [
+          1021221
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_RABBIT",
@@ -6008,14 +6938,29 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1021402,
-      1021403,
-      1021402,
-      1021403,
-      1021401
+      {
+        "level": 1,
+        "passives": [
+          1021402,
+          1021403
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1021402,
+          1021403,
+          1021401
+        ]
+      }
     ],
     "supporterPassives": [
-      1021421
+      {
+        "level": 3,
+        "passives": [
+          1021421
+        ]
+      }
     ],
     "associations": [
       "INDEX_FINGER"
@@ -6104,14 +7049,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1111402,
-      1111402,
-      1111401,
-      1111412,
-      1111401
+      {
+        "level": 1,
+        "passives": [
+          1111402
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1111402,
+          1111401
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1111412,
+          1111401
+        ]
+      }
     ],
     "supporterPassives": [
-      1111421
+      {
+        "level": 3,
+        "passives": [
+          1111421
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -6216,16 +7181,31 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1031402,
-      1031403,
-      1031404,
-      1031402,
-      1031403,
-      1031404,
-      1031401
+      {
+        "level": 1,
+        "passives": [
+          1031402,
+          1031403,
+          1031404
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1031402,
+          1031403,
+          1031404,
+          1031401
+        ]
+      }
     ],
     "supporterPassives": [
-      1031421
+      {
+        "level": 3,
+        "passives": [
+          1031421
+        ]
+      }
     ],
     "associations": [
       "INDEX_FINGER",
@@ -6317,10 +7297,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030101
+      {
+        "level": 1,
+        "passives": [
+          1030101
+        ]
+      }
     ],
     "supporterPassives": [
-      1030121
+      {
+        "level": 3,
+        "passives": [
+          1030121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -6411,10 +7401,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030201
+      {
+        "level": 2,
+        "passives": [
+          1030201
+        ]
+      }
     ],
     "supporterPassives": [
-      1030221
+      {
+        "level": 3,
+        "passives": [
+          1030221
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -6502,10 +7502,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030301
+      {
+        "level": 2,
+        "passives": [
+          1030301
+        ]
+      }
     ],
     "supporterPassives": [
-      1030321
+      {
+        "level": 3,
+        "passives": [
+          1030321
+        ]
+      }
     ],
     "associations": [
       "SHI"
@@ -6594,10 +7604,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030401
+      {
+        "level": 2,
+        "passives": [
+          1030401
+        ]
+      }
     ],
     "supporterPassives": [
-      1030421
+      {
+        "level": 3,
+        "passives": [
+          1030421
+        ]
+      }
     ],
     "associations": [
       "N_CORP",
@@ -6687,10 +7707,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030501
+      {
+        "level": 2,
+        "passives": [
+          1030501
+        ]
+      }
     ],
     "supporterPassives": [
-      1030521
+      {
+        "level": 3,
+        "passives": [
+          1030521
+        ]
+      }
     ],
     "associations": [
       "CINQ"
@@ -6780,11 +7810,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030601,
-      1030611
+      {
+        "level": 2,
+        "passives": [
+          1030601
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1030611
+        ]
+      }
     ],
     "supporterPassives": [
-      1030621
+      {
+        "level": 3,
+        "passives": [
+          1030621
+        ]
+      }
     ],
     "associations": [
       "MIDDLE_FINGER"
@@ -6873,12 +7918,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030701,
-      1030711
+      {
+        "level": 2,
+        "passives": [
+          1030701
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1030711
+        ]
+      }
     ],
     "supporterPassives": [
-      1030721,
-      1030731
+      {
+        "level": 3,
+        "passives": [
+          1030721
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1030731
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -6969,12 +8034,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030801,
-      1030811
+      {
+        "level": 2,
+        "passives": [
+          1030801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1030811
+        ]
+      }
     ],
     "supporterPassives": [
-      1030821,
-      1030831
+      {
+        "level": 3,
+        "passives": [
+          1030821
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1030831
+        ]
+      }
     ],
     "associations": [
       "BLADE_LINEAGE"
@@ -7063,10 +8148,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1030901
+      {
+        "level": 2,
+        "passives": [
+          1030901
+        ]
+      }
     ],
     "supporterPassives": [
-      1030921
+      {
+        "level": 3,
+        "passives": [
+          1030921
+        ]
+      }
     ],
     "associations": [
       "T_CORP"
@@ -7171,16 +8266,31 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1031001,
-      1031002,
-      1031003,
-      1031001,
-      1031002,
-      1031003,
-      1031004
+      {
+        "level": 1,
+        "passives": [
+          1031001,
+          1031002,
+          1031003
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1031001,
+          1031002,
+          1031003,
+          1031004
+        ]
+      }
     ],
     "supporterPassives": [
-      1031021
+      {
+        "level": 3,
+        "passives": [
+          1031021
+        ]
+      }
     ],
     "associations": [
       "LA_MANCHA_LAND"
@@ -7271,14 +8381,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1031101,
-      1031102,
-      1031111,
-      1031102
+      {
+        "level": 2,
+        "passives": [
+          1031101,
+          1031102
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1031111,
+          1031102
+        ]
+      }
     ],
     "supporterPassives": [
-      1031121,
-      1031131
+      {
+        "level": 3,
+        "passives": [
+          1031121
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1031131
+        ]
+      }
     ],
     "associations": [
       "CINQ"
@@ -7383,14 +8513,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1031202,
-      1031202,
-      1031201,
-      1031202,
-      1031211
+      {
+        "level": 1,
+        "passives": [
+          1031202
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1031202,
+          1031201
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1031202,
+          1031211
+        ]
+      }
     ],
     "supporterPassives": [
-      1031221
+      {
+        "level": 3,
+        "passives": [
+          1031221
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -7480,14 +8630,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1031302,
-      1031302,
-      1031301,
-      1031302,
-      1031311
+      {
+        "level": 1,
+        "passives": [
+          1031302
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1031302,
+          1031301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1031302,
+          1031311
+        ]
+      }
     ],
     "supporterPassives": [
-      1031321
+      {
+        "level": 3,
+        "passives": [
+          1031321
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_SHEEP",
@@ -7578,10 +8748,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040101
+      {
+        "level": 1,
+        "passives": [
+          1040101
+        ]
+      }
     ],
     "supporterPassives": [
-      1040121
+      {
+        "level": 3,
+        "passives": [
+          1040121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -7672,10 +8852,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040201
+      {
+        "level": 2,
+        "passives": [
+          1040201
+        ]
+      }
     ],
     "supporterPassives": [
-      1040221
+      {
+        "level": 3,
+        "passives": [
+          1040221
+        ]
+      }
     ],
     "associations": [
       "SEVEN"
@@ -7765,10 +8955,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040301
+      {
+        "level": 2,
+        "passives": [
+          1040301
+        ]
+      }
     ],
     "supporterPassives": [
-      1040321
+      {
+        "level": 3,
+        "passives": [
+          1040321
+        ]
+      }
     ],
     "associations": [
       "BLACK_CLOUD"
@@ -7858,10 +9058,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040401
+      {
+        "level": 2,
+        "passives": [
+          1040401
+        ]
+      }
     ],
     "supporterPassives": [
-      1040421
+      {
+        "level": 3,
+        "passives": [
+          1040421
+        ]
+      }
     ],
     "associations": [
       "BACKSTREET_COOK"
@@ -7952,12 +9162,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040501,
-      1040511
+      {
+        "level": 2,
+        "passives": [
+          1040501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040511
+        ]
+      }
     ],
     "supporterPassives": [
-      1040521,
-      1040531
+      {
+        "level": 3,
+        "passives": [
+          1040521
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040531
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -8045,13 +9275,38 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040601,
-      1040602,
-      1040611
+      {
+        "level": 2,
+        "passives": [
+          1040601
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1040602
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040611
+        ]
+      }
     ],
     "supporterPassives": [
-      1040621,
-      1040631
+      {
+        "level": 3,
+        "passives": [
+          1040621
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040631
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -8141,12 +9396,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040701,
-      1040711
+      {
+        "level": 2,
+        "passives": [
+          1040701
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040711
+        ]
+      }
     ],
     "supporterPassives": [
-      1040721,
-      1040731
+      {
+        "level": 3,
+        "passives": [
+          1040721
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040731
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -8236,12 +9511,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040801,
-      1040811
+      {
+        "level": 2,
+        "passives": [
+          1040801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040811
+        ]
+      }
     ],
     "supporterPassives": [
-      1040821,
-      1040831
+      {
+        "level": 3,
+        "passives": [
+          1040821
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1040831
+        ]
+      }
     ],
     "associations": [
       "LINTON"
@@ -8332,10 +9627,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1040901
+      {
+        "level": 2,
+        "passives": [
+          1040901
+        ]
+      }
     ],
     "supporterPassives": [
-      1040921
+      {
+        "level": 3,
+        "passives": [
+          1040921
+        ]
+      }
     ],
     "associations": [
       "YURODIVY"
@@ -8429,14 +9734,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1041002,
-      1041002,
-      1041001,
-      1041002,
-      1041011
+      {
+        "level": 1,
+        "passives": [
+          1041002
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1041002,
+          1041001
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1041002,
+          1041011
+        ]
+      }
     ],
     "supporterPassives": [
-      1041021
+      {
+        "level": 3,
+        "passives": [
+          1041021
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -8525,11 +9850,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1041101,
-      1041111
+      {
+        "level": 2,
+        "passives": [
+          1041101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1041111
+        ]
+      }
     ],
     "supporterPassives": [
-      1041121
+      {
+        "level": 3,
+        "passives": [
+          1041121
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_RABBIT",
@@ -8628,17 +9968,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1041202,
-      1041203,
-      1041202,
-      1041203,
-      1041201,
-      1041202,
-      1041203,
-      1041211
+      {
+        "level": 1,
+        "passives": [
+          1041202,
+          1041203
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1041202,
+          1041203,
+          1041201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1041202,
+          1041203,
+          1041211
+        ]
+      }
     ],
     "supporterPassives": [
-      1041221
+      {
+        "level": 3,
+        "passives": [
+          1041221
+        ]
+      }
     ],
     "associations": [
       "N_CORP"
@@ -8726,12 +10086,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1041302,
-      1041302,
-      1041301
+      {
+        "level": 1,
+        "passives": [
+          1041302
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1041302,
+          1041301
+        ]
+      }
     ],
     "supporterPassives": [
-      1041321
+      {
+        "level": 3,
+        "passives": [
+          1041321
+        ]
+      }
     ],
     "associations": [
       "H_CORP"
@@ -8829,13 +10204,28 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1041402,
-      1041401,
-      1041402,
-      1041411
+      {
+        "level": 1,
+        "passives": [
+          1041402,
+          1041401
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1041402,
+          1041411
+        ]
+      }
     ],
     "supporterPassives": [
-      1041421
+      {
+        "level": 3,
+        "passives": [
+          1041421
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -8944,18 +10334,38 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1041502,
-      1041504,
-      1041502,
-      1041504,
-      1041501,
-      1041502,
-      1041504,
-      1041503,
-      1041501
+      {
+        "level": 1,
+        "passives": [
+          1041502,
+          1041504
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1041502,
+          1041504,
+          1041501
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1041502,
+          1041504,
+          1041503,
+          1041501
+        ]
+      }
     ],
     "supporterPassives": [
-      1041521
+      {
+        "level": 3,
+        "passives": [
+          1041521
+        ]
+      }
     ],
     "associations": [
       "LITTLE_FINGER",
@@ -9048,10 +10458,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050101
+      {
+        "level": 1,
+        "passives": [
+          1050101
+        ]
+      }
     ],
     "supporterPassives": [
-      1050121
+      {
+        "level": 3,
+        "passives": [
+          1050121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -9142,10 +10562,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050201
+      {
+        "level": 2,
+        "passives": [
+          1050201
+        ]
+      }
     ],
     "supporterPassives": [
-      1050221
+      {
+        "level": 3,
+        "passives": [
+          1050221
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -9234,11 +10664,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050301,
-      1050311
+      {
+        "level": 2,
+        "passives": [
+          1050301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1050311
+        ]
+      }
     ],
     "supporterPassives": [
-      1050321
+      {
+        "level": 3,
+        "passives": [
+          1050321
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -9325,10 +10770,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050401
+      {
+        "level": 2,
+        "passives": [
+          1050401
+        ]
+      }
     ],
     "supporterPassives": [
-      1050421
+      {
+        "level": 3,
+        "passives": [
+          1050421
+        ]
+      }
     ],
     "associations": [
       "N_CORP",
@@ -9417,10 +10872,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050501
+      {
+        "level": 2,
+        "passives": [
+          1050501
+        ]
+      }
     ],
     "supporterPassives": [
-      1050521
+      {
+        "level": 3,
+        "passives": [
+          1050521
+        ]
+      }
     ],
     "associations": [
       "TROUBLE_SHOOTER"
@@ -9508,11 +10973,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050601,
-      1050611
+      {
+        "level": 2,
+        "passives": [
+          1050601
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1050611
+        ]
+      }
     ],
     "supporterPassives": [
-      1050621
+      {
+        "level": 3,
+        "passives": [
+          1050621
+        ]
+      }
     ],
     "associations": [
       "R_CORP"
@@ -9600,11 +11080,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050701,
-      1050711
+      {
+        "level": 2,
+        "passives": [
+          1050701
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1050711
+        ]
+      }
     ],
     "supporterPassives": [
-      1050721
+      {
+        "level": 3,
+        "passives": [
+          1050721
+        ]
+      }
     ],
     "associations": [
       "MIDDLE_FINGER"
@@ -9697,17 +11192,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050802,
-      1050803,
-      1050802,
-      1050803,
-      1050801,
-      1050802,
-      1050803,
-      1050811
+      {
+        "level": 1,
+        "passives": [
+          1050802,
+          1050803
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1050802,
+          1050803,
+          1050801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1050802,
+          1050803,
+          1050811
+        ]
+      }
     ],
     "supporterPassives": [
-      1050821
+      {
+        "level": 3,
+        "passives": [
+          1050821
+        ]
+      }
     ],
     "associations": [
       "BLADE_LINEAGE"
@@ -9796,12 +11311,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1050901,
-      1050911
+      {
+        "level": 2,
+        "passives": [
+          1050901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1050911
+        ]
+      }
     ],
     "supporterPassives": [
-      1050921,
-      1050931
+      {
+        "level": 3,
+        "passives": [
+          1050921
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1050931
+        ]
+      }
     ],
     "associations": [
       "DEAD_RABBITS"
@@ -9890,10 +11425,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1051001
+      {
+        "level": 2,
+        "passives": [
+          1051001
+        ]
+      }
     ],
     "supporterPassives": [
-      1051021
+      {
+        "level": 3,
+        "passives": [
+          1051021
+        ]
+      }
     ],
     "associations": [
       "DIECI"
@@ -9982,14 +11527,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1051102,
-      1051102,
-      1051101,
-      1051102,
-      1051111
+      {
+        "level": 1,
+        "passives": [
+          1051102
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1051102,
+          1051101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1051102,
+          1051111
+        ]
+      }
     ],
     "supporterPassives": [
-      1051121
+      {
+        "level": 3,
+        "passives": [
+          1051121
+        ]
+      }
     ],
     "associations": [
       "CINQ"
@@ -10082,15 +11647,40 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1051202,
-      1051202,
-      1051201,
-      1051202,
-      1051211
+      {
+        "level": 1,
+        "passives": [
+          1051202
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1051202,
+          1051201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1051202,
+          1051211
+        ]
+      }
     ],
     "supporterPassives": [
-      1051221,
-      1051231
+      {
+        "level": 3,
+        "passives": [
+          1051221
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1051231
+        ]
+      }
     ],
     "associations": [
       "THUMB_FINGER"
@@ -10184,17 +11774,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1051302,
-      1051303,
-      1051302,
-      1051303,
-      1051301,
-      1051302,
-      1051303,
-      1051311
+      {
+        "level": 1,
+        "passives": [
+          1051302,
+          1051303
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1051302,
+          1051303,
+          1051301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1051302,
+          1051303,
+          1051311
+        ]
+      }
     ],
     "supporterPassives": [
-      1051321
+      {
+        "level": 3,
+        "passives": [
+          1051321
+        ]
+      }
     ],
     "associations": [
       "LA_MANCHA_LAND"
@@ -10284,14 +11894,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1051402,
-      1051402,
-      1051401,
-      1051402,
-      1051411
+      {
+        "level": 1,
+        "passives": [
+          1051402
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1051402,
+          1051401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1051402,
+          1051411
+        ]
+      }
     ],
     "supporterPassives": [
-      1051421
+      {
+        "level": 3,
+        "passives": [
+          1051421
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -10381,12 +12011,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1051502,
-      1051502,
-      1051501
+      {
+        "level": 1,
+        "passives": [
+          1051502
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1051502,
+          1051501
+        ]
+      }
     ],
     "supporterPassives": [
-      1051521
+      {
+        "level": 3,
+        "passives": [
+          1051521
+        ]
+      }
     ],
     "associations": [
       "RING_FINGER",
@@ -10478,10 +12123,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060101
+      {
+        "level": 1,
+        "passives": [
+          1060101
+        ]
+      }
     ],
     "supporterPassives": [
-      1060121
+      {
+        "level": 3,
+        "passives": [
+          1060121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -10572,10 +12227,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060201
+      {
+        "level": 2,
+        "passives": [
+          1060201
+        ]
+      }
     ],
     "supporterPassives": [
-      1060221
+      {
+        "level": 3,
+        "passives": [
+          1060221
+        ]
+      }
     ],
     "associations": [
       "BLACK_CLOUD"
@@ -10665,10 +12330,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060301
+      {
+        "level": 2,
+        "passives": [
+          1060301
+        ]
+      }
     ],
     "supporterPassives": [
-      1060321
+      {
+        "level": 3,
+        "passives": [
+          1060321
+        ]
+      }
     ],
     "associations": [
       "KONG_KONG"
@@ -10758,10 +12433,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060401
+      {
+        "level": 2,
+        "passives": [
+          1060401
+        ]
+      }
     ],
     "supporterPassives": [
-      1060421
+      {
+        "level": 3,
+        "passives": [
+          1060421
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -10849,10 +12534,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060501
+      {
+        "level": 2,
+        "passives": [
+          1060501
+        ]
+      }
     ],
     "supporterPassives": [
-      1060521
+      {
+        "level": 3,
+        "passives": [
+          1060521
+        ]
+      }
     ],
     "associations": [
       "K_CORP"
@@ -10940,11 +12635,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060601,
-      1060611
+      {
+        "level": 2,
+        "passives": [
+          1060601
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1060611
+        ]
+      }
     ],
     "supporterPassives": [
-      1060621
+      {
+        "level": 3,
+        "passives": [
+          1060621
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -11033,10 +12743,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060701
+      {
+        "level": 2,
+        "passives": [
+          1060701
+        ]
+      }
     ],
     "supporterPassives": [
-      1060721
+      {
+        "level": 3,
+        "passives": [
+          1060721
+        ]
+      }
     ],
     "associations": [
       "HOOK_OFFICE"
@@ -11126,11 +12846,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060801,
-      1060811
+      {
+        "level": 2,
+        "passives": [
+          1060801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1060811
+        ]
+      }
     ],
     "supporterPassives": [
-      1060821
+      {
+        "level": 3,
+        "passives": [
+          1060821
+        ]
+      }
     ],
     "associations": [
       "DIECI"
@@ -11220,10 +12955,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1060901
+      {
+        "level": 2,
+        "passives": [
+          1060901
+        ]
+      }
     ],
     "supporterPassives": [
-      1060921
+      {
+        "level": 3,
+        "passives": [
+          1060921
+        ]
+      }
     ],
     "associations": [
       "YURODIVY"
@@ -11313,11 +13058,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1061001,
-      1061011
+      {
+        "level": 2,
+        "passives": [
+          1061001
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1061011
+        ]
+      }
     ],
     "supporterPassives": [
-      1061021
+      {
+        "level": 3,
+        "passives": [
+          1061021
+        ]
+      }
     ],
     "associations": [
       "FANG_HUNT"
@@ -11422,14 +13182,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1061101,
-      1061101,
-      1061102,
-      1061101,
-      1061111
+      {
+        "level": 1,
+        "passives": [
+          1061101
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1061101,
+          1061102
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1061101,
+          1061111
+        ]
+      }
     ],
     "supporterPassives": [
-      1061121
+      {
+        "level": 3,
+        "passives": [
+          1061121
+        ]
+      }
     ],
     "associations": [
       "FULL_STOP"
@@ -11519,12 +13299,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1061201,
-      1061211
+      {
+        "level": 2,
+        "passives": [
+          1061201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1061211
+        ]
+      }
     ],
     "supporterPassives": [
-      1061221,
-      1061231
+      {
+        "level": 3,
+        "passives": [
+          1061221
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1061231
+        ]
+      }
     ],
     "associations": [
       "R_CORP"
@@ -11626,12 +13426,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1061302,
-      1061302,
-      1061301
+      {
+        "level": 1,
+        "passives": [
+          1061302
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1061302,
+          1061301
+        ]
+      }
     ],
     "supporterPassives": [
-      1061321
+      {
+        "level": 3,
+        "passives": [
+          1061321
+        ]
+      }
     ],
     "associations": [
       "H_CORP",
@@ -11735,20 +13550,45 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1061404,
-      1061405,
-      1061404,
-      1061405,
-      1061401,
-      1061404,
-      1061405,
-      1061401,
-      1061404,
-      1061405,
-      1061411
+      {
+        "level": 1,
+        "passives": [
+          1061404,
+          1061405
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1061404,
+          1061405,
+          1061401
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1061404,
+          1061405,
+          1061401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1061404,
+          1061405,
+          1061411
+        ]
+      }
     ],
     "supporterPassives": [
-      1061421
+      {
+        "level": 3,
+        "passives": [
+          1061421
+        ]
+      }
     ],
     "associations": [
       "RING_FINGER_PHYSICAL",
@@ -11842,12 +13682,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1061502,
-      1061502,
-      1061501
+      {
+        "level": 1,
+        "passives": [
+          1061502
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1061502,
+          1061501
+        ]
+      }
     ],
     "supporterPassives": [
-      1061521
+      {
+        "level": 3,
+        "passives": [
+          1061521
+        ]
+      }
     ],
     "associations": [
       "S_CORP"
@@ -11937,10 +13792,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070101
+      {
+        "level": 1,
+        "passives": [
+          1070101
+        ]
+      }
     ],
     "supporterPassives": [
-      1070121
+      {
+        "level": 3,
+        "passives": [
+          1070121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -12030,10 +13895,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070201
+      {
+        "level": 2,
+        "passives": [
+          1070201
+        ]
+      }
     ],
     "supporterPassives": [
-      1070221
+      {
+        "level": 3,
+        "passives": [
+          1070221
+        ]
+      }
     ],
     "associations": [
       "SHI"
@@ -12123,11 +13998,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070301,
-      1070311
+      {
+        "level": 2,
+        "passives": [
+          1070301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070311
+        ]
+      }
     ],
     "supporterPassives": [
-      1070321
+      {
+        "level": 3,
+        "passives": [
+          1070321
+        ]
+      }
     ],
     "associations": [
       "R_CORP"
@@ -12216,11 +14106,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070401,
-      1070411
+      {
+        "level": 2,
+        "passives": [
+          1070401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070411
+        ]
+      }
     ],
     "supporterPassives": [
-      1070421
+      {
+        "level": 3,
+        "passives": [
+          1070421
+        ]
+      }
     ],
     "associations": [
       "N_CORP",
@@ -12312,10 +14217,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070501
+      {
+        "level": 2,
+        "passives": [
+          1070501
+        ]
+      }
     ],
     "supporterPassives": [
-      1070521
+      {
+        "level": 3,
+        "passives": [
+          1070521
+        ]
+      }
     ],
     "associations": [
       "ATL"
@@ -12405,12 +14320,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070601,
-      1070611
+      {
+        "level": 2,
+        "passives": [
+          1070601
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070611
+        ]
+      }
     ],
     "supporterPassives": [
-      1070621,
-      1070631
+      {
+        "level": 3,
+        "passives": [
+          1070621
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070631
+        ]
+      }
     ],
     "associations": [
       "SEVEN"
@@ -12498,12 +14433,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070701,
-      1070711
+      {
+        "level": 2,
+        "passives": [
+          1070701
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070711
+        ]
+      }
     ],
     "supporterPassives": [
-      1070721,
-      1070731
+      {
+        "level": 3,
+        "passives": [
+          1070721
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070731
+        ]
+      }
     ],
     "associations": [
       "PEQUOD_CREW"
@@ -12591,11 +14546,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070801,
-      1070811
+      {
+        "level": 2,
+        "passives": [
+          1070801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070811
+        ]
+      }
     ],
     "supporterPassives": [
-      1070821
+      {
+        "level": 3,
+        "passives": [
+          1070821
+        ]
+      }
     ],
     "associations": [
       "OUFI"
@@ -12685,11 +14655,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1070901,
-      1070911
+      {
+        "level": 2,
+        "passives": [
+          1070901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1070911
+        ]
+      }
     ],
     "supporterPassives": [
-      1070921
+      {
+        "level": 3,
+        "passives": [
+          1070921
+        ]
+      }
     ],
     "associations": [
       "MULTI_CRACK"
@@ -12786,16 +14771,41 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071002,
-      1071002,
-      1071001,
-      1071002,
-      1071011,
-      1071002,
-      1071012
+      {
+        "level": 1,
+        "passives": [
+          1071002
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071002,
+          1071001
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1071002,
+          1071011
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1071002,
+          1071012
+        ]
+      }
     ],
     "supporterPassives": [
-      1071021
+      {
+        "level": 3,
+        "passives": [
+          1071021
+        ]
+      }
     ],
     "associations": [
       "WILD_HUNT",
@@ -12892,16 +14902,41 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071101,
-      1071101,
-      1071102,
-      1071103,
-      1071102,
-      1071103,
-      1071111
+      {
+        "level": 1,
+        "passives": [
+          1071101
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071101,
+          1071102
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1071103,
+          1071102
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1071103,
+          1071111
+        ]
+      }
     ],
     "supporterPassives": [
-      1071121
+      {
+        "level": 3,
+        "passives": [
+          1071121
+        ]
+      }
     ],
     "associations": [
       "FULL_STOP"
@@ -12995,14 +15030,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071202,
-      1071202,
-      1071201,
-      1071202,
-      1071211
+      {
+        "level": 1,
+        "passives": [
+          1071202
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071202,
+          1071201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1071202,
+          1071211
+        ]
+      }
     ],
     "supporterPassives": [
-      1071221
+      {
+        "level": 3,
+        "passives": [
+          1071221
+        ]
+      }
     ],
     "associations": [
       "BLACK_CLOUD"
@@ -13090,12 +15145,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071301,
-      1071301,
-      1071311
+      {
+        "level": 1,
+        "passives": [
+          1071301
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071301,
+          1071311
+        ]
+      }
     ],
     "supporterPassives": [
-      1071321
+      {
+        "level": 3,
+        "passives": [
+          1071321
+        ]
+      }
     ],
     "associations": [
       "W_CORP"
@@ -13187,14 +15257,29 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071402,
-      1071403,
-      1071402,
-      1071403,
-      1071401
+      {
+        "level": 1,
+        "passives": [
+          1071402,
+          1071403
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071402,
+          1071403,
+          1071401
+        ]
+      }
     ],
     "supporterPassives": [
-      1071421
+      {
+        "level": 3,
+        "passives": [
+          1071421
+        ]
+      }
     ],
     "associations": [
       "H_CORP",
@@ -13299,17 +15384,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071502,
-      1071503,
-      1071502,
-      1071503,
-      1071501,
-      1071512,
-      1071503,
-      1071501
+      {
+        "level": 1,
+        "passives": [
+          1071502,
+          1071503
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071502,
+          1071503,
+          1071501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1071512,
+          1071503,
+          1071501
+        ]
+      }
     ],
     "supporterPassives": [
-      1071521
+      {
+        "level": 3,
+        "passives": [
+          1071521
+        ]
+      }
     ],
     "associations": [
       "MIDDLE_FINGER"
@@ -13404,16 +15509,31 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1071602,
-      1071603,
-      1071604,
-      1071602,
-      1071603,
-      1071604,
-      1071601
+      {
+        "level": 1,
+        "passives": [
+          1071602,
+          1071603,
+          1071604
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1071602,
+          1071603,
+          1071604,
+          1071601
+        ]
+      }
     ],
     "supporterPassives": [
-      1071621
+      {
+        "level": 3,
+        "passives": [
+          1071621
+        ]
+      }
     ],
     "associations": [
       "THUMB_FINGER",
@@ -13503,10 +15623,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080101
+      {
+        "level": 1,
+        "passives": [
+          1080101
+        ]
+      }
     ],
     "supporterPassives": [
-      1080121
+      {
+        "level": 3,
+        "passives": [
+          1080121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -13596,11 +15726,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080201,
-      1080211
+      {
+        "level": 2,
+        "passives": [
+          1080201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1080211
+        ]
+      }
     ],
     "supporterPassives": [
-      1080221
+      {
+        "level": 3,
+        "passives": [
+          1080221
+        ]
+      }
     ],
     "associations": [
       "R_CORP"
@@ -13688,10 +15833,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080301
+      {
+        "level": 2,
+        "passives": [
+          1080301
+        ]
+      }
     ],
     "supporterPassives": [
-      1080321
+      {
+        "level": 3,
+        "passives": [
+          1080321
+        ]
+      }
     ],
     "associations": [
       "SHI"
@@ -13780,10 +15935,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080401
+      {
+        "level": 2,
+        "passives": [
+          1080401
+        ]
+      }
     ],
     "supporterPassives": [
-      1080421
+      {
+        "level": 3,
+        "passives": [
+          1080421
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -13872,11 +16037,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080501,
-      1080511
+      {
+        "level": 2,
+        "passives": [
+          1080501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1080511
+        ]
+      }
     ],
     "supporterPassives": [
-      1080521
+      {
+        "level": 3,
+        "passives": [
+          1080521
+        ]
+      }
     ],
     "associations": [
       "ATL"
@@ -13966,10 +16146,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080601
+      {
+        "level": 2,
+        "passives": [
+          1080601
+        ]
+      }
     ],
     "supporterPassives": [
-      1080621
+      {
+        "level": 3,
+        "passives": [
+          1080621
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -14059,10 +16249,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080701
+      {
+        "level": 2,
+        "passives": [
+          1080701
+        ]
+      }
     ],
     "supporterPassives": [
-      1080721
+      {
+        "level": 3,
+        "passives": [
+          1080721
+        ]
+      }
     ],
     "associations": [
       "MOLAR"
@@ -14155,15 +16355,40 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080802,
-      1080802,
-      1080801,
-      1080802,
-      1080811
+      {
+        "level": 1,
+        "passives": [
+          1080802
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1080802,
+          1080801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1080802,
+          1080811
+        ]
+      }
     ],
     "supporterPassives": [
-      1080821,
-      1080831
+      {
+        "level": 3,
+        "passives": [
+          1080821
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1080831
+        ]
+      }
     ],
     "associations": [
       "PEQUOD_CREW"
@@ -14253,11 +16478,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1080901
+      {
+        "level": 2,
+        "passives": [
+          1080901
+        ]
+      }
     ],
     "supporterPassives": [
-      1080921,
-      1080931
+      {
+        "level": 3,
+        "passives": [
+          1080921
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1080931
+        ]
+      }
     ],
     "associations": [
       "LINTON"
@@ -14346,11 +16586,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1081001,
-      1081011
+      {
+        "level": 2,
+        "passives": [
+          1081001
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1081011
+        ]
+      }
     ],
     "supporterPassives": [
-      1081021
+      {
+        "level": 3,
+        "passives": [
+          1081021
+        ]
+      }
     ],
     "associations": [
       "ZWEI"
@@ -14440,14 +16695,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1081102,
-      1081102,
-      1081101,
-      1081102,
-      1081111
+      {
+        "level": 1,
+        "passives": [
+          1081102
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1081102,
+          1081101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1081102,
+          1081111
+        ]
+      }
     ],
     "supporterPassives": [
-      1081121
+      {
+        "level": 3,
+        "passives": [
+          1081121
+        ]
+      }
     ],
     "associations": [
       "BLACK_CLOUD"
@@ -14542,12 +16817,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1081202,
-      1081202,
-      1081201
+      {
+        "level": 1,
+        "passives": [
+          1081202
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1081202,
+          1081201
+        ]
+      }
     ],
     "supporterPassives": [
-      1081221
+      {
+        "level": 3,
+        "passives": [
+          1081221
+        ]
+      }
     ],
     "associations": [
       "FAMILY_GA",
@@ -14642,12 +16932,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1081302,
-      1081302,
-      1081301
+      {
+        "level": 1,
+        "passives": [
+          1081302
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1081302,
+          1081301
+        ]
+      }
     ],
     "supporterPassives": [
-      1081321
+      {
+        "level": 3,
+        "passives": [
+          1081321
+        ]
+      }
     ],
     "associations": [
       "JEONG_OFFICE",
@@ -14738,13 +17043,28 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1081402,
-      1081401,
-      1081402,
-      1081411
+      {
+        "level": 2,
+        "passives": [
+          1081402,
+          1081401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1081402,
+          1081411
+        ]
+      }
     ],
     "supporterPassives": [
-      1081421
+      {
+        "level": 3,
+        "passives": [
+          1081421
+        ]
+      }
     ],
     "associations": [
       "MIDDLE_FINGER",
@@ -14845,17 +17165,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1081503,
-      1081502,
-      1081503,
-      1081502,
-      1081501,
-      1081513,
-      1081502,
-      1081501
+      {
+        "level": 1,
+        "passives": [
+          1081503,
+          1081502
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1081503,
+          1081502,
+          1081501
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1081513,
+          1081502,
+          1081501
+        ]
+      }
     ],
     "supporterPassives": [
-      1081521
+      {
+        "level": 3,
+        "passives": [
+          1081521
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -14947,10 +17287,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090101
+      {
+        "level": 1,
+        "passives": [
+          1090101
+        ]
+      }
     ],
     "supporterPassives": [
-      1090121
+      {
+        "level": 3,
+        "passives": [
+          1090121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -15041,10 +17391,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090201
+      {
+        "level": 2,
+        "passives": [
+          1090201
+        ]
+      }
     ],
     "supporterPassives": [
-      1090221
+      {
+        "level": 3,
+        "passives": [
+          1090221
+        ]
+      }
     ],
     "associations": [
       "BLACK_CLOUD"
@@ -15134,10 +17494,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090301
+      {
+        "level": 2,
+        "passives": [
+          1090301
+        ]
+      }
     ],
     "supporterPassives": [
-      1090321
+      {
+        "level": 3,
+        "passives": [
+          1090321
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -15227,10 +17597,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090401
+      {
+        "level": 2,
+        "passives": [
+          1090401
+        ]
+      }
     ],
     "supporterPassives": [
-      1090421
+      {
+        "level": 3,
+        "passives": [
+          1090421
+        ]
+      }
     ],
     "associations": [
       "N_CORP",
@@ -15320,10 +17700,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090501
+      {
+        "level": 2,
+        "passives": [
+          1090501
+        ]
+      }
     ],
     "supporterPassives": [
-      1090521
+      {
+        "level": 3,
+        "passives": [
+          1090521
+        ]
+      }
     ],
     "associations": [
       "TROUBLE_SHOOTER"
@@ -15412,10 +17802,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090601
+      {
+        "level": 2,
+        "passives": [
+          1090601
+        ]
+      }
     ],
     "supporterPassives": [
-      1090621
+      {
+        "level": 3,
+        "passives": [
+          1090621
+        ]
+      }
     ],
     "associations": [
       "ZWEI"
@@ -15503,10 +17903,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090701
+      {
+        "level": 2,
+        "passives": [
+          1090701
+        ]
+      }
     ],
     "supporterPassives": [
-      1090721
+      {
+        "level": 3,
+        "passives": [
+          1090721
+        ]
+      }
     ],
     "associations": [
       "DIECI"
@@ -15596,11 +18006,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090801,
-      1090811
+      {
+        "level": 2,
+        "passives": [
+          1090801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1090811
+        ]
+      }
     ],
     "supporterPassives": [
-      1090821
+      {
+        "level": 3,
+        "passives": [
+          1090821
+        ]
+      }
     ],
     "associations": [
       "LIU"
@@ -15690,10 +18115,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1090901
+      {
+        "level": 2,
+        "passives": [
+          1090901
+        ]
+      }
     ],
     "supporterPassives": [
-      1090921
+      {
+        "level": 3,
+        "passives": [
+          1090921
+        ]
+      }
     ],
     "associations": [
       "T_CORP"
@@ -15782,14 +18217,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091002,
-      1091002,
-      1091001,
-      1091002,
-      1091011
+      {
+        "level": 1,
+        "passives": [
+          1091002
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1091002,
+          1091001
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1091002,
+          1091011
+        ]
+      }
     ],
     "supporterPassives": [
-      1091021
+      {
+        "level": 3,
+        "passives": [
+          1091021
+        ]
+      }
     ],
     "associations": [
       "DEVYAT"
@@ -15883,14 +18338,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091102,
-      1091102,
-      1091101,
-      1091102,
-      1091111
+      {
+        "level": 1,
+        "passives": [
+          1091102
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1091102,
+          1091101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1091102,
+          1091111
+        ]
+      }
     ],
     "supporterPassives": [
-      1091121
+      {
+        "level": 3,
+        "passives": [
+          1091121
+        ]
+      }
     ],
     "associations": [
       "LA_MANCHA_LAND"
@@ -15998,21 +18473,46 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091302,
-      1091303,
-      1091304,
-      1091302,
-      1091303,
-      1091304,
-      1091301,
-      1091302,
-      1091303,
-      1091304,
-      1091311
+      {
+        "level": 1,
+        "passives": [
+          1091302,
+          1091303,
+          1091304
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1091302,
+          1091303,
+          1091304,
+          1091301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1091302,
+          1091303,
+          1091304,
+          1091311
+        ]
+      }
     ],
     "supporterPassives": [
-      1091321,
-      1091331
+      {
+        "level": 3,
+        "passives": [
+          1091321
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1091331
+        ]
+      }
     ],
     "associations": [
       "L_CORP"
@@ -16102,11 +18602,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091401,
-      1091411
+      {
+        "level": 2,
+        "passives": [
+          1091401
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1091411
+        ]
+      }
     ],
     "supporterPassives": [
-      1091421
+      {
+        "level": 3,
+        "passives": [
+          1091421
+        ]
+      }
     ],
     "associations": [
       "R_CORP"
@@ -16200,14 +18715,29 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091502,
-      1091503,
-      1091502,
-      1091503,
-      1091501
+      {
+        "level": 1,
+        "passives": [
+          1091502,
+          1091503
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1091502,
+          1091503,
+          1091501
+        ]
+      }
     ],
     "supporterPassives": [
-      1091521
+      {
+        "level": 3,
+        "passives": [
+          1091521
+        ]
+      }
     ],
     "associations": [
       "RING_FINGER",
@@ -16313,20 +18843,40 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1091602,
-      1091603,
-      1091604,
-      1091602,
-      1091603,
-      1091604,
-      1091601,
-      1091612,
-      1091603,
-      1091604,
-      1091601
+      {
+        "level": 1,
+        "passives": [
+          1091602,
+          1091603,
+          1091604
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1091602,
+          1091603,
+          1091604,
+          1091601
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1091612,
+          1091603,
+          1091604,
+          1091601
+        ]
+      }
     ],
     "supporterPassives": [
-      1091621
+      {
+        "level": 3,
+        "passives": [
+          1091621
+        ]
+      }
     ],
     "associations": [
       "THUMB_FINGER",
@@ -16423,10 +18973,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100101
+      {
+        "level": 1,
+        "passives": [
+          1100101
+        ]
+      }
     ],
     "supporterPassives": [
-      1100121
+      {
+        "level": 3,
+        "passives": [
+          1100121
+        ]
+      }
     ],
     "associations": [
       "LIMBUS_COMPANY",
@@ -16516,11 +19076,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100201,
-      1100211
+      {
+        "level": 2,
+        "passives": [
+          1100201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1100211
+        ]
+      }
     ],
     "supporterPassives": [
-      1100221
+      {
+        "level": 3,
+        "passives": [
+          1100221
+        ]
+      }
     ],
     "associations": [
       "BLADE_LINEAGE"
@@ -16610,10 +19185,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100301
+      {
+        "level": 2,
+        "passives": [
+          1100301
+        ]
+      }
     ],
     "supporterPassives": [
-      1100321
+      {
+        "level": 3,
+        "passives": [
+          1100321
+        ]
+      }
     ],
     "associations": [
       "ZWEI"
@@ -16701,10 +19286,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100401
+      {
+        "level": 2,
+        "passives": [
+          1100401
+        ]
+      }
     ],
     "supporterPassives": [
-      1100421
+      {
+        "level": 3,
+        "passives": [
+          1100421
+        ]
+      }
     ],
     "associations": [
       "MARIACHI"
@@ -16794,11 +19389,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100501,
-      1100511
+      {
+        "level": 2,
+        "passives": [
+          1100501
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1100511
+        ]
+      }
     ],
     "supporterPassives": [
-      1100521
+      {
+        "level": 3,
+        "passives": [
+          1100521
+        ]
+      }
     ],
     "associations": [
       "N_CORP",
@@ -16887,10 +19497,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100601
+      {
+        "level": 2,
+        "passives": [
+          1100601
+        ]
+      }
     ],
     "supporterPassives": [
-      1100621
+      {
+        "level": 3,
+        "passives": [
+          1100621
+        ]
+      }
     ],
     "associations": [
       "ATL"
@@ -16980,10 +19600,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100701
+      {
+        "level": 2,
+        "passives": [
+          1100701
+        ]
+      }
     ],
     "supporterPassives": [
-      1100721
+      {
+        "level": 3,
+        "passives": [
+          1100721
+        ]
+      }
     ],
     "associations": [
       "MOLAR"
@@ -17072,11 +19702,26 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100801,
-      1100811
+      {
+        "level": 2,
+        "passives": [
+          1100801
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1100811
+        ]
+      }
     ],
     "supporterPassives": [
-      1100821
+      {
+        "level": 3,
+        "passives": [
+          1100821
+        ]
+      }
     ],
     "associations": [
       "CINQ"
@@ -17174,17 +19819,37 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1100902,
-      1100903,
-      1100902,
-      1100903,
-      1100901,
-      1100902,
-      1100903,
-      1100911
+      {
+        "level": 1,
+        "passives": [
+          1100902,
+          1100903
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1100902,
+          1100903,
+          1100901
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1100902,
+          1100903,
+          1100911
+        ]
+      }
     ],
     "supporterPassives": [
-      1100921
+      {
+        "level": 3,
+        "passives": [
+          1100921
+        ]
+      }
     ],
     "associations": [
       "DAWN"
@@ -17272,10 +19937,20 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1101001
+      {
+        "level": 2,
+        "passives": [
+          1101001
+        ]
+      }
     ],
     "supporterPassives": [
-      1101021
+      {
+        "level": 3,
+        "passives": [
+          1101021
+        ]
+      }
     ],
     "associations": [
       "ZWEI"
@@ -17366,14 +20041,34 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1101102,
-      1101102,
-      1101101,
-      1101102,
-      1101111
+      {
+        "level": 1,
+        "passives": [
+          1101102
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1101102,
+          1101101
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1101102,
+          1101111
+        ]
+      }
     ],
     "supporterPassives": [
-      1101121
+      {
+        "level": 3,
+        "passives": [
+          1101121
+        ]
+      }
     ],
     "associations": [
       "DEVYAT"
@@ -17464,12 +20159,32 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1101201,
-      1101211
+      {
+        "level": 2,
+        "passives": [
+          1101201
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1101211
+        ]
+      }
     ],
     "supporterPassives": [
-      1101221,
-      1101231
+      {
+        "level": 3,
+        "passives": [
+          1101221
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1101231
+        ]
+      }
     ],
     "associations": [
       "MIDDLE_FINGER"
@@ -17559,15 +20274,35 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1101312,
-      1101301,
-      1101312,
-      1101301,
-      1101312,
-      1101311
+      {
+        "level": 2,
+        "passives": [
+          1101312,
+          1101301
+        ]
+      },
+      {
+        "level": 3,
+        "passives": [
+          1101312,
+          1101301
+        ]
+      },
+      {
+        "level": 4,
+        "passives": [
+          1101312,
+          1101311
+        ]
+      }
     ],
     "supporterPassives": [
-      1101321
+      {
+        "level": 3,
+        "passives": [
+          1101321
+        ]
+      }
     ],
     "associations": [
       "THUMB_FINGER"
@@ -17658,12 +20393,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1101402,
-      1101402,
-      1101401
+      {
+        "level": 1,
+        "passives": [
+          1101402
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1101402,
+          1101401
+        ]
+      }
     ],
     "supporterPassives": [
-      1101421
+      {
+        "level": 3,
+        "passives": [
+          1101421
+        ]
+      }
     ],
     "associations": [
       "BLACK_BEAST_CHICKEN",
@@ -17754,12 +20504,27 @@
     ],
     "panicSkill": 1000104,
     "battlePassives": [
-      1101502,
-      1101502,
-      1101501
+      {
+        "level": 1,
+        "passives": [
+          1101502
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1101502,
+          1101501
+        ]
+      }
     ],
     "supporterPassives": [
-      1101521
+      {
+        "level": 3,
+        "passives": [
+          1101521
+        ]
+      }
     ],
     "associations": [
       "SPIDER_HOUSE"

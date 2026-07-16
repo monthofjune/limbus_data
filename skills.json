@@ -152,7 +152,8 @@
   },
   "1010104": {
     "id": 1010104,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -305,7 +306,8 @@
   },
   "1010204": {
     "id": 1010204,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -650,7 +652,8 @@
   },
   "1010404": {
     "id": 1010404,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -809,7 +812,8 @@
   },
   "1010504": {
     "id": 1010504,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -990,7 +994,8 @@
   },
   "1010604": {
     "id": 1010604,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -1166,7 +1171,8 @@
   },
   "1010704": {
     "id": 1010704,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -1349,7 +1355,8 @@
   },
   "1010804": {
     "id": 1010804,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -1543,7 +1550,8 @@
   },
   "1010904": {
     "id": 1010904,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -1755,7 +1763,8 @@
   },
   "1011004": {
     "id": 1011004,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -2575,7 +2584,8 @@
   },
   "1011404": {
     "id": 1011404,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -2835,7 +2845,8 @@
   },
   "1011504": {
     "id": 1011504,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -3008,7 +3019,8 @@
   },
   "1020104": {
     "id": 1020104,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -3159,7 +3171,8 @@
   },
   "1020204": {
     "id": 1020204,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -3309,7 +3322,8 @@
   },
   "1020304": {
     "id": 1020304,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -3473,7 +3487,8 @@
   },
   "1020404": {
     "id": 1020404,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -3639,7 +3654,8 @@
   },
   "1020504": {
     "id": 1020504,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -3824,7 +3840,8 @@
   },
   "1020604": {
     "id": 1020604,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -4194,7 +4211,8 @@
   },
   "1020804": {
     "id": 1020804,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -4364,7 +4382,8 @@
   },
   "1020904": {
     "id": 1020904,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -4540,7 +4559,8 @@
   },
   "1021004": {
     "id": 1021004,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -4739,7 +4759,8 @@
   },
   "1021104": {
     "id": 1021104,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -5290,7 +5311,8 @@
   },
   "1021304": {
     "id": 1021304,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 3,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -5782,7 +5804,8 @@
   },
   "1021504": {
     "id": 1021504,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -5993,7 +6016,8 @@
   },
   "1021508": {
     "id": 1021508,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -6535,7 +6559,8 @@
   },
   "1030104": {
     "id": 1030104,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -6691,7 +6716,8 @@
   },
   "1030204": {
     "id": 1030204,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -6838,7 +6864,8 @@
   },
   "1030304": {
     "id": 1030304,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -7012,7 +7039,8 @@
   },
   "1030404": {
     "id": 1030404,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -7164,7 +7192,8 @@
   },
   "1030504": {
     "id": 1030504,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -7600,7 +7629,8 @@
   },
   "1030704": {
     "id": 1030704,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -7791,7 +7821,8 @@
   },
   "1030804": {
     "id": 1030804,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -7982,7 +8013,8 @@
   },
   "1030904": {
     "id": 1030904,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -8590,7 +8622,8 @@
   },
   "1031104": {
     "id": 1031104,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -8781,7 +8814,8 @@
   },
   "1031204": {
     "id": 1031204,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -9729,7 +9763,8 @@
   },
   "1040104": {
     "id": 1040104,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -10008,7 +10043,8 @@
   },
   "1040304": {
     "id": 1040304,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -10172,7 +10208,8 @@
   },
   "1040404": {
     "id": 1040404,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -10355,7 +10392,8 @@
   },
   "1040504": {
     "id": 1040504,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -10542,7 +10580,8 @@
   },
   "1040604": {
     "id": 1040604,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -10731,7 +10770,8 @@
   },
   "1040704": {
     "id": 1040704,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -10920,7 +10960,8 @@
   },
   "1040804": {
     "id": 1040804,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -11109,7 +11150,8 @@
   },
   "1040904": {
     "id": 1040904,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -11769,7 +11811,8 @@
   },
   "1041204": {
     "id": 1041204,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -12067,7 +12110,8 @@
   },
   "1041304": {
     "id": 1041304,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -12286,7 +12330,8 @@
   },
   "1041404": {
     "id": 1041404,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -12573,7 +12618,8 @@
   },
   "1041504": {
     "id": 1041504,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -12821,7 +12867,8 @@
   },
   "1050104": {
     "id": 1050104,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -12997,7 +13044,8 @@
   },
   "1050204": {
     "id": 1050204,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -13177,7 +13225,8 @@
   },
   "1050304": {
     "id": 1050304,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -13534,7 +13583,8 @@
   },
   "1050504": {
     "id": 1050504,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -13710,7 +13760,8 @@
   },
   "1050604": {
     "id": 1050604,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -14479,7 +14530,8 @@
   },
   "1051004": {
     "id": 1051004,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -14680,7 +14732,8 @@
   },
   "1051104": {
     "id": 1051104,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -15490,7 +15543,8 @@
   },
   "1051404": {
     "id": 1051404,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -15852,7 +15906,8 @@
   },
   "1060104": {
     "id": 1060104,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -15997,7 +16052,8 @@
   },
   "1060204": {
     "id": 1060204,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -16148,7 +16204,8 @@
   },
   "1060304": {
     "id": 1060304,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -16307,7 +16364,8 @@
   },
   "1060404": {
     "id": 1060404,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -16458,7 +16516,8 @@
   },
   "1060504": {
     "id": 1060504,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -16632,7 +16691,8 @@
   },
   "1060604": {
     "id": 1060604,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -16822,7 +16882,8 @@
   },
   "1060704": {
     "id": 1060704,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -16988,7 +17049,8 @@
   },
   "1060804": {
     "id": 1060804,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -17183,7 +17245,8 @@
   },
   "1060904": {
     "id": 1060904,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -17368,7 +17431,8 @@
   },
   "1061004": {
     "id": 1061004,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -17597,7 +17661,8 @@
   },
   "1061104": {
     "id": 1061104,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -18004,7 +18069,8 @@
   },
   "1061204": {
     "id": 1061204,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -18535,7 +18601,8 @@
   },
   "1061404": {
     "id": 1061404,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -19389,7 +19456,8 @@
   },
   "1070304": {
     "id": 1070304,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -19535,7 +19603,8 @@
   },
   "1070404": {
     "id": 1070404,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -19899,7 +19968,8 @@
   },
   "1070604": {
     "id": 1070604,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -20252,7 +20322,8 @@
   },
   "1070804": {
     "id": 1070804,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -20444,7 +20515,8 @@
   },
   "1070904": {
     "id": 1070904,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -20917,7 +20989,8 @@
   },
   "1071104": {
     "id": 1071104,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -20984,7 +21057,8 @@
   },
   "1071106": {
     "id": 1071106,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -22211,7 +22285,8 @@
   },
   "1071605": {
     "id": 1071605,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -22400,7 +22475,8 @@
   },
   "1080104": {
     "id": 1080104,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -22581,7 +22657,8 @@
   },
   "1080204": {
     "id": 1080204,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -22930,7 +23007,8 @@
   },
   "1080404": {
     "id": 1080404,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -23093,7 +23171,8 @@
   },
   "1080504": {
     "id": 1080504,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -23473,7 +23552,8 @@
   },
   "1080704": {
     "id": 1080704,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -23646,7 +23726,8 @@
   },
   "1080804": {
     "id": 1080804,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -23839,7 +23920,8 @@
   },
   "1080904": {
     "id": 1080904,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -24045,7 +24127,8 @@
   },
   "1081004": {
     "id": 1081004,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -24240,7 +24323,8 @@
   },
   "1081104": {
     "id": 1081104,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -24457,7 +24541,8 @@
   },
   "1081204": {
     "id": 1081204,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -25186,7 +25271,8 @@
   },
   "1081504": {
     "id": 1081504,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -25856,7 +25942,8 @@
   },
   "1090304": {
     "id": 1090304,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -26184,7 +26271,8 @@
   },
   "1090504": {
     "id": 1090504,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -26339,7 +26427,8 @@
   },
   "1090604": {
     "id": 1090604,
-    "sin": null,
+    "sin": "wrath",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -26520,7 +26609,8 @@
   },
   "1090704": {
     "id": 1090704,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -26917,7 +27007,8 @@
   },
   "1090904": {
     "id": 1090904,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -27590,7 +27681,8 @@
   },
   "1091204": {
     "id": 1091204,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -28187,7 +28279,8 @@
   },
   "1091404": {
     "id": 1091404,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -28984,7 +29077,8 @@
   },
   "1091608": {
     "id": 1091608,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -29444,7 +29538,8 @@
   },
   "1100304": {
     "id": 1100304,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -29621,7 +29716,8 @@
   },
   "1100404": {
     "id": 1100404,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -29965,7 +30061,8 @@
   },
   "1100604": {
     "id": 1100604,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -30126,7 +30223,8 @@
   },
   "1100704": {
     "id": 1100704,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -30299,7 +30397,8 @@
   },
   "1100804": {
     "id": 1100804,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -30482,7 +30581,8 @@
   },
   "1100904": {
     "id": 1100904,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -30707,7 +30807,8 @@
   },
   "1101004": {
     "id": 1101004,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -31360,7 +31461,8 @@
   },
   "1101304": {
     "id": 1101304,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -31779,7 +31881,8 @@
   },
   "1101504": {
     "id": 1101504,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -31812,7 +31915,8 @@
   },
   "1101505": {
     "id": 1101505,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -31968,7 +32072,8 @@
   },
   "1110104": {
     "id": 1110104,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -32115,7 +32220,8 @@
   },
   "1110204": {
     "id": 1110204,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -32270,7 +32376,8 @@
   },
   "1110304": {
     "id": 1110304,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -32438,7 +32545,8 @@
   },
   "1110404": {
     "id": 1110404,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -32618,7 +32726,8 @@
   },
   "1110504": {
     "id": 1110504,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -32792,7 +32901,8 @@
   },
   "1110604": {
     "id": 1110604,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -32962,7 +33072,8 @@
   },
   "1110704": {
     "id": 1110704,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -33137,7 +33248,8 @@
   },
   "1110804": {
     "id": 1110804,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -33310,7 +33422,8 @@
   },
   "1110904": {
     "id": 1110904,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -33497,7 +33610,8 @@
   },
   "1111004": {
     "id": 1111004,
-    "sin": null,
+    "sin": "pride",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -34111,7 +34225,8 @@
   },
   "1111304": {
     "id": 1111304,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -34322,7 +34437,8 @@
   },
   "1111404": {
     "id": 1111404,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -34997,7 +35113,8 @@
   },
   "1120104": {
     "id": 1120104,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -35184,7 +35301,8 @@
   },
   "1120204": {
     "id": 1120204,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -35349,7 +35467,8 @@
   },
   "1120304": {
     "id": 1120304,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -35518,7 +35637,8 @@
   },
   "1120404": {
     "id": 1120404,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -35685,7 +35805,8 @@
   },
   "1120504": {
     "id": 1120504,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -35855,7 +35976,8 @@
   },
   "1120604": {
     "id": 1120604,
-    "sin": null,
+    "sin": "sloth",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -36043,7 +36165,8 @@
   },
   "1120704": {
     "id": 1120704,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -36236,7 +36359,8 @@
   },
   "1120804": {
     "id": 1120804,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -36415,7 +36539,8 @@
   },
   "1120904": {
     "id": 1120904,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "evade",
     "skillTier": 1,
@@ -36607,7 +36732,8 @@
   },
   "1121004": {
     "id": 1121004,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -36999,7 +37125,8 @@
   },
   "1121204": {
     "id": 1121204,
-    "sin": null,
+    "sin": "gluttony",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -37209,7 +37336,8 @@
   },
   "1121304": {
     "id": 1121304,
-    "sin": null,
+    "sin": "lust",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -37522,7 +37650,8 @@
   },
   "1121404": {
     "id": 1121404,
-    "sin": null,
+    "sin": "gloom",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,
@@ -37731,7 +37860,8 @@
   },
   "1121504": {
     "id": 1121504,
-    "sin": null,
+    "sin": "envy",
+    "sinFrom": 4,
     "attackType": null,
     "defType": "guard",
     "skillTier": 1,

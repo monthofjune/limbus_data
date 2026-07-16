@@ -407,6 +407,11 @@
     "keywords": [
       "sinking"
     ],
+    "egoKeywords": {
+      "20109": [
+        "tremor"
+      ]
+    },
     "associations": [
       "L_CORP"
     ],
