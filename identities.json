@@ -5185,8 +5185,7 @@
       "poise"
     ],
     "associations": [
-      "H_CORP",
-      "FAMILY_GA_CANCELED"
+      "H_CORP"
     ],
     "atkTypes": {
       "slash": 3
@@ -7269,8 +7268,7 @@
     ],
     "associations": [
       "THUMB_FINGER",
-      "SPIDER_HOUSE",
-      "SEVENFAMILIES_CANCELED"
+      "SPIDER_HOUSE"
     ],
     "atkTypes": {
       "slash": 3

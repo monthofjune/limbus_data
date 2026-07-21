@@ -1,0 +1,82 @@
+[
+  {
+    "keyword": "burn",
+    "gifts": [
+      9001,
+      9009,
+      9103
+    ]
+  },
+  {
+    "keyword": "bleed",
+    "gifts": [
+      9005,
+      9029,
+      9108
+    ]
+  },
+  {
+    "keyword": "tremor",
+    "gifts": [
+      9044,
+      9086,
+      9113
+    ]
+  },
+  {
+    "keyword": "rupture",
+    "gifts": [
+      9047,
+      9093,
+      9117
+    ]
+  },
+  {
+    "keyword": "sinking",
+    "gifts": [
+      9041,
+      9054,
+      9124
+    ]
+  },
+  {
+    "keyword": "poise",
+    "gifts": [
+      9046,
+      9051,
+      9129
+    ]
+  },
+  {
+    "keyword": "charge",
+    "gifts": [
+      9043,
+      9052,
+      9134
+    ]
+  },
+  {
+    "keyword": "slash",
+    "gifts": [
+      9032,
+      9194,
+      9140
+    ]
+  },
+  {
+    "keyword": "pierce",
+    "gifts": [
+      9030,
+      9198,
+      9145
+    ]
+  },
+  {
+    "keyword": "blunt",
+    "gifts": [
+      9012,
+      9202,
+      9150
+    ]
+  }
+]

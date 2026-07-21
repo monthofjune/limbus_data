@@ -1,0 +1,253 @@
+{
+  "ATL": {
+    "name": "Technology Liberation Alliance",
+    "nameKo": "기술해방연합"
+  },
+  "BACKSTREET_COOK": {
+    "name": "R.B.",
+    "nameKo": "료.고.파"
+  },
+  "BLACK_BEAST_CHICKEN": {
+    "name": "Heishou Pack - You Branch",
+    "nameKo": "흑수 - 유"
+  },
+  "BLACK_BEAST_HORSE": {
+    "name": "Heishou Pack - Wu Branch",
+    "nameKo": "흑수 - 오"
+  },
+  "BLACK_BEAST_RABBIT": {
+    "name": "Heishou Pack - Mao Branch",
+    "nameKo": "흑수 - 묘"
+  },
+  "BLACK_BEAST_SHEEP": {
+    "name": "Heishou Pack - Wei Branch",
+    "nameKo": "흑수 - 미"
+  },
+  "BLACK_BEAST_SNAKE": {
+    "name": "Heishou Pack - Si Branch",
+    "nameKo": "흑수 - 사"
+  },
+  "BLACK_CLOUD": {
+    "name": "Kurokumo Clan",
+    "nameKo": "흑운회"
+  },
+  "BLADE_LINEAGE": {
+    "name": "Blade Lineage",
+    "nameKo": "검계"
+  },
+  "CINQ": {
+    "name": "Cinq Association",
+    "nameKo": "섕크 협회"
+  },
+  "DAWN": {
+    "name": "Dawn Office",
+    "nameKo": "새벽 사무소"
+  },
+  "DEAD_RABBITS": {
+    "name": "The Dead Rabbits",
+    "nameKo": "데드레빗츠"
+  },
+  "DEVYAT": {
+    "name": "Devyat' Association",
+    "nameKo": "제뱌찌 협회"
+  },
+  "DIECI": {
+    "name": "Dieci Association",
+    "nameKo": "디에치 협회"
+  },
+  "DUAL_HOOK_PIRATE": {
+    "name": "Twinhook Pirates",
+    "nameKo": "쌍갈고리 해적단"
+  },
+  "FAMILY_GA": {
+    "name": "Jia Family",
+    "nameKo": "가씨 가문"
+  },
+  "FANG_HUNT": {
+    "name": "Fanghunt Office",
+    "nameKo": "송곳니 사냥 사무소"
+  },
+  "FIREPUNCH_OFFICE": {
+    "name": "Firefist Office",
+    "nameKo": "불주먹 사무소"
+  },
+  "FULL_STOP": {
+    "name": "Full-Stop Office",
+    "nameKo": "마침표 사무소"
+  },
+  "G_CORP": {
+    "name": "G Corp.",
+    "nameKo": "G사"
+  },
+  "HOOK_OFFICE": {
+    "name": "Hook Office",
+    "nameKo": "갈고리 사무소"
+  },
+  "H_CORP": {
+    "name": "H Corp.",
+    "nameKo": "H사"
+  },
+  "INDEX_FINGER": {
+    "name": "The Index",
+    "nameKo": "검지"
+  },
+  "JEONG_OFFICE": {
+    "name": "Jeong's Office",
+    "nameKo": "정사무소"
+  },
+  "KONG_KONG": {
+    "name": "Tingtang Gang",
+    "nameKo": "콩콩이파"
+  },
+  "K_CORP": {
+    "name": "K Corp.",
+    "nameKo": "K사"
+  },
+  "LA_MANCHA_LAND": {
+    "name": "La Manchaland",
+    "nameKo": "라만차랜드"
+  },
+  "LIMBUS_COMPANY": {
+    "name": "Limbus Company",
+    "nameKo": "림버스 컴퍼니"
+  },
+  "LIMBUS_COMPANY_LCA": {
+    "name": "LCA"
+  },
+  "LIMBUS_COMPANY_LCB": {
+    "name": "LCB"
+  },
+  "LIMBUS_COMPANY_LCC": {
+    "name": "LCC"
+  },
+  "LIMBUS_COMPANY_LCD": {
+    "name": "LCD"
+  },
+  "LIMBUS_COMPANY_LCE": {
+    "name": "LCE"
+  },
+  "LINTON": {
+    "name": "Edgar Family",
+    "nameKo": "에드가 가문"
+  },
+  "LITTLE_FINGER": {
+    "name": "The Pinky",
+    "nameKo": "소지"
+  },
+  "LIU": {
+    "name": "Liu Association",
+    "nameKo": "리우 협회"
+  },
+  "L_CORP": {
+    "name": "Lobotomy Corp.",
+    "nameKo": "로보토미 사"
+  },
+  "MARIACHI": {
+    "name": "Los Mariachis",
+    "nameKo": "마리아치"
+  },
+  "MIDDLE_FINGER": {
+    "name": "The Middle",
+    "nameKo": "중지"
+  },
+  "MOLAR": {
+    "name": "Molar Office",
+    "nameKo": "어금니 사무소"
+  },
+  "MULTI_CRACK": {
+    "name": "MultiCrack Office",
+    "nameKo": "멀티크랙 사무소"
+  },
+  "NIGHTSTILETTO": {
+    "name": "Night Awls",
+    "nameKo": "밤의 송곳"
+  },
+  "N_CORP": {
+    "name": "N Corp.",
+    "nameKo": "N사"
+  },
+  "N_CORP_FNATIC": {
+    "name": "N Corp. Fanatic",
+    "nameKo": "N사 광신도"
+  },
+  "OUFI": {
+    "name": "Öufi Association",
+    "nameKo": "외우피 협회"
+  },
+  "OUFI_COOP": {
+    "name": "Associate Office - Öufi",
+    "nameKo": "협력 사무소 - 외우피"
+  },
+  "PEQUOD_CREW": {
+    "name": "The Pequod",
+    "nameKo": "피쿼드호"
+  },
+  "RING_FINGER": {
+    "name": "The Ring",
+    "nameKo": "약지"
+  },
+  "RING_FINGER_FAUVISM": {
+    "name": "School of Fauvism",
+    "nameKo": "야수파"
+  },
+  "RING_FINGER_PHYSICAL": {
+    "name": "School of Corporism",
+    "nameKo": "신체파"
+  },
+  "RING_FINGER_POINTILLISM": {
+    "name": "School of Pointillism",
+    "nameKo": "점묘파"
+  },
+  "R_CORP": {
+    "name": "R Corp.",
+    "nameKo": "R사"
+  },
+  "SEVEN": {
+    "name": "Seven Association",
+    "nameKo": "세븐 협회"
+  },
+  "SHI": {
+    "name": "Shi Association",
+    "nameKo": "시 협회"
+  },
+  "SPIDER_HOUSE": {
+    "name": "The House of Spiders",
+    "nameKo": "거미집"
+  },
+  "S_CORP": {
+    "name": "S Corp.",
+    "nameKo": "S사"
+  },
+  "THUMB_FINGER": {
+    "name": "The Thumb",
+    "nameKo": "엄지"
+  },
+  "TROUBLE_SHOOTER": {
+    "name": "Rosespanner Workshop",
+    "nameKo": "장미스패너 공방"
+  },
+  "T_CORP": {
+    "name": "T Corp.",
+    "nameKo": "T사"
+  },
+  "WILD_HUNT": {
+    "name": "The Wild Hunt",
+    "nameKo": "와일드헌트"
+  },
+  "WUTHERING_HEIGHTS": {
+    "name": "Wuthering Heights",
+    "nameKo": "워더링하이츠"
+  },
+  "W_CORP": {
+    "name": "W Corp.",
+    "nameKo": "W사"
+  },
+  "YURODIVY": {
+    "name": "Yurodiviye",
+    "nameKo": "유로지비"
+  },
+  "ZWEI": {
+    "name": "Zwei Association",
+    "nameKo": "츠바이 협회"
+  }
+}

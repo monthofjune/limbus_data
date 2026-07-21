@@ -1,6 +1,6 @@
 {
-  "revision": 1,
-  "source": "E:\\jngl\\library\\LetheLauncher-Distribution-7\\BepInEx\\plugins\\Lethe\\dumpedData",
+  "revision": 3,
+  "source": "E:\\jngl\\projects\\reflections_dump\\dumped",
   "counts": {
     "identities": 183,
     "egos": 110,
