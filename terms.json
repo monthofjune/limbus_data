@@ -551,6 +551,10 @@
     "name": "Flower-burying Wedge [埋花櫼]",
     "nameKo": "매화첨[埋花櫼]"
   },
+  "DriftingDimensionYisang": {
+    "name": "Dimensional Castaway",
+    "nameKo": "차원 표류"
+  },
   "DuelCounter": {
     "name": "[Clashable Counter]",
     "nameKo": "[합 가능 반격]"
@@ -698,6 +702,10 @@
   "ForwardToTheKing": {
     "name": "Before the King",
     "nameKo": "왕의 앞으로"
+  },
+  "FourDimensionYisang": {
+    "name": "Quadricolor Dimensions",
+    "nameKo": "사색 차원"
   },
   "FreischutzShotCount": {
     "name": "Magic Bullet",

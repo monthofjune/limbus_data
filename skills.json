@@ -2925,6 +2925,243 @@
       }
     ]
   },
+  "1011601": {
+    "id": 1011601,
+    "sin": "pride",
+    "attackType": "slash",
+    "defType": "attack",
+    "skillTier": 1,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Dimensional Slice",
+        "nameKo": "차원 베기",
+        "desc": "[WhenUse] Consume 2 [Charge] Count to gain Coin Power +1",
+        "descKo": "[WhenUse] 자신의 [Charge] 횟수를 2 소모하여, 코인 위력 +1",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +6 [Charge] Count (once per Skill)",
+            "[OnSucceedAttack] Inflict 1 [Burst]",
+            "[OnSucceedAttack] Consume 1 [DriftingDimensionYisang] to Reuse this Coin (once per Skill)"
+          ]
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Dimensional Slice",
+        "nameKo": "차원 베기",
+        "desc": "[WhenUse] Consume 2 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+        "descKo": "[WhenUse] 자신의 [Charge] 횟수를 2 소모하여, 코인 위력 +1<style=\"highlight\"></style>",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +6 [Charge] Count (once per Skill)<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]",
+            "[OnSucceedAttack] Consume 1 [DriftingDimensionYisang] to Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+          ]
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Dimensional Slice",
+        "nameKo": "차원 베기",
+        "desc": "<style=\"highlight\">[WhenUse] Final Power +1 for every 6 ([Charge] Count on self + [Burst] and [DimensionRift] on target) (max 3)</style>\n[WhenUse] Consume 2 [Charge] Count to gain Coin Power +1",
+        "descKo": "<style=\"highlight\">[WhenUse] 자신의 [Charge] 횟수와 대상의 [Burst], [DimensionRift]의 합 6당 최종 위력 +1 (최대 3)</style>\n[WhenUse] 자신의 [Charge] 횟수를 2 소모하여, 코인 위력 +1",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +6 [Charge] Count (once per Skill)<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Consume 1 [DriftingDimensionYisang] to Reuse this Coin (once per Skill)<style=\"highlight\"></style>"
+          ]
+        ]
+      }
+    ]
+  },
+  "1011602": {
+    "id": 1011602,
+    "sin": "gluttony",
+    "attackType": "slash",
+    "defType": "attack",
+    "skillTier": 2,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Consecutive Dimensional Slice",
+        "nameKo": "연속 차원 베기",
+        "desc": "[WhenUse] Consume 5 [Charge] Count to gain Final Power +2",
+        "descKo": "[WhenUse] 자신의 [Charge] 횟수를 5 소모하여, 최종 위력 +2",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +6 [Charge] Count",
+            "[OnSucceedAttack] Inflict 1 [Burst]"
+          ],
+          [
+            "[OnSucceedAttack] Inflict 2 [Burst]",
+            "[OnSucceedAttack] Inflict 1 [DimensionRift]",
+            "[OnSucceedAttack] Deal Slash damage equal to ([Charge] Potency on self x 4)% of this Coin's final damage (max 20%)"
+          ]
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Consecutive Dimensional Slice",
+        "nameKo": "연속 차원 베기",
+        "desc": "[WhenUse] Consume 5 [Charge] Count to gain Final Power +2\n<style=\"highlight\">[WhenUse] At 3+ [Charge] Potency, Coin Power +1</style>",
+        "descKo": "[WhenUse] 자신의 [Charge] 횟수를 5 소모하여, 최종 위력 +2\n<style=\"highlight\">[WhenUse] 자신의 [Charge]이 3 이상이면, 코인 위력 +1</style>",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +6 [Charge] Count<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+          ],
+          [
+            "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 1 [DimensionRift]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Deal Slash damage equal to ([Charge] Potency on self x 4)% of this Coin's final damage (max 20%)<style=\"highlight\"></style>"
+          ]
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Consecutive Dimensional Slice",
+        "nameKo": "연속 차원 베기",
+        "desc": "<style=\"highlight\">[WhenUse] Final Power +1 for every 6 ([Burst] + [DimensionRift]) on target (max 3)</style>\n[WhenUse] Consume 5 [Charge] Count to gain Final Power +2\n[WhenUse] At 3+ [Charge] Potency, Coin Power +1",
+        "descKo": "<style=\"highlight\">[WhenUse] 대상의 [Burst], [DimensionRift]의 합 6당 최종 위력 +1 (최대 3)</style>\n[WhenUse] 자신의 [Charge] 횟수를 5 소모하여, 최종 위력 +2\n[WhenUse] 자신의 [Charge] 위력이 3 이상이면, 코인 위력 +1",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +6 [Charge] Count<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+          ],
+          [
+            "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 1 [DimensionRift]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Deal Slash damage equal to ([Charge] Potency on self x 4)% of this Coin's final damage (max 20%)<style=\"highlight\"></style>"
+          ]
+        ]
+      }
+    ]
+  },
+  "1011603": {
+    "id": 1011603,
+    "sin": "envy",
+    "attackType": "slash",
+    "defType": "attack",
+    "skillTier": 3,
+    "levels": [
+      {
+        "level": 3,
+        "name": "Rip Space",
+        "nameKo": "공간 절단",
+        "desc": "[BeforeUse] At 15+ [Charge] Count, activate \"Four-dimensional Refraction Time Series Severance\" instead\n[WhenUse] At 7~14 [Charge] Count:\n - Consume all [Charge] Count and gain Coin Power +1 for every 7 [Charge] Count consumed (max 2)\n\n[WhenUse] Gain 1 [DriftingDimensionYisang] and 1 [FourDimensionYisang]",
+        "descKo": "[BeforeUse] 자신의 [Charge] 횟수가 15 이상이면, ‘사차각 왜곡 시계열 절단’으로 발동\n[WhenUse] 자신의 [Charge] 횟수가 7 이상, 15 미만이면,\n- [Charge] 횟수를 전부 소모하고, 소모한 [Charge] 횟수 7당 코인 위력 +1 (최대 2)\n\n[WhenUse] [DriftingDimensionYisang] 1, [FourDimensionYisang] 1 얻음",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +1 [Charge] Count",
+            "[OnSucceedAttack] Inflict 1 [Burst]"
+          ],
+          [
+            "[OnSucceedAttack] Gain +1 [Charge] Count",
+            "[OnSucceedAttack] Inflict 1 [Burst]"
+          ],
+          [
+            "[OnSucceedAttack] Inflict 1 [Burst]",
+            "[OnSucceedAttack] Inflict 2 [DimensionRift]",
+            "[OnSucceedAttack] Deal Slash damage equal to ([Charge] Potency on self x 4)% of this Coin's final damage (max 20%)"
+          ]
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Rip Space",
+        "nameKo": "공간 절단",
+        "desc": "[BeforeUse] At 15+ [Charge] Count, activate \"Four-dimensional Refraction Time Series Severance\" instead\n[WhenUse] At 7~14 [Charge] Count:\n - Consume all [Charge] Count and gain Coin Power +1 for every 7 [Charge] Count consumed (max 2)\n\n<style=\"highlight\">[WhenUse] Final Power +1 for every 6 ([Burst] + [DimensionRift]) on target (max 4)</style>\n[WhenUse] Gain 1 [DriftingDimensionYisang] and 1 [FourDimensionYisang]",
+        "descKo": "[BeforeUse] 자신의 [Charge] 횟수가 15 이상이면, ‘사차각 왜곡 시계열 절단’으로 발동\n[WhenUse] 자신의 [Charge] 횟수가 7 이상, 15 미만이면,\n- [Charge] 횟수를 전부 소모하고, 소모한 [Charge] 횟수 7당 코인 위력 +1 (최대 2)\n\n<style=\"highlight\">[WhenUse] 대상의 [Burst], [DimensionRift]의 합 6당 최종 위력 +1 (최대 4)</style>\n[WhenUse] [DriftingDimensionYisang] 1, [FourDimensionYisang] 1 얻음",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain +1 [Charge] Count<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+          ],
+          [
+            "[OnSucceedAttack] Gain +1 [Charge] Count<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+          ],
+          [
+            "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Inflict 2 [DimensionRift]<style=\"highlight\"></style>",
+            "[OnSucceedAttack] Deal Slash damage equal to ([Charge] Potency on self x 4)% of this Coin's final damage (max 20%)<style=\"highlight\"></style>"
+          ]
+        ]
+      }
+    ]
+  },
+  "1011604": {
+    "id": 1011604,
+    "sin": "envy",
+    "sinFrom": 4,
+    "attackType": null,
+    "defType": "evade",
+    "skillTier": 1,
+    "levels": [
+      {
+        "level": 1,
+        "name": "Sidestep",
+        "nameKo": "회피",
+        "desc": "[StartBattle] Gain 1 [DriftingDimensionYisang] and 1 [FourDimensionYisang] (once per turn)\n - At 3+ [Charge] Potency, gain 1 additional Stack of the above effects\n\n[StartBattle] At fewer than 7 [Charge] Count, consume (7 - [Charge] Count on self)% HP to gain up to 7 [Charge] Count (this unit's HP cannot drop to 0 due to this effect; rounded down)\n\n[StartBattle] At more than 15 [Charge] Count, consume up to 10 surplus [Charge] Count and apply the following effects:\n - Heal ([Charge] Count consumed)% HP\n - Gain ([Charge] Count consumed / 3) [Agility] next turn (rounded down)",
+        "descKo": "[StartBattle] [DriftingDimensionYisang] 1, [FourDimensionYisang] 1 얻음 (턴당 1회)\n- 자신의 [Charge] 위력이 3 이상이면 추가로 1 얻음\n\n[StartBattle] 자신의 [Charge] 횟수가 7 미만이면, 최대 체력의 (부족한 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수를 7까지 얻음. (이 피해로 체력이 0이 되지 않음, 소수점 버림)\n\n[StartBattle] 자신의 [Charge] 횟수가 15를 초과하면, 초과하는 [Charge] 횟수를 최대 10 소모하고, 아래 효과 적용\n- (소모값)%만큼 체력 회복\n- (소모값 / 3)만큼 다음 턴에 [Agility] 얻음 (소수점 버림)",
+        "coins": [
+          []
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Sidestep",
+        "nameKo": "회피",
+        "desc": "<style=\"highlight\">[StartBattle] Gain [ChargeForceField] equal to [Charge] Potency on self (once per turn; max 5)</style>\n[StartBattle] Gain 1 [DriftingDimensionYisang] and 1 [FourDimensionYisang] (once per turn)\n - At 3+ [Charge] Potency, gain 1 additional Stack of the above effects\n\n[StartBattle] At fewer than 7 [Charge] Count, consume (7 - [Charge] Count on self)% HP to gain up to 7 [Charge] Count (this unit's HP cannot drop to 0 due to this effect; rounded down)\n\n[StartBattle] At more than 15 [Charge] Count, consume up to 10 surplus [Charge] Count and apply the following effects:\n - Heal ([Charge] Count consumed)% HP\n - Gain ([Charge] Count consumed / 3) [Agility] next turn (rounded down)",
+        "descKo": "<style=\"highlight\">[StartBattle] 자신의 [Charge] 위력만큼 [ChargeForceField] 얻음 (턴당 1회. 최대 5)</style>\n[StartBattle] [DriftingDimensionYisang] 1, [FourDimensionYisang] 1 얻음 (턴당 1회)\n- 자신의 [Charge] 위력이 3 이상이면 추가로 1 얻음\n\n[StartBattle] 자신의 [Charge] 횟수가 7 미만이면, 최대 체력의 (부족한 [Charge] 횟수)%만큼 체력을 소모하여 [Charge] 횟수를 7까지 얻음. (이 피해로 체력이 0이 되지 않음, 소수점 버림)\n\n[StartBattle] 자신의 [Charge] 횟수가 15를 초과하면, 초과하는 [Charge] 횟수를 최대 10 소모하고, 아래 효과 적용\n- (소모값)%만큼 체력 회복\n- (소모값 / 3)만큼 다음 턴에 [Agility] 얻음 (소수점 버림)",
+        "coins": [
+          []
+        ]
+      }
+    ]
+  },
+  "1011605": {
+    "id": 1011605,
+    "sin": "envy",
+    "attackType": "slash",
+    "defType": "attack",
+    "skillTier": 3,
+    "levels": [
+      {
+        "level": 3,
+        "name": "Four-dimensional Refraction Time Series Severance",
+        "nameKo": "사차각 왜곡 시계열 절단",
+        "desc": "[WideAreaRampage]\n[WhenUse] Final Power +1 for every 6 ([Burst] + [DimensionRift]) on the main target (max 3)\n[WhenUse] Gain 1 [DriftingDimensionYisang] and 1 [FourDimensionYisang]\n[WhenUse] Consume 15 [Charge] Count to gain Final Power +1 and Coin Power +2",
+        "descKo": "[WideAreaRampage]\n[WhenUse] 메인 타겟의 [Burst], [DimensionRift]의 합 6당 최종 위력 +1 (최대 3)\n[WhenUse] [DriftingDimensionYisang] 1, [FourDimensionYisang] 1 얻음\n[WhenUse] 자신의 [Charge] 횟수를 15 소모하여, 최종 위력 +1, 코인 위력 +2",
+        "coins": [
+          [
+            "[OnSucceedAttack] Gain 1 [FourDimensionYisang]",
+            "[OnSucceedAttack] Inflict 1 [Burst]",
+            "[OnSucceedAttack] Deal Slash damage equal to 5% of this Coin's final damage to all targets"
+          ],
+          [
+            "[OnSucceedAttack] Gain 1 [FourDimensionYisang]",
+            "[OnSucceedAttack] Inflict 1 [Burst]",
+            "[OnSucceedAttack] Deal Slash damage equal to 5% of this Coin's final damage to all targets"
+          ],
+          [
+            "[OnSucceedAttack] Gain 1 [FourDimensionYisang]",
+            "[OnSucceedAttack] Inflict 1 [Burst]",
+            "[OnSucceedAttack] Deal Slash damage equal to 5% of this Coin's final damage to all targets"
+          ],
+          [
+            "[OnSucceedAttack] Gain +1 [Charge] Count",
+            "[OnSucceedAttack] Inflict 2 [Burst]",
+            "[OnSucceedAttack] Inflict 2 [DimensionRift]",
+            "[OnSucceedAttack] Deal Slash damage equal to 5% of this Coin's final damage to all targets",
+            "[OnSucceedAttack] At 5+ [Charge] Potency, Reuse this Coin (once per Skill)"
+          ]
+        ]
+      }
+    ]
+  },
   "1020101": {
     "id": 1020101,
     "sin": "pride",
@@ -39313,7 +39550,7 @@
             "[OnSucceedAttack] Inflict 5 [Vibration]<style=\"highlight\"></style>",
             "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>",
             "[OnSucceedAttack] Deal Gloom damage equal to the sum of both [SinkingWhite] on target<style=\"highlight\"></style>",
-            "<style=\"highlight\">[OnSucceedAttack] Deal Gloom damage equal to [Sinking] on target</style>t"
+            "<style=\"highlight\">[OnSucceedAttack] Deal Gloom damage equal to [Sinking] on target</style>"
           ]
         ]
       }
@@ -46059,6 +46296,20 @@
             "[OnSucceedAttack] Inflict 3 Wrath Fragility next turn"
           ]
         ]
+      },
+      {
+        "level": 5,
+        "name": "4th Match Flame",
+        "nameKo": "4번째 성냥불",
+        "desc": "<style=\"highlight\">Deal +5% damage for every highest Reson. (max 30%)\n[EndSkill] Gain 1 [CrimsonResultUp] and 1 [CrimsonDamageUp] next turn</style>",
+        "descKo": "<style=\"highlight\">최대 공명 수 1당, 피해량 +5% (최대 30%)\n[EndSkill] 다음 턴에 [CrimsonResultUp] 1, [CrimsonDamageUp] 1 얻음</style>",
+        "coins": [
+          [
+            "<style=\"highlight\">[SuperCoin]</style>",
+            "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack]</style> Inflict 6 [Combustion]",
+            "[OnSucceedAttack] Inflict 3 [CrimsonTakeDamageUp] next turn<style=\"highlight\"></style>"
+          ]
+        ]
       }
     ]
   },
@@ -46091,6 +46342,20 @@
           [
             "[OnSucceedAttack] Inflict 6 [Combustion]",
             "[OnSucceedAttack] Inflict 3 Wrath Fragility next turn"
+          ]
+        ]
+      },
+      {
+        "level": 5,
+        "name": "4th Match Flame",
+        "nameKo": "4번째 성냥불",
+        "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">Deal +5% damage for every highest Reson. (max 30%)\n[DefeatDuel] Base Power -18\n[EndSkill] Gain 2 [CrimsonResultUp] and 1 [CrimsonDamageUp] next turn</style>",
+        "descKo": "[CantIdentify]\n무작위 대상 공격\n<style=\"highlight\">최대 공명 수 1당, 피해량 +5% (최대 30%)\n[DefeatDuel] 기본 위력 -18\n[EndSkill] 다음 턴에 [CrimsonResultUp] 2, [CrimsonDamageUp] 1 얻음</style>",
+        "coins": [
+          [
+            "<style=\"highlight\">[SuperCoin]</style>",
+            "[OnSucceedAttack] Inflict <style=\"highlight\">10</style> [Combustion]",
+            "[OnSucceedAttack] Inflict 3 [CrimsonTakeDamageUp] next turn<style=\"highlight\"></style>"
           ]
         ]
       }

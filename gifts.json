@@ -105,6 +105,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "wrath"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -281,6 +291,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "wrath"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -369,6 +388,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "wrath"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -541,6 +569,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "lust"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -715,6 +753,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "lust"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -801,6 +848,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "lust"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -988,6 +1045,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "sloth"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -1162,6 +1228,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "sloth"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -1250,6 +1325,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "sloth"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -1338,6 +1422,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gluttony"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -1422,6 +1515,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gluttony"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -1609,6 +1712,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gluttony"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -1966,6 +2078,15 @@
       9171
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2138,6 +2259,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2226,6 +2356,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "pride"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2316,6 +2455,15 @@
       9216
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "pride"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2499,6 +2647,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "pride"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2583,6 +2741,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "pride"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2669,6 +2836,15 @@
       9092
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2762,6 +2938,13 @@
           ],
           "absolute": true
         }
+      ],
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
       ]
     },
     "packs": [
@@ -2850,6 +3033,15 @@
       9094
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -2938,6 +3130,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -3554,6 +3755,17 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom",
+            "wrath"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -3818,6 +4030,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "wrath"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -4160,6 +4381,15 @@
       9162
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "lust"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -4853,6 +5083,15 @@
       9098
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gluttony"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -5130,6 +5369,15 @@
       9096
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gluttony"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -5289,6 +5537,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -5375,6 +5633,16 @@
       9184
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -5462,6 +5730,16 @@
       9179
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -6027,6 +6305,16 @@
       9100
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "pride"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -6276,6 +6564,16 @@
       9184
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -6366,6 +6664,15 @@
       9180
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -6452,6 +6759,15 @@
       9096
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1001,
       1002,
@@ -9358,6 +9674,16 @@
     ],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [],
     "uniquePacks": []
   },
@@ -9515,6 +9841,13 @@
             "wrath"
           ],
           "count": 4
+        }
+      ],
+      "sinAffinity": [
+        {
+          "sins": [
+            "wrath"
+          ]
         }
       ]
     },
@@ -9934,6 +10267,15 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1024
     ],
@@ -10671,6 +11013,15 @@
       9264
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ]
+        }
+      ]
+    },
     "packs": [
       1126
     ],
@@ -11787,6 +12138,13 @@
       "slots": [
         1,
         2
+      ],
+      "sinAffinity": [
+        {
+          "sins": [
+            "pride"
+          ]
+        }
       ]
     },
     "packs": [
@@ -12426,6 +12784,16 @@
       9180
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "lust"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1016,
       1017,
@@ -12477,6 +12845,16 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1016,
       1017,
@@ -13598,6 +13976,14 @@
       "slots": [
         5,
         6
+      ],
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ],
+          "attackSkill": true
+        }
       ]
     },
     "packs": [
@@ -14006,6 +14392,17 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "lust",
+            "gluttony"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1002
     ],
@@ -14143,6 +14540,17 @@
     "combinesFrom": [],
     "fusesInto": [],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "wrath",
+            "lust"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [
       1007
     ],
@@ -15144,6 +15552,15 @@
       9841
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "envy"
+          ]
+        }
+      ]
+    },
     "packs": [
       1106,
       1123
@@ -15496,7 +15913,7 @@
     "tier": "4",
     "sin": "pride",
     "cost": 381,
-    "desc": "If an enemy has 1.5 or lower Slash Resist., Slash Resist. +0.3\nSlash Skills gain Offense Level +2\nWhen attacking enemies that are Weak (greater than 1.0 Resist.; Staggered states do not count) to Slash, deal +(5 + (target's Slash Resist. x 10))% damage (max 25%)\n\nSlash Skills deal +1.5% damage for every [Breath] (max 30%)\n\nCount 1 non-Blade Lineage S Corp. Identity with the earliest Deployment order as a Blade Lineage Identity and apply [BongukGiftEnhance] on it every turn\n\nTurn Start: Activates when there are 3 or more Blade Lineage Identities (only counts Identities on the field at Encounter Start)\n- Combat Start: Apply 1 [BongukGiftEnhance] on allied Blade Lineage Identities that have equipped Wrath or Pride Skills",
+    "desc": "If an enemy has 1.5 or lower Slash Resist., Slash Resist. +0.3\nSlash Skills gain Offense Level +2\nWhen attacking enemies that are Weak (greater than 1.0 Resist.; Staggered states do not count) to Slash, deal +(5 + (target's Slash Resist. x 10))% damage (max 25%)\n\nSlash Skills deal +1.5% damage for every [Breath] (max 30%)\n\nCount 1 non-Blade Lineage S Corp. Identity with the earliest Deployment order as a Blade Lineage Identity and apply [BongukGiftEnhance] on it every turn\n\nTurn Start: Activates when there are 3 or more Blade Lineage Identities (only counts Identities on the field)\n- Combat Start: Apply 1 [BongukGiftEnhance] on allied Blade Lineage Identities that have equipped Wrath or Pride Skills",
     "descKo": "적의 참격 내성이 1.5 이하인 경우, 참격 내성 +0.3\n참격 스킬 공격 레벨 +2\n참격 내성이 약점(내성 1.0 초과, 흐트러짐 제외)인 적 공격 시, 참격 피해량 +(5+대상의 참격 내성 x10)% (최대 25%).\n\n[Breath] 1당, 참격 스킬의 피해량 +1.5% (최대 30%)\n\n검계 소속 인격을 제외한 편성 순서가 가장 빠른 S사 소속 인격 1인을 검계 소속으로 취급하고, 매 턴 [BongukGiftEnhance] 부여\n\n턴 시작시, 검계 소속 인격이 3인 이상일 때 발동 (출격 인원을 기준으로 함)\n- 전투 시작 시 분노, 오만 스킬을 장착한 검계 소속 아군 인격에게 [BongukGiftEnhance] 1 부여",
     "combinesFrom": [
       [
@@ -15915,6 +16332,16 @@
       9098
     ],
     "hardOnly": false,
+    "requires": {
+      "sinAffinity": [
+        {
+          "sins": [
+            "gloom"
+          ],
+          "attackSkill": true
+        }
+      ]
+    },
     "packs": [],
     "uniquePacks": []
   },
@@ -18939,8 +19366,8 @@
     "tier": "4",
     "sin": "envy",
     "cost": 401,
-    "desc": "After using a Skill that gains [Charge] Count or <noparse>Unique Charge</noparse>, gain [EmergencyChargeForceField] equal to Count gained (max 7 per Identity)\n\nSkills that consume [Charge] Count or <noparse>Unique Charge</noparse> deal +(number of Identities in the Team with Skills that gain or consume [Charge] Count or <noparse>Unique Charge</noparse>)% damage (counts all units in the Team)\n\nSkills that consume [Charge] Count or <noparse>Unique Charge</noparse> gain Clash Power +3 and deal +15% damage\n- When using said Skills, the unit gains +4 [Charge] Count and 1 [ChargeForceField] (once per Identity per turn)\n\nW Corp. Identities gain the following effects:\n- When dealing damage with a Skill(including E.G.O Skills), inflict 2 [TakeHpHealReduce] (cannot Stack)\n- During the combat phase, when this unit takes HP damage from sources other than direct Skill damage, gain 5 [ChargeForceField] (once per turn per Identity)\n- Skill 2 gains Clash Power +3 and deals +15% damage\n- Turn Start: for this turn, Skill 3 deals +(number of W Corp. Identities on the field x 6.25)% damage\n- Turn Start: W Corp. L2 Agents gain 1 [PlusCoinValueUp]\n- Turn Start: gain (number of W Corp. Identities on the field / 3) [ChargeLoad] (max 2; rounded down)",
-    "descKo": "[Charge] 횟수 또는 특수 충전을 획득하는 스킬 사용 종료 시, 획득한 수치만큼 [EmergencyChargeForceField] 얻음 (인격당 최대 7)\n\n[Charge] 횟수 또는 특수 충전을 소모하는 스킬의 피해량 +([Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유한 인격이 편성된 수)% (편성 인원 포함)\n\n[Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬 1의 합 위력 +3, 피해량 +15%\n- 해당 스킬 사용 시, [Charge] 횟수 4, [ChargeForceField] 1 얻음 (인격당 턴당 1회)\n\nW사 소속 인격이면, 아래의 효과 적용\n- 스킬(E.G.O 스킬 포함)로 적에게 피해를 입혔다면, [TakeHpHealReduce] 2 부여 (중첩 불가)\n- 전투 중 스킬의 직접적인 피해를 제외한 효과에 의해 체력 피해를 입었다면, [ChargeForceField] 5 얻음 (인격당 턴당 1회)\n- 스킬 2의 합 위력 +3, 피해량 +15%\n- 턴 시작 시, 이번 턴 동안 스킬 3의 피해량 +(전투에 참여한 W사 소속 인격 수 x 6.25)%\n- 턴 시작 시, W사 2등급 직원에게 [PlusCoinValueUp] 1 부여\n- 턴 시작 시, [ChargeLoad]를 (전투에 참여한 W사 소속 인격 수/3)만큼 얻음 (최대 2. 소수점 내림)",
+    "desc": "After using a Skill that gains [Charge] Count or <noparse>Unique Charge</noparse>, gain [EmergencyChargeForceField] equal to Count gained (max 7 per Identity)\n\nSkills that consume [Charge] Count or <noparse>Unique Charge</noparse> deal +(number of Identities in the Team with Skills that gain or consume [Charge] Count or <noparse>Unique Charge</noparse>)% damage (counts all units in the Team)\n\nSkills that consume [Charge] Count or <noparse>Unique Charge</noparse> gain Clash Power +3 and deal +15% damage\n- When using said Skills, the unit gains +4 [Charge] Count and 1 [ChargeForceField] (once per Identity per turn)\n\nW Corp. Identities gain the following effects:\n- When dealing damage with a Skill(including E.G.O Skills), inflict 2 [TakeHpHealReduce] (cannot Stack)\n- During the combat phase, when this unit takes HP damage from sources other than direct Skill damage, gain 5 [ChargeForceField] (once per turn per Identity)\n- Skill 2 gains Clash Power +3 and deals +15% damage\n- Turn Start: for this turn, Skill 3 deals +(number of W Corp. Identities on the field x 6.25)% damage\n- Turn Start: W Corp. L2 Agents gain 1 [PlusCoinValueUp]\n- Turn Start: gain (number of W Corp. Identities on the field / 3) [ChargeLoad] (max 2; rounded down)\n\nAmong Identities that inflict [DimensionRift] using Base Skills, count 1 non-W Corp. Identity with the earliest Deployment order as a W Corp. Identity",
+    "descKo": "[Charge] 횟수 또는 특수 충전을 획득하는 스킬 사용 종료 시, 획득한 수치만큼 [EmergencyChargeForceField] 얻음 (인격당 최대 7)\n\n[Charge] 횟수 또는 특수 충전을 소모하는 스킬의 피해량 +([Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬을 보유한 인격이 편성된 수)% (편성 인원 포함)\n\n[Charge] 횟수 또는 특수 충전을 획득하거나 소모하는 스킬 1의 합 위력 +3, 피해량 +15%\n- 해당 스킬 사용 시, [Charge] 횟수 4, [ChargeForceField] 1 얻음 (인격당 턴당 1회)\n\nW사 소속 인격이면, 아래의 효과 적용\n- 스킬(E.G.O 스킬 포함)로 적에게 피해를 입혔다면, [TakeHpHealReduce] 2 부여 (중첩 불가)\n- 전투 중 스킬의 직접적인 피해를 제외한 효과에 의해 체력 피해를 입었다면, [ChargeForceField] 5 얻음 (인격당 턴당 1회)\n- 스킬 2의 합 위력 +3, 피해량 +15%\n- 턴 시작 시, 이번 턴 동안 스킬 3의 피해량 +(전투에 참여한 W사 소속 인격 수 x 6.25)%\n- 턴 시작 시, W사 2등급 직원에게 [PlusCoinValueUp] 1 부여\n- 턴 시작 시, [ChargeLoad]를 (전투에 참여한 W사 소속 인격 수/3)만큼 얻음 (최대 2. 소수점 내림)\n편성 순서가 가장 빠른 자신의 기본 스킬로 [DimensionRift]을 부여하는 인격 중 W사 소속이 아닌 인격 1인을 W사 소속으로 취급함",
     "combinesFrom": [
       [
         9734,

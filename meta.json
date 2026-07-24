@@ -1,13 +1,13 @@
 {
-  "revision": 3,
+  "revision": 5,
   "source": "dumped",
   "counts": {
-    "identities": 183,
+    "identities": 184,
     "egos": 110,
     "gifts": 441,
     "packs": 117,
-    "skills": 1040,
-    "passives": 705,
+    "skills": 1045,
+    "passives": 709,
     "hardOnlyGifts": 53,
     "combinableGifts": 59
   },
@@ -42,7 +42,7 @@
     ]
   },
   "teamCodeEligible": {
-    "identities": 183,
+    "identities": 184,
     "egos": 110
   },
   "mirrorDungeon": {

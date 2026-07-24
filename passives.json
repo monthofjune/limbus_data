@@ -505,6 +505,34 @@
       "CheckAwakenLevel3"
     ]
   },
+  "1011601": {
+    "id": 1011601,
+    "name": "VelocityAndCoordinatesAndVelocity",
+    "nameKo": "속도와좌표와속도",
+    "desc": "If this unit's Speed is faster than the target's, deal +(Speed difference x [Charge] Potency on self)% damage (max 20%)\n\nTurn End: Gain ([Charge] Potency on self / 2) [Agility] next turn (max 2; rounded down)",
+    "descKo": "자신의 속도가 대상보다 빠르면, (대상과의 속도 차이 x 자신의 [Charge] 위력)%만큼 피해량이 증가 (최대 20%)\n\n턴 종료시, (자신의 [Charge] 위력/2)만큼 다음 턴에 [Agility] 얻음 (최대 2. 소수점 버림)",
+    "cost": [
+      "CheckAwakenLevel2"
+    ]
+  },
+  "1011602": {
+    "id": 1011602,
+    "name": "Open Alley",
+    "nameKo": "뚫린 골목",
+    "desc": "Gain 1 [Charge] Potency every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nWhen another ally's Skill hits an enemy: At Attack End, consume 1 [DriftingDimensionYisang] to activate \"Dimensional Slice\" against the said target; then, gain 1 [FourDimensionYisang]",
+    "descKo": "전투 중 누적으로 자신의 [Charge] 횟수 10을 소모할 때마다 [Charge] 위력 1 얻음\n\n자신을 제외한 아군의 스킬이 적에게 적중하면, 해당 공격 종료시 [DriftingDimensionYisang]을 1 소모하여 대상에게 '차원 베기'를 발동한 후, [FourDimensionYisang] 1 얻음",
+    "cost": null
+  },
+  "1011621": {
+    "id": 1011621,
+    "name": "LetManOutrunEvenTheRayOfLight",
+    "nameKo": "사람은광선보다도빠르게달아나라",
+    "desc": "When 1 ally with the fastest Speed uses a Skill that gains or consumes [Charge] Count, gain 1 [Agility] next turn (once per turn)",
+    "descKo": "속도가 가장 빠른 아군 1명이 [Charge] 횟수를 얻거나 소모하는 스킬 사용시, 다음 턴에 [Agility] 1 얻음 (턴당 1회)",
+    "cost": [
+      "CheckAwakenLevel3"
+    ]
+  },
   "1020101": {
     "id": 1020101,
     "name": "Analytic Eye",
@@ -1022,7 +1050,7 @@
     "name": "Seonbae",
     "nameKo": "선배",
     "desc": "If Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:\n- Dawn Office[TabExplain] Fixer Sinclair gains [DawnFaust]\n- Turn Start: If Dawn Office[TabExplain] Fixer Faust is defeated, convert [DawnFaust] on Dawn Office[TabExplain] Fixer Sinclair into [DawnFaustDying]",
-    "descKo": "새벽 사무소[TabExplain] 해결사 싱클레어가 전장에 있으면, 다음 효과 발동\n- 새벽 사무소[TabExplain] 해결사 싱클레어가 [DawnFaust] 얻음\n- 새벽 사무소[TabExplain] 해결사 파우스트가 사망했으면, 턴 시작 시 새벽 사무소[TabExplain] 해결사 싱클레어가 보유한 [DawnFaust]가 [DawnFaustDying]로 변경됨",
+    "descKo": "새벽 사무소[TabExplain] 해결사 싱클레어가 전장에 있으면, 다음 효과 발동\n- 새벽 사무소[TabExplain] 해결사 싱클레어가 [DawnFaust] 얻음\n- 새벽 사무소[TabExplain] 해결사 파우스트가 사망한 상태면, 턴 시작 시 새벽 사무소[TabExplain] 해결사 싱클레어가 보유한 [DawnFaust]가 [DawnFaustDying]로 변경됨",
     "cost": null
   },
   "1021611": {
@@ -5688,7 +5716,7 @@
     "name": "Dawn Office",
     "nameKo": "새벽 사무소",
     "desc": "Upon entering the Encounter for the first time, if there are 2+ allied Dawn Office[TabExplain] Identities (including this unit) on the field, apply [DawnTeam] Stack on all Dawn Office[TabExplain] Identities equal to the number of Dawn Office[TabExplain] Identities on the field\n\nIf Dawn Office[TabExplain] Fixer Sinclair is on the field, activate the following effects:\n- Dawn Office[TabExplain] Fixer Sinclair gains [DawnGregor]\n- Turn Start: If Dawn Office[TabExplain] Rep Gregor is defeated, convert [DawnGregor] on Dawn Office[TabExplain] Fixer Sinclair into [DawnGregorDying]\n- Turn Start: If Dawn Office[TabExplain] Fixer Sinclair has less than 50% HP, apply [RunSinclair] on that unit (once per Encounter)",
-    "descKo": "스테이지 첫 등장 시, 자신을 포함한 전장에 있는 새벽 사무소[TabExplain] 소속 인격이 2명 이상이면, 모든 새벽 사무소[TabExplain] 소속 인격에게 해당 인원 수만큼 [DawnTeam] 부여\n\n새벽 사무소[TabExplain] 해결사 싱클레어가 전장에 있으면, 다음 효과 발동\n- 새벽 사무소[TabExplain] 해결사 싱클레어가 [DawnGregor] 얻음\n- 새벽 사무소[TabExplain] 대표 그레고르가 사망했으면, 턴 시작 시 새벽 사무소[TabExplain] 해결사 싱클레어가 보유한 [DawnGregor]가 [DawnGregorDying]로 변경됨\n- 턴 시작 시 새벽 사무소[TabExplain] 해결사 싱클레어의 체력이 50% 미만이면, [RunSinclair] 부여 (전투당 1회)",
+    "descKo": "스테이지 첫 등장 시, 자신을 포함한 전장에 있는 새벽 사무소[TabExplain] 소속 인격이 2명 이상이면, 모든 새벽 사무소[TabExplain] 소속 인격에게 해당 인원 수만큼 [DawnTeam] 부여\n\n새벽 사무소[TabExplain] 해결사 싱클레어가 전장에 있으면, 다음 효과 발동\n- 새벽 사무소[TabExplain] 해결사 싱클레어가 [DawnGregor] 얻음\n- 새벽 사무소[TabExplain] 대표 그레고르가 사망한 상태면, 턴 시작 시 새벽 사무소[TabExplain] 해결사 싱클레어가 보유한 [DawnGregor]가 [DawnGregorDying]로 변경됨\n- 턴 시작 시 새벽 사무소[TabExplain] 해결사 싱클레어의 체력이 50% 미만이면, [RunSinclair] 부여 (전투당 1회)",
     "cost": null
   },
   "1121611": {
@@ -6489,6 +6517,16 @@
     "descKo": "[Combustion]이 부여된 적 처치 시 최대 체력의 (분노 완전 공명 수)% 만큼 체력 회복",
     "cost": [
       "CheckAwakenLevelBetween_2_4"
+    ]
+  },
+  "2090212": {
+    "id": 2090212,
+    "name": "Spark of Flame",
+    "nameKo": "불씨",
+    "desc": "<style=\"highlight\">Combat Start: If Wrath A-Reson. was activated, inflict 1 [CrimsonTakeDamageUp] on the main target on Clash Win (once per turn)</style>\n\nAfter defeating an enemy that has [Combustion], heal <style=\"highlight\">(Wrath Reson.)</style>% HP <style=\"highlight\">(max 12%)</style>",
+    "descKo": "<style=\"highlight\">전투 시작 시 분노 완전 공명이 발동했으면, 합 승리 시 메인 타겟에게 [CrimsonTakeDamageUp] 1 부여 (턴당 1회)</style>\n\n[Combustion]이 부여된 적 처치 시 최대 체력의 <style=\"highlight\">(분노 공명 수)</style>% 만큼 체력 회복 <style=\"highlight\">(최대 12%)</style>",
+    "cost": [
+      "CheckAwakenLevel5"
     ]
   },
   "2090311": {

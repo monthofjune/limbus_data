@@ -4588,7 +4588,8 @@
     "corrosionSkill": 2090221,
     "passives": null,
     "awakeningPassives": [
-      2090211
+      2090211,
+      2090212
     ],
     "requirements": [
       {

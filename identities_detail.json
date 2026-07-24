@@ -1677,6 +1677,122 @@
     ],
     "appearance": "10115_YiSang_Index_FatherAppearance"
   },
+  "10116": {
+    "id": 10116,
+    "hp": {
+      "defaultStat": 60,
+      "incrementByLevel": 3.03
+    },
+    "defCorrection": -2,
+    "minSpeed": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "maxSpeed": [
+      5,
+      6,
+      7,
+      7
+    ],
+    "resists": {
+      "slash": 0.5,
+      "pierce": 1,
+      "blunt": 2
+    },
+    "stagger": [
+      70,
+      40,
+      20
+    ],
+    "mentalCondition": {
+      "add": [
+        {
+          "level": 1,
+          "conditionIDList": [
+            {
+              "conditionID": "OnWinDuelAsParryingCountMultiply10AndPlus20Percent"
+            },
+            {
+              "conditionID": "OnKillEnemyAsLevelRatioMultiply10"
+            },
+            {
+              "conditionID": "OnKillEnemyByOtherAllyAsLevelRatioMultiply5"
+            }
+          ]
+        }
+      ],
+      "min": [
+        {
+          "level": 1,
+          "conditionIDList": [
+            {
+              "conditionID": "OnDieAllyAsLevelRatio10"
+            }
+          ]
+        }
+      ]
+    },
+    "attackSkills": [
+      {
+        "slot": 1,
+        "copies": 3,
+        "skillId": 1011601
+      },
+      {
+        "slot": 2,
+        "copies": 2,
+        "skillId": 1011602
+      },
+      {
+        "slot": 3,
+        "copies": 1,
+        "skillId": 1011603
+      },
+      {
+        "slot": 3,
+        "copies": 0,
+        "skillId": 1011605
+      }
+    ],
+    "defenseSkills": [
+      1011604
+    ],
+    "panicSkill": 1000104,
+    "battlePassives": [
+      {
+        "level": 1,
+        "passives": [
+          1011602
+        ]
+      },
+      {
+        "level": 2,
+        "passives": [
+          1011602,
+          1011601
+        ]
+      }
+    ],
+    "supporterPassives": [
+      {
+        "level": 3,
+        "passives": [
+          1011621
+        ]
+      }
+    ],
+    "associations": [
+      "LIMBUS_COMPANY",
+      "LIMBUS_COMPANY_LCE"
+    ],
+    "unitKeywords": [
+      "SMALL",
+      "EGO_EQUIPMENT"
+    ],
+    "appearance": "10116_Yisang_LostPassangerAppearance"
+  },
   "10201": {
     "id": 10201,
     "hp": {
